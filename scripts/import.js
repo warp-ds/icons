@@ -2,30 +2,14 @@
 import slugify from "@sindresorhus/slugify";
 import fs from "fs-extra";
 import glob from "glob";
-import { Window } from 'happy-dom';
 import fetch from "node-fetch";
 import path from "node:path";
 import ora from "ora";
 import prompts from "prompts";
 import { basedir } from "../index.js";
+import { getNameAndSize } from "./util/helpers.js";
 
-const pathRegex = /(?<iconPath>.*)\/icon_(?<size>\d+).svg/
-const getIconName = (path) => path?.substring(path?.lastIndexOf('/') + 1);
-export const getNameAndSize = (filepath) => {
-    const {iconPath, size} = filepath.match(pathRegex).groups;
-    return { name: getIconName(iconPath), size }
-}
 
-export function getSVG(svg) {
-  const el = getElement({ selector: 'svg', htmlString: svg })
-  return { attrs: el.attributes, html: el.innerHTML }
-}
-
-export function getElement({ selector, htmlString }) {
-  const window = new Window()
-  window.document.body.innerHTML = htmlString
-  return window.document.querySelector(selector)
-}
 const existingIcons = glob.sync(path.join(basedir, './src/raw/**/*.svg')).map(getNameAndSize).map(({ name, size }) => size+name)
 
 const downloadedIcons = []

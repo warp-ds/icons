@@ -3,7 +3,7 @@ import glob from "glob";
 import path from "path";
 import nunjucks from "nunjucks";
 import { basedir } from "../index.js";
-import { getNameAndSize } from "../scripts/import.js";
+import { getNameAndSize } from "../scripts/util/helpers.js";
 
 const svgPaths = glob.sync(`./dist/**/*.svg`);
 
