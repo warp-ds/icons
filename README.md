@@ -17,3 +17,18 @@ To update the icons, run the following script. If it has a valid Figma access to
 ```bash
 ./scripts/import.js
 ```
+
+or 
+
+```bash
+pnpm run import
+```
+
+### Local preview
+You can open a local preview of the icons. Use this to verify that the icons looks as they should. Run the following command.
+
+```bash
+pnpm run preview
+```
+
+
