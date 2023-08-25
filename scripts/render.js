@@ -11,7 +11,7 @@ export const iconsBySize = () => {
     const data = fs.readFileSync(svgPath, "utf-8");
     const {size} =  getNameAndSize(svgPath);
     return {
-      name: path.parse(svgPath).name,
+      name: path.basename(path.dirname(svgPath)),
       svg: data,
       iconSize: size,
     };
