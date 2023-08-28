@@ -24,6 +24,7 @@ Beach: Strandparasoll
 Bed: Seng
 Bell: Bjelle
 Bin: Søppeldunk
+Block: Person med fremhevet forbudt skilt
 BoatLength: Båt med piler i begge retninger
 Bolt: Lyn
 Bookmark: Bokmerke
@@ -100,6 +101,7 @@ GraphLine: Linjegraf
 GraphPie: Kakediagram
 Grid: Fire kvadrater som danner et større kvadrat
 Grill: Kulegrill
+HeartRate: Et hjerte med hjerterytme indikator
 Hiking: Skogssti
 History: Roterende pil til venstre med en klokke
 Hotel: Hotell
@@ -211,6 +213,7 @@ Up: Kvadrat med pil opp
 Upload: Pil opp fra harddisk
 User: Person
 Users: To personer
+UserWoman: En kvinne med musefletter
 Van: Bobil
 Verification: Blått skjold med hakemerke
 Wallet: Lommebok
