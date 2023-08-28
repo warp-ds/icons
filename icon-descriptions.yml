@@ -21,7 +21,6 @@ BatteryEmpty: Tomt batteri
 BatteryFull: Fullt batteri
 BatteryHalfFull: Halvfullt batteri
 Beach: Strandparasoll
-Bed: Seng
 Bell: Bjelle
 Bin: Søppeldunk
 Block: Person med fremhevet forbudt skilt
@@ -73,6 +72,7 @@ Discount: Prosenttegn
 Dislike: Tommel ned
 Door: Dør
 Dots: Tre prikker
+DoubleBed: Dobbeltseng
 Download: Pil ned til harddisk
 Drink: Cocktail glass
 Economy: En seddel og to mynter
@@ -105,6 +105,7 @@ HeartRate: Et hjerte med hjerterytme indikator
 Hiking: Skogssti
 History: Roterende pil til venstre med en klokke
 Hotel: Hotell
+HouseBed: Seng med et tak over
 HouseCabin: Hytte
 HouseModern: Funkishus
 HousePerson: Hus med person
@@ -142,10 +143,11 @@ NorwegianMotor: Sirkel med NBF
 PaintRoller: Malingsrulle i aksjon
 Parking: Sirkel med bokstaven P
 Paw: Kattepote
-Phone: Smarttelefon
+PhoneNew: Smarttelefon
 PhoneScratched: Smarttelefon med tre riper
 PhoneUsed: Smarttelefon med tre riper i glasset
-Pin: Kartnål
+PinMarker: Kartnål
+PinRound: Kartnål med en skygge under
 PlaneTicket: Hånd med flybillett
 Play: Sirkel med en trekant som peker til høyre
 Playhouse: Klatrestativ
@@ -178,6 +180,7 @@ Send: Papirfly
 Service: Roterende pil med skiftenøkkel
 Share: Kvadrat med pil ut til høyre
 Shower: Rennende dusjhode
+SmartPhone: Smarttelefon
 SmileyGood: Fornøyd smil
 SmileyHappy: Glad smilefjes
 SmileyNeutral: Uttrykksløst fjes
