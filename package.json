@@ -2,6 +2,7 @@
   "name": "@warp-ds/icons",
   "type": "module",
   "version": "0.0.1",
+  "repository": "git@github.com:warp-ds/icons.git",
   "description": "WARP's icon set",
   "main": "index.js",
   "files": [
@@ -22,13 +23,17 @@
     "import": "node ./scripts/import.js",
     "build": "node ./scripts/build.js",
     "dev": "pnpm build && vite",
+    "build:release": "rimraf dist && pnpm build && pnpm build:vue && pnpm build:react && pnpm build:elements",
     "build:react": "rimraf react && mkdir react && node ./scripts/output/react.js && node ./react.eik.js",
     "build:vue": "rimraf vue && mkdir vue && node ./scripts/output/vue.js && node ./vue.eik.js",
     "build:elements": "rimraf elements && mkdir elements && node ./scripts/output/elements.js && node ./elements.eik.js"
   },
   "license": "Apache-2.0",
   "devDependencies": {
+    "@eik/cli": "^2.0.22",
     "@eik/esbuild-plugin": "^1.1.11",
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
     "@sindresorhus/slugify": "^2.1.0",
     "@warp-ds/uno": "^1.0.0",
     "camelcase": "^8.0.0",
@@ -43,6 +48,7 @@
     "ora": "^7.0.1",
     "prompts": "^2.4.0",
     "rimraf": "^5.0.1",
+    "semantic-release": "^21.1.1",
     "svgo": "^3.0.0",
     "unocss": "^0.55.2",
     "vite": "^4.4.9",
