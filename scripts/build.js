@@ -66,7 +66,6 @@ files.forEach((filePath) => {
     const dataAsHTMLElement = getElement({ selector: 'div', htmlString: `<div>${rawData}</div>` })
     const { name } = getNameAndSize(filePath)
     const title = descriptions[pascalCase(name)]
-    if (title) dataAsHTMLElement.querySelector('svg').prepend(`<title>${title}</title>`)
     const dataWithTitle = dataAsHTMLElement.innerHTML
 
     const prevFileSize = Buffer.byteLength(dataWithTitle, "utf8");
