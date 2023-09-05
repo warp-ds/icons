@@ -35,6 +35,8 @@
     "@eik/esbuild-plugin": "^1.1.11",
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
+    "@lingui/cli": "^4.4.2",
+    "@lingui/conf": "^4.4.2",
     "@sindresorhus/slugify": "^2.1.0",
     "@warp-ds/uno": "^1.0.0",
     "camelcase": "^8.0.0",
