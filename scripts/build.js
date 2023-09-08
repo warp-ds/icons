@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 import { optimize } from "svgo";
-import glob from "glob";
+import { glob } from "glob";
 import chalk from "chalk";
 import path from "path";
 import fs from "fs-extra";

@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 import slugify from "@sindresorhus/slugify";
 import fs from "fs-extra";
-import glob from "glob";
+import { glob } from "glob";
 import fetch from "node-fetch";
 import path from "node:path";
 import ora from "ora";
