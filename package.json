@@ -20,6 +20,7 @@
     "./package.json": "./package.json"
   },
   "scripts": {
+    "commit": "cz",
     "import": "node ./scripts/import.js",
     "build": "node ./scripts/build.js",
     "dev": "pnpm build && vite",
@@ -38,6 +39,7 @@
     "@warp-ds/uno": "^1.0.0",
     "camelcase": "^8.0.0",
     "chalk": "^5.0.1",
+    "cz-conventional-changelog": "^3.3.0",
     "esbuild": "^0.14.42",
     "fs-extra": "^11.1.1",
     "glob": "^10.0.0",
@@ -70,5 +72,10 @@
       "https://assets.finn.no/map/vue/v1",
       "https://assets.finn.no/map/custom-elements/v2"
     ]
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
