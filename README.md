@@ -21,14 +21,14 @@ To update the icons, run the following script. If it has a valid Figma access to
 or 
 
 ```bash
-pnpm run import
+pnpm import
 ```
 
 ### Local preview
 You can open a local preview of the icons. Use this to verify that the icons looks as they should. Run the following command.
 
 ```bash
-pnpm run preview
+pnpm dev
 ```
 
 

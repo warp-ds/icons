@@ -2,3 +2,7 @@
 /dist
 
 .FIGMA_TOKEN
+
+vue/
+react/
+elements/
