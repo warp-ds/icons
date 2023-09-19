@@ -10,7 +10,7 @@ import defaultIconDescriptions from '../default-icon-descriptions.js'
 /**
  * Script to add localization files (.po files and .mjs files).
  * The .mjs files are compiled from the .po files.
- * These .mjs files imported and used in the react, vue and elements icons.
+ * These .mjs files are imported and used in the react, vue and elements icons.
  * 
  */
 const __dirname = getDirname(import.meta.url)
@@ -26,7 +26,7 @@ if (!fs.existsSync(tempDir)) {
 const getIconName = (name) => {
   return name.replace('Icon', '').replace(/\d+/g, '');
 }
-const icons = {}; // [camelCase]: snake_case
+const icons = {}; // [camelCase]: kebab-case
 getSVGs().forEach(({ name, exportName }) => {
   const camelCaseName = getIconName(exportName);
   if (!icons[camelCaseName]) {
@@ -35,12 +35,12 @@ getSVGs().forEach(({ name, exportName }) => {
 });
 
 // Make a file per icon to hold the usage of the text to be translated. Lingui will scan these files.
-Object.entries(icons).forEach(([camelCase, snake_case]) => {
+Object.entries(icons).forEach(([camelCase, kebabCase]) => {
   const iconName = getIconName(camelCase)
   const titleMessage = defaultIconDescriptions[iconName.toLowerCase()];
   const { message, id, comment } = titleMessage || {};
   const content = `import { i18n } from '@lingui/core';\nconst ${iconName} = i18n.t({ message: \`${message}\`, id: '${id}', comment: '${comment}' });`;
-  const outputFilePath = path.join(tempDir, `${snake_case}.js`);
+  const outputFilePath = path.join(tempDir, `${kebabCase}.js`);
   fs.writeFileSync(outputFilePath, content, 'utf-8');
 });
 
