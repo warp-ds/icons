@@ -22,16 +22,18 @@
   "scripts": {
     "commit": "cz",
     "import": "node ./scripts/import.js",
-    "build": "node ./scripts/build.js",
-    "dev": "pnpm build && vite",
-    "build:release": "rimraf dist && pnpm build && pnpm build:vue && pnpm build:react && pnpm build:elements",
+    "build": "node ./scripts/build.js && node ./scripts/i18n.js",
     "i18n": "node ./scripts/i18n.js",
     "i18n:clear": "node scripts/i18n-helpers/clear-locales.js",
+    "i18n:get-sorted-locales": "node scripts/i18n-helpers/sort-locales.js",
+    "dev": "pnpm build && vite",
+    "build:release": "rimraf dist && pnpm build && pnpm build:vue && pnpm build:react && pnpm build:elements",
     "vite:build": "vite build",
     "preview": "pnpm run build && vite build && vite preview",
-    "build:react": "rimraf react && mkdir react && node ./scripts/output/react.js && node ./react.eik.js",
-    "build:vue": "rimraf vue && mkdir vue && node ./scripts/output/vue.js && node ./vue.eik.js",
-    "build:elements": "rimraf elements && mkdir elements && node ./scripts/output/elements.js && node ./elements.eik.js"
+    "build:react": "rimraf react && mkdir react && lingui extract && lingui compile && node ./scripts/output/react.js && node ./react.eik.js",
+    "build:vue": "rimraf vue && mkdir vue && lingui extract && lingui compile && node ./scripts/output/vue.js && node ./vue.eik.js",
+    "build:elements": "rimraf elements && mkdir elements && lingui extract && lingui compile && node ./scripts/output/elements.js && node ./elements.eik.js",
+    "build:all": "lingui extract && lingui compile && rimraf react && mkdir react && rimraf vue && mkdir vue && rimraf elements && mkdir elements && node ./scripts/output/react.js && node ./react.eik.js && node ./scripts/output/vue.js && node ./vue.eik.js && node ./scripts/output/elements.js && node ./elements.eik.js"
   },
   "license": "Apache-2.0",
   "devDependencies": {
