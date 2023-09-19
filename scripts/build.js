@@ -89,6 +89,8 @@ files.forEach((filePath) => {
   }
 });
 
+console.log(`${chalk.cyan('build')}: Wrote ${chalk.yellow(files.length)} icons to dist folder`)
+
 /**
  * Copied from https://github.com/svg/svgo/blob/fdf9236d12b861cee926d7ba3f00284ff7884eab/lib/svgo/coa.js#L512
  */

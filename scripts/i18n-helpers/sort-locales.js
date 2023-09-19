@@ -2,7 +2,7 @@ import fs from 'fs';
 import originalFileContent from '../../default-icon-descriptions.js';
 
 /**
- * Helper script to clean up default icon descriptions
+ * Helper script to clean up and get a sorted default icon descriptions
  */
 
 const cleanedContent = {};
