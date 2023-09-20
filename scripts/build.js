@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 import { optimize } from "svgo";
-import glob from "glob";
+import { glob } from "glob";
 import chalk from "chalk";
 import path from "path";
 import fs from "fs-extra";
@@ -75,14 +75,14 @@ files.forEach((filePath) => {
 
     const optimizedFileSize = Buffer.byteLength(optimizedData, "utf8");
 
+    const iconName = getIconName(filePath);
     const fileName = path.basename(filePath);
-    const iconSize = getIconSize(filePath);
 
     // Only enable when needed, this is too much garbage to be spitting at console - it hides useful messages
-    // console.log(`\n${iconSize}/${fileName}:`);
+    // console.log(`\n${IconName}/${fileName}:`);
     // printProfitInfo(prevFileSize, optimizedFileSize);
 
-    const outputPath = path.join(DIST_DIR, iconSize, fileName);
+    const outputPath = path.join(DIST_DIR, iconName, fileName);
 
     fs.outputFile(outputPath, optimizedData, "utf8");
   } catch (err) {
@@ -107,7 +107,7 @@ function printProfitInfo(inBytes, outBytes) {
   );
 }
 
-function getIconSize(filePath) {
+function getIconName(filePath) {
   const dirname = path.dirname(filePath);
   const dirs = dirname.split("/");
   return dirs[dirs.length - 1];
