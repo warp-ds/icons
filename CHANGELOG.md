@@ -1,3 +1,10 @@
+## [1.0.1-next.1](https://github.com/warp-ds/icons/compare/v1.0.0...v1.0.1-next.1) (2023-09-20)
+
+
+### Bug Fixes
+
+* set next as default prerelease branch ([#12](https://github.com/warp-ds/icons/issues/12)) ([bb0be72](https://github.com/warp-ds/icons/commit/bb0be721927e8fae2efd063ebc9ca126f4378554))
+
 # 1.0.0 (2023-09-20)
 
 
