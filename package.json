@@ -22,12 +22,18 @@
   "scripts": {
     "commit": "cz",
     "import": "node ./scripts/import.js",
-    "build": "node ./scripts/build.js",
+    "build": "node ./scripts/build.js && pnpm i18n",
+    "i18n": "node ./scripts/i18n.js",
+    "i18n:clear": "node scripts/i18n-helpers/clear-locales.js",
+    "i18n:get-sorted-locales": "node scripts/i18n-helpers/sort-locales.js",
     "dev": "pnpm build && vite",
     "build:release": "rimraf dist && pnpm build && pnpm build:vue && pnpm build:react && pnpm build:elements",
-    "build:react": "rimraf react && mkdir react && node ./scripts/output/react.js && node ./react.eik.js",
-    "build:vue": "rimraf vue && mkdir vue && node ./scripts/output/vue.js && node ./vue.eik.js",
-    "build:elements": "rimraf elements && mkdir elements && node ./scripts/output/elements.js && node ./elements.eik.js"
+    "vite:build": "vite build",
+    "preview": "pnpm run build && vite build && vite preview",
+    "build:react": "rimraf react && mkdir react && lingui extract && lingui compile && node ./scripts/output/react.js && node ./react.eik.js",
+    "build:vue": "rimraf vue && mkdir vue && lingui extract && lingui compile && node ./scripts/output/vue.js && node ./vue.eik.js",
+    "build:elements": "rimraf elements && mkdir elements && lingui extract && lingui compile && node ./scripts/output/elements.js && node ./elements.eik.js",
+    "build:all": "lingui extract && lingui compile && rimraf react && mkdir react && rimraf vue && mkdir vue && rimraf elements && mkdir elements && node ./scripts/output/react.js && node ./react.eik.js && node ./scripts/output/vue.js && node ./vue.eik.js && node ./scripts/output/elements.js && node ./elements.eik.js"
   },
   "license": "Apache-2.0",
   "devDependencies": {
@@ -35,6 +41,8 @@
     "@eik/esbuild-plugin": "^1.1.11",
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
+    "@lingui/cli": "^4.4.2",
+    "@lingui/conf": "^4.4.2",
     "@sindresorhus/slugify": "^2.1.0",
     "@warp-ds/uno": "^1.0.0",
     "camelcase": "^8.0.0",
@@ -77,5 +85,8 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
+  },
+  "dependencies": {
+    "@lingui/core": "^4.4.2"
   }
 }
