@@ -1,3 +1,10 @@
+# [1.1.0-next.1](https://github.com/warp-ds/icons/compare/v1.0.1-next.1...v1.1.0-next.1) (2023-09-26)
+
+
+### Features
+
+* i18n for react ([#9](https://github.com/warp-ds/icons/issues/9)) ([10e41bc](https://github.com/warp-ds/icons/commit/10e41bcdb6aa15d68e2ae87e330543d2f601614d))
+
 ## [1.0.1-next.1](https://github.com/warp-ds/icons/compare/v1.0.0...v1.0.1-next.1) (2023-09-20)
 
 
