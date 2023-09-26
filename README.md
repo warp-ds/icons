@@ -90,6 +90,22 @@ or
 pnpm import
 ```
 
+### Create translations
+Our icons support different translations depending on the language your brand is using. In order to start working on the icons you need to create
+the translations by running the following command.
+
+```bash
+pnpm i18n
+```
+
+### Build icons for different frameworks
+After creating the translations you can build the icons for the framwork of your choosing by running the following:
+
+```bash
+pnpm build:<react|vue|elements>
+```
+
+
 ### Local preview
 You can open a local preview of the icons. Use this to verify that the icons looks as they should. Run the following command.
 
