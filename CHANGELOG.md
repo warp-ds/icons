@@ -1,3 +1,10 @@
+# [1.1.0-next.2](https://github.com/warp-ds/icons/compare/v1.1.0-next.1...v1.1.0-next.2) (2023-09-28)
+
+
+### Features
+
+* Handle i18n for vue ([#14](https://github.com/warp-ds/icons/issues/14)) ([2cf4fdb](https://github.com/warp-ds/icons/commit/2cf4fdbb926fdab081e92fd9bb9923122c67c2ce))
+
 # [1.1.0-next.1](https://github.com/warp-ds/icons/compare/v1.0.1-next.1...v1.1.0-next.1) (2023-09-26)
 
 
