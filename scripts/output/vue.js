@@ -11,12 +11,12 @@ mkdirSync(basepath, { recursive: true })
 
 // Create Vue Icon
 getSVGs().forEach(({ svg, filename, exportName, name }) => {
-    // Handle i18n of icon title
-    const iconNameCamelCase = exportName.replace('Icon', '').replace(/\d+/g, '');
-    const titleMessage = defaultIconDescriptions[iconNameCamelCase.toLowerCase()];
+  const iconNameCamelCase = exportName.replace(/Icon|\d+/g, '');
+  const titleMessage = defaultIconDescriptions[iconNameCamelCase.toLowerCase()];
   const attrs = Array.from(svg.attrs).map(attr => attr.name + `: ` + `'` + attr.value + `'`)
   const { message, id, comment } = titleMessage || {};
   const titleHtml = "<title>${title}</title>";
+  // Handle i18n of icon title
   const output = [
     `import { i18n } from '@lingui/core';`,
     `import { messages as nbMessages} from '../src/raw/${name}/locales/nb/messages.mjs';`,
