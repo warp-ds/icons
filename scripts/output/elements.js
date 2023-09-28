@@ -21,7 +21,7 @@ getSVGs().forEach(({ svg, name, size, filename, exportName }) => {
   const className = exportName;
   // Handle i18n for icon title
   const output = [
-    `import { LitElement, html, svg } from 'lit';`,
+    `import { LitElement, html } from 'lit';`,
     `import { i18n } from '@lingui/core';`,
     `import { messages as nbMessages} from '../src/raw/${name}/locales/nb/messages.mjs';`,
     `import { messages as enMessages} from '../src/raw/${name}/locales/en/messages.mjs';`,
