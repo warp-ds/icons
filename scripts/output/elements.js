@@ -36,7 +36,7 @@ getSVGs().forEach(({ svg, name, size, filename, exportName }) => {
       
       return html\`<svg ${attrs.join("")}>${titleHtml}${svg.html}</svg>\`; }`,
     `}`,
-    `if (!customElements.get('w-icon-${name}${size}')) {`,
+    `if (!customElements.get('w-icon-${name}${size}', ${className})) {`,
     `  customElements.define('w-icon-${name}${size}', ${className});`,
     `}`,
   ].join("\n");
