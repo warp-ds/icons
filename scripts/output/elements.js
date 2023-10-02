@@ -17,8 +17,8 @@ getSVGs().forEach(({ svg, name, size, filename, exportName }) => {
     `export class ${className} extends LitElement {`,
     `  render() { return html\`<svg ${attrs.join(' ')}>${svg.html}</svg>\`; }`,
     `}`,
-    `if (!customElements.get('w-icon-${name}${size}', ${className})) {`,
-    `  customElements.define('w-icon-${name}${size}', ${className});`,
+    `if (!customElements.get('w-icon-${name}-${size}', ${className})) {`,
+    `  customElements.define('w-icon-${name}-${size}', ${className});`,
     `}`,
   ].join("\n");
 
