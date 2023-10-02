@@ -38,7 +38,7 @@ import { IconChevronRight16 } from '@warp-ds/icons/vue';
 ```
 
 ```js
-<icon-chevron-right16 />
+<icon-chevron-right-16 />
 ```
 
 ### Elements
@@ -62,8 +62,8 @@ import '@warp-ds/icons/elements/attachment-24';
 ```
 
 ```html
-<w-icon-attachment16></w-icon-attachment16>
-<w-icon-attachment24></w-icon-attachment24>
+<w-icon-attachment-16></w-icon-attachment-16>
+<w-icon-attachment-24></w-icon-attachment-24>
 ```
 
 
