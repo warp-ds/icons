@@ -1,3 +1,10 @@
+# [1.1.0-next.3](https://github.com/warp-ds/icons/compare/v1.1.0-next.2...v1.1.0-next.3) (2023-10-02)
+
+
+### Bug Fixes
+
+* element icons names ([#16](https://github.com/warp-ds/icons/issues/16)) ([0d550c8](https://github.com/warp-ds/icons/commit/0d550c85ecfa7be427f8a66c93689390dd5da379))
+
 # [1.1.0-next.2](https://github.com/warp-ds/icons/compare/v1.1.0-next.1...v1.1.0-next.2) (2023-09-28)
 
 
