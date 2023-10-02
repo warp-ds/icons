@@ -1,7 +1,7 @@
 {
   "name": "@warp-ds/icons",
   "type": "module",
-  "version": "1.0.0-alpha.1",
+  "version": "1.1.0-next.2",
   "repository": "git@github.com:warp-ds/icons.git",
   "description": "WARP's icon set",
   "main": "index.js",
@@ -22,7 +22,7 @@
   "scripts": {
     "commit": "cz",
     "import": "node ./scripts/import.js",
-    "build": "node ./scripts/build.js && node ./scripts/i18n.js",
+    "build": "node ./scripts/build.js && pnpm i18n",
     "i18n": "node ./scripts/i18n.js",
     "i18n:clear": "node scripts/i18n-helpers/clear-locales.js",
     "i18n:get-sorted-locales": "node scripts/i18n-helpers/sort-locales.js",

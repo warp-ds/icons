@@ -100,8 +100,8 @@ pnpm dev
 
 ## Releases
 
-This project is continuously published to [NPM](https://www.npmjs.com/package/@warp-ds/icons) and [Eik](https://assets.finn.no/pkg/@warp-ds/icons) using an `alpha` tag (e.g. `1.1.0-alpha.1`).
-Anyone needing to use the latest changes of this package can point to the `alpha` version while waiting for the stable release.
+This project is continuously published to [NPM](https://www.npmjs.com/package/@warp-ds/icons) and [Eik](https://assets.finn.no/pkg/@warp-ds/icons) using a `next` tag (e.g. `1.1.0-next.1`).
+Anyone needing to use the latest changes of this package can point to the `next` version while waiting for the stable release.
 
 Eik versions for each of Vue, Elements and React icons that are built to the ./dist folder are automatically published to Eik under the path `https://assets.finn.no/pkg/{name}/{version}/`.
 
