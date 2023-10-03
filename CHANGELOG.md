@@ -1,3 +1,10 @@
+# [1.1.0-next.6](https://github.com/warp-ds/icons/compare/v1.1.0-next.5...v1.1.0-next.6) (2023-10-03)
+
+
+### Features
+
+* Handle i18n for elements ([#19](https://github.com/warp-ds/icons/issues/19)) ([8a27850](https://github.com/warp-ds/icons/commit/8a27850329eaa94e3a067c5c357e897a12e4b053))
+
 # [1.1.0-next.5](https://github.com/warp-ds/icons/compare/v1.1.0-next.4...v1.1.0-next.5) (2023-10-03)
 
 
