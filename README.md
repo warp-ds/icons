@@ -97,6 +97,15 @@ You can open a local preview of the icons. Use this to verify that the icons loo
 pnpm dev
 ```
 
+### Typescript support
+
+You can define an 'icons.d.ts' file in your repo and export the types bundled with the package for the correct namespace. Eg for React:
+
+```
+declare module '@warp-ds/icons/react' {
+    export * from '@warp-ds/icons/dist/types/react'
+}
+```
 
 ## Releases
 
