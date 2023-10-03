@@ -85,3 +85,29 @@ exec('lingui extract', (error) => {
     console.log(`${chalk.cyan('i18n')}: ${chalk.yellow('Lingui')} compiled messages`)
   });
 });
+
+// Create crowdin.yml file
+const files = [];
+Object.values(icons).map(iconFolderName => {
+  files.push({
+    source: `/src/raw/${iconFolderName}/locales/en/messages.po`, // Path to the source file
+    dest: `icons/src/raw/${iconFolderName}/messages.po`, // Destination path in the repository
+    translation: `/src/raw/${iconFolderName}/locales/%two_letter_code%/messages.po` // Path to the translation files
+  })
+});
+
+const crowdinContent = `
+project_id_env: CROWDIN_PROJECT_ID
+api_token_env: CROWDIN_API_TOKEN
+base_url_env: CROWDIN_BASE_URL
+base_path: "."
+
+preserve_hierarchy: true
+files:
+  ${JSON.stringify(files)}
+`
+const crowdinConfigFilePath = `${rootPath}/crowdin.yml`;
+fs.writeFileSync(crowdinConfigFilePath, crowdinContent, 'utf-8');
+
+console.log(`${chalk.cyan('i18n')}: Wrote ${chalk.yellow('crowdin.yml')} file`)
+
