@@ -1,3 +1,10 @@
+# [1.1.0-next.5](https://github.com/warp-ds/icons/compare/v1.1.0-next.4...v1.1.0-next.5) (2023-10-03)
+
+
+### Reverts
+
+* Revert "feat:Handle i18n for elements (#15)" (#18) ([6bfee40](https://github.com/warp-ds/icons/commit/6bfee405a0f75d4f2b94d8fa53a45a6c2ea54173)), closes [#15](https://github.com/warp-ds/icons/issues/15) [#18](https://github.com/warp-ds/icons/issues/18)
+
 # [1.1.0-next.4](https://github.com/warp-ds/icons/compare/v1.1.0-next.3...v1.1.0-next.4) (2023-10-03)
 
 
