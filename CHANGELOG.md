@@ -1,3 +1,11 @@
+# [1.1.0-next.7](https://github.com/warp-ds/icons/compare/v1.1.0-next.6...v1.1.0-next.7) (2023-10-03)
+
+
+### Bug Fixes
+
+* Fix bundling ([#20](https://github.com/warp-ds/icons/issues/20)) ([6ea9874](https://github.com/warp-ds/icons/commit/6ea9874c01055c469df7d9047b3f701b35975552))
+* pnpm lockfile ([6529014](https://github.com/warp-ds/icons/commit/652901476321ce13a6a3d98963f2b88794d2525c))
+
 # [1.1.0-next.6](https://github.com/warp-ds/icons/compare/v1.1.0-next.5...v1.1.0-next.6) (2023-10-03)
 
 
