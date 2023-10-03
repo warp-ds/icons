@@ -1,3 +1,10 @@
+# [1.1.0-next.4](https://github.com/warp-ds/icons/compare/v1.1.0-next.3...v1.1.0-next.4) (2023-10-03)
+
+
+### Bug Fixes
+
+* add 9BA8BA to exchange with currentColor ([#17](https://github.com/warp-ds/icons/issues/17)) ([bea742a](https://github.com/warp-ds/icons/commit/bea742a49dae5fef87e616143d7fc0a682368595))
+
 # [1.1.0-next.3](https://github.com/warp-ds/icons/compare/v1.1.0-next.2...v1.1.0-next.3) (2023-10-02)
 
 
