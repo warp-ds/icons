@@ -51,14 +51,13 @@ You will need to install both Warp Elements and Lit Element which is the library
 npm install lit @warp-ds/icons
 ```
 
-#### Import elements
+#### Import Elements icons
 
-Import the individual element file, importing will load the component.
+Import elements icons once to use them in the entire app.
 Once imported, run your script through whatever bundling process your app uses (Rollup, Esbuild, etc) after which the component can be used in the page.
 
 ```js
-import '@warp-ds/icons/elements/attachment-16';
-import '@warp-ds/icons/elements/attachment-24';
+import '@warp-ds/icons/elements';
 ```
 
 ```html
