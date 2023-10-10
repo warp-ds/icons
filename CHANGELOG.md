@@ -1,3 +1,10 @@
+# [1.1.0-next.10](https://github.com/warp-ds/icons/compare/v1.1.0-next.9...v1.1.0-next.10) (2023-10-10)
+
+
+### Bug Fixes
+
+* update crowdin.yaml with leading slash ([bd09d68](https://github.com/warp-ds/icons/commit/bd09d685f066b337ae4873da2500ea4a6ed3a1bd))
+
 # [1.1.0-next.9](https://github.com/warp-ds/icons/compare/v1.1.0-next.8...v1.1.0-next.9) (2023-10-10)
 
 
