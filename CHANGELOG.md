@@ -1,3 +1,10 @@
+# [1.1.0-next.8](https://github.com/warp-ds/icons/compare/v1.1.0-next.7...v1.1.0-next.8) (2023-10-10)
+
+
+### Bug Fixes
+
+* use proper language placeholder in translations ([#22](https://github.com/warp-ds/icons/issues/22)) ([4425b66](https://github.com/warp-ds/icons/commit/4425b66136a4cadcb0e8c4b4ba4b816799aefaf2))
+
 # [1.1.0-next.7](https://github.com/warp-ds/icons/compare/v1.1.0-next.6...v1.1.0-next.7) (2023-10-03)
 
 
