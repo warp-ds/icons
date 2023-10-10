@@ -1,3 +1,10 @@
+# [1.1.0-next.9](https://github.com/warp-ds/icons/compare/v1.1.0-next.8...v1.1.0-next.9) (2023-10-10)
+
+
+### Bug Fixes
+
+* add leading slash to dest in crowdin config ([#23](https://github.com/warp-ds/icons/issues/23)) ([d1170b6](https://github.com/warp-ds/icons/commit/d1170b67a9236f63d101bf19c57cc12cefabeb7b))
+
 # [1.1.0-next.8](https://github.com/warp-ds/icons/compare/v1.1.0-next.7...v1.1.0-next.8) (2023-10-10)
 
 
