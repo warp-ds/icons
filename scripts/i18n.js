@@ -91,7 +91,7 @@ const files = [];
 Object.values(icons).map(iconFolderName => {
   files.push({
     source: `/src/raw/${iconFolderName}/locales/en/messages.po`, // Path to the source file
-    dest: `icons/src/raw/${iconFolderName}/messages.po`, // Destination path in the repository
+    dest: `/icons/src/raw/${iconFolderName}/messages.po`, // Destination path in the repository
     translation: `/src/raw/${iconFolderName}/locales/%two_letters_code%/messages.po` // Path to the translation files
   })
 });
