@@ -1,7 +1,4 @@
-import * as eik from '@eik/esbuild-plugin';
 import esbuild from 'esbuild';
-
-await eik.load();
 
 await esbuild.build({
   entryPoints: ['react/index.js'],

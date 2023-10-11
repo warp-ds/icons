@@ -1,10 +1,6 @@
-import * as eik from '@eik/esbuild-plugin';
 import esbuild from 'esbuild';
 
-await eik.load();
-
 await esbuild.build({
-  plugins: [eik.plugin()],
   entryPoints: ['elements/index.js'],
   bundle: true,
   outfile: 'dist/elements/icons.js',
