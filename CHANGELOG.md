@@ -1,3 +1,10 @@
+# [1.1.0-next.11](https://github.com/warp-ds/icons/compare/v1.1.0-next.10...v1.1.0-next.11) (2023-10-12)
+
+
+### Bug Fixes
+
+* update Readme text ([156d4ed](https://github.com/warp-ds/icons/commit/156d4ed8376f5c0a33e5159089fbf4692dbacae0))
+
 # [1.1.0-next.10](https://github.com/warp-ds/icons/compare/v1.1.0-next.9...v1.1.0-next.10) (2023-10-10)
 
 
