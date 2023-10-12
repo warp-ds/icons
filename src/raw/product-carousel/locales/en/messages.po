@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for product carousel icon
 #. js-lingui-explicit-id
 #: scripts/temp/product-carousel.js:2
 msgid "icon.title.product-carousel"
 msgstr "Highlighted vertical rectangle with two rectangles in the background"
+

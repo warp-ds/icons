@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for Torget Verified icon
 #. js-lingui-explicit-id
 #: scripts/temp/torget-verified.js:2
 msgid "icon.title.torget-verified"
 msgstr "Browser with highlighted shield in the bottom right corner"
+

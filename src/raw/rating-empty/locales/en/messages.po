@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for empty-star rating icon
 #. js-lingui-explicit-id
 #: scripts/temp/rating-empty.js:2
 msgid "icon.title.rating-empty"
 msgstr "Empty blue star"
+

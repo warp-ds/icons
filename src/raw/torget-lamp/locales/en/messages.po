@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for Torget Lamp icon
 #. js-lingui-explicit-id
 #: scripts/temp/torget-lamp.js:2
 msgid "icon.title.torget-lamp"
 msgstr "Floor lamp"
+

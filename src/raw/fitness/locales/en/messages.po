@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for fitness icon
 #. js-lingui-explicit-id
 #: scripts/temp/fitness.js:2
 msgid "icon.title.fitness"
 msgstr "Running shoe"
+

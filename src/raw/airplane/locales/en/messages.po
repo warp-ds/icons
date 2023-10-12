@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for airplane icon
 #. js-lingui-explicit-id
 #: scripts/temp/airplane.js:2
 msgid "icon.title.airplane"
 msgstr "Airplane"
+

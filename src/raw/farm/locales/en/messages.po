@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for farm icon
 #. js-lingui-explicit-id
 #: scripts/temp/farm.js:2
 msgid "icon.title.farm"
 msgstr "Barn with silo and birds"
+

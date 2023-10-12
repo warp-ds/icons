@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for filter icon
 #. js-lingui-explicit-id
 #: scripts/temp/filter.js:2
 msgid "icon.title.filter"
 msgstr "Funnel"
+

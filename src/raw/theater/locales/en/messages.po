@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for theater icon
 #. js-lingui-explicit-id
 #: scripts/temp/theater.js:2
 msgid "icon.title.theater"
 msgstr "Costume mask with a smiley face"
+

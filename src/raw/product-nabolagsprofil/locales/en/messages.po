@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for product nabolagsprofil icon
 #. js-lingui-explicit-id
 #: scripts/temp/product-nabolagsprofil.js:2
 msgid "icon.title.product-nabolagsprofil"
 msgstr "House with a highlighted map pin"
+

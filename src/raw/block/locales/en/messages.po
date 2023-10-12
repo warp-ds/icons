@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for block icon
 #. js-lingui-explicit-id
 #: scripts/temp/block.js:2
 msgid "icon.title.block"
 msgstr "Person with highlighted no entry sign"
+

@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for plots icon
 #. js-lingui-explicit-id
 #: scripts/temp/plots.js:2
 msgid "icon.title.plots"
 msgstr "Dotted square with a highlighted smaller square"
+

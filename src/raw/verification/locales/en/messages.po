@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for verification icon
 #. js-lingui-explicit-id
 #: scripts/temp/verification.js:2
 msgid "icon.title.verification"
 msgstr "Blue shield with checkmark"
+

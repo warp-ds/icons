@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for alert icon
 #. js-lingui-explicit-id
 #: scripts/temp/alert.js:2
 msgid "icon.title.alert"
 msgstr "Circle with exclamation point"
+

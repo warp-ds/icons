@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for gas fuel icon
 #. js-lingui-explicit-id
 #: scripts/temp/gas-fuel.js:2
 msgid "icon.title.gas-fuel"
 msgstr "Gas pump"
+

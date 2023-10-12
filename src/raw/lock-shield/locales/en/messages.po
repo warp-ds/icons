@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for lock shield icon
 #. js-lingui-explicit-id
 #: scripts/temp/lock-shield.js:2
 msgid "icon.title.lock-shield"
 msgstr "Shield with padlock"
+
