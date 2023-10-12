@@ -1,7 +1,7 @@
 # WARP icons
 The icon set for WARP, imported from (Figma project)[!https://www.figma.com/file/yEx16ew6S0Xgd579dN4hsM/Warp---Icons?type=design&node-id=150-113&mode=design&t=TRtIuPlsDoYlbuqd-0].
 
-**Note that the icons in the "src/raw" folder in this repository should never be used directly, as they aren't optimized.**
+**Note that the icons in the "src/raw" folder in this repository should never be used directly, as they aren't optimized. Also note that Raw icons don't contain title element and hence won't be follow accessibility guidelines**
 
 ## How to use
 
