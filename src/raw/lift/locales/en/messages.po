@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for lift icon
 #. js-lingui-explicit-id
 #: scripts/temp/lift.js:2
 msgid "icon.title.lift"
 msgstr "Elevator"
+

@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for house person icon
 #. js-lingui-explicit-id
 #: scripts/temp/house-person.js:2
 msgid "icon.title.house-person"
 msgstr "House with a person"
+

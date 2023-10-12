@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for phone new icon
 #. js-lingui-explicit-id
 #: scripts/temp/phone-new.js:2
 msgid "icon.title.phone-new"
 msgstr "Smartphone"
+

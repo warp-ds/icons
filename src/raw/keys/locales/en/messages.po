@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for keys icon
 #. js-lingui-explicit-id
 #: scripts/temp/keys.js:2
 msgid "icon.title.keys"
 msgstr "Two keys on a keyring"
+

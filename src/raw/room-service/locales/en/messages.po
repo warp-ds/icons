@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for room service icon
 #. js-lingui-explicit-id
 #: scripts/temp/room-service.js:2
 msgid "icon.title.room-service"
 msgstr "Gloved hand and serving tray with a dome"
+

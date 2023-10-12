@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for office desk icon
 #. js-lingui-explicit-id
 #: scripts/temp/office-desk.js:2
 msgid "icon.title.office-desk"
 msgstr "Office desk with a computer screen"
+

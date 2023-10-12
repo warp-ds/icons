@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for building plot icon
 #. js-lingui-explicit-id
 #: scripts/temp/building-plot.js:2
 msgid "icon.title.building-plot"
 msgstr "Dotted square with a highlighted house"
+

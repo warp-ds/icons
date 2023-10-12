@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for share icon
 #. js-lingui-explicit-id
 #: scripts/temp/share.js:2
 msgid "icon.title.share"
 msgstr "Share icon"
+

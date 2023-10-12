@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for stairs icon
 #. js-lingui-explicit-id
 #: scripts/temp/stairs.js:2
 msgid "icon.title.stairs"
 msgstr "Stairs with diagonal arrow up"
+

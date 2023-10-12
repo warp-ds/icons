@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for product no ads icon
 #. js-lingui-explicit-id
 #: scripts/temp/product-no-ads.js:2
 msgid "icon.title.product-no-ads"
 msgstr "Loudspeaker"
+

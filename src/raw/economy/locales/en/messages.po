@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for economy icon
 #. js-lingui-explicit-id
 #: scripts/temp/economy.js:2
 msgid "icon.title.economy"
 msgstr "Banknote and two coins"
+

@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for alert error icon
 #. js-lingui-explicit-id
 #: scripts/temp/alert-error.js:2
 msgid "icon.title.alert-error"
 msgstr "Red octagon with white exclamation point"
+

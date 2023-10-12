@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for send icon
 #. js-lingui-explicit-id
 #: scripts/temp/send.js:2
 msgid "icon.title.send"
 msgstr "Paper plane"
+

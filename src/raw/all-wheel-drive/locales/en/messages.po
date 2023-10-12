@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for all wheel drive icon
 #. js-lingui-explicit-id
 #: scripts/temp/all-wheel-drive.js:2
 msgid "icon.title.all-wheel-drive"
 msgstr "All-wheel drive"
+

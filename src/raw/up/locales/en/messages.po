@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for up icon
 #. js-lingui-explicit-id
 #: scripts/temp/up.js:2
 msgid "icon.title.up"
 msgstr "Square with arrow pointing up"
+

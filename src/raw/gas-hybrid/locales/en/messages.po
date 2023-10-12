@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for gas hybrid icon
 #. js-lingui-explicit-id
 #: scripts/temp/gas-hybrid.js:2
 msgid "icon.title.gas-hybrid"
 msgstr "Circle with a plug and a drop"
+

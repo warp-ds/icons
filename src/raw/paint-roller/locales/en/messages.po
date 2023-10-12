@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for paint roller icon
 #. js-lingui-explicit-id
 #: scripts/temp/paint-roller.js:2
 msgid "icon.title.paint-roller"
 msgstr "Paint roller in action"
+

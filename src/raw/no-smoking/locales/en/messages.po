@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for no smoking icon
 #. js-lingui-explicit-id
 #: scripts/temp/no-smoking.js:2
 msgid "icon.title.no-smoking"
 msgstr "Overlaid cigarette"
+

@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for smiley sad icon
 #. js-lingui-explicit-id
 #: scripts/temp/smiley-sad.js:2
 msgid "icon.title.smiley-sad"
 msgstr "Sad face"
+
