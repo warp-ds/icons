@@ -10,5 +10,5 @@ elements/
 # i18n related files
 scripts/temp
 src/raw/*/locales/fi/
-src/raw/*/locales/nb/
+src/raw/*/locales/nb/*.mjs
 src/raw/*/locales/en/*.mjs
