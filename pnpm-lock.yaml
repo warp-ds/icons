@@ -56,8 +56,8 @@ devDependencies:
     specifier: ^10.0.0
     version: 10.3.10
   happy-dom:
-    specifier: ^10.0.0
-    version: 10.11.2
+    specifier: ^12.0.0
+    version: 12.9.1
   js-yaml:
     specifier: ^4.1.0
     version: 4.1.0
@@ -3491,8 +3491,8 @@ packages:
       uglify-js: 3.17.4
     dev: true
 
-  /happy-dom@10.11.2:
-    resolution: {integrity: sha512-rzgmLjLkhyaOdFEyU8CWXzbgyCyM7wJHLqhaoeEVSTyur1fjcUaiNTHx+D4CPaLvx16tGy+SBPd9TVnP/kzL3w==}
+  /happy-dom@12.9.1:
+    resolution: {integrity: sha512-UvQ3IwKn1G3iiNCdTrhijdLGqf8Vj7d3OpmYcPwlKakjFy83oYbW6TmOKDLMTVLO9whmOC1HIpS09wf/14k7cA==}
     dependencies:
       css.escape: 1.5.1
       entities: 4.5.0
