@@ -1,3 +1,11 @@
+# [1.1.0-next.12](https://github.com/warp-ds/icons/compare/v1.1.0-next.11...v1.1.0-next.12) (2023-10-13)
+
+
+### Bug Fixes
+
+* add more missing titles ([#35](https://github.com/warp-ds/icons/issues/35)) ([91f2b78](https://github.com/warp-ds/icons/commit/91f2b78371a5a028da38fe80766f6b56d04c7665))
+* update script with improved destination in crowdin ([#34](https://github.com/warp-ds/icons/issues/34)) ([30f4c92](https://github.com/warp-ds/icons/commit/30f4c92585ae95085dfbd547fcb9d29723798646))
+
 # [1.1.0-next.11](https://github.com/warp-ds/icons/compare/v1.1.0-next.10...v1.1.0-next.11) (2023-10-12)
 
 
