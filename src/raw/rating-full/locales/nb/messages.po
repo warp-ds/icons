@@ -17,4 +17,4 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/rating-full.js:2
 msgid "icon.title.rating-full"
-msgstr ""
+msgstr "Full blå stjerne"

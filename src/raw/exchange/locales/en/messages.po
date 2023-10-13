@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/exchange.js:2
 msgid "icon.title.exchange"
 msgstr "Two arrows forming a circle"
-

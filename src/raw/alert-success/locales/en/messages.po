@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/alert-success.js:2
 msgid "icon.title.alert-success"
 msgstr "Green circle with checkmark"
-

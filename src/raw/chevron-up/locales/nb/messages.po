@@ -17,4 +17,4 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/chevron-up.js:2
 msgid "icon.title.chevron-up"
-msgstr ""
+msgstr "Pil opp"

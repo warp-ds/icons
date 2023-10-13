@@ -17,4 +17,4 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/rating-half.js:2
 msgid "icon.title.rating-half"
-msgstr ""
+msgstr "Halvfull blå stjerne"

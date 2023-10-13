@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/dating.js:2
 msgid "icon.title.dating"
 msgstr "Two hearts"
-

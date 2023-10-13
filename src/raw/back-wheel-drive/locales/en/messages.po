@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/back-wheel-drive.js:2
 msgid "icon.title.back-wheel-drive"
 msgstr "Rear-wheel drive"
-

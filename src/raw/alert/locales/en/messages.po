@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/alert.js:2
 msgid "icon.title.alert"
 msgstr "Circle with exclamation point"
-
