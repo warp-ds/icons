@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/airplane.js:2
 msgid "icon.title.airplane"
 msgstr "Airplane"
-

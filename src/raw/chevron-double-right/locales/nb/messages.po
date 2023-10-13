@@ -17,4 +17,4 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/chevron-double-right.js:2
 msgid "icon.title.chevron-double-right"
-msgstr ""
+msgstr "Dobbel pil høyre"

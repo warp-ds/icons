@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/bank-ident.js:2
 msgid "icon.title.bank-ident"
 msgstr "Shield with checkmark"
-

@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/honk.js:2
 msgid "icon.title.honk"
 msgstr "Car horn"
-

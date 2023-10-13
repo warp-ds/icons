@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/theater.js:2
 msgid "icon.title.theater"
 msgstr "Costume mask with a smiley face"
-
