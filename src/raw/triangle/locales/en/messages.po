@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/triangle.js:2
 msgid "icon.title.triangle"
 msgstr "Warning triangle"
+

@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/smiley-good.js:2
 msgid "icon.title.smiley-good"
 msgstr "Good smiley face"
+

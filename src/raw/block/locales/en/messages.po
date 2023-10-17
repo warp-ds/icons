@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/block.js:2
 msgid "icon.title.block"
 msgstr "Person with highlighted no entry sign"
+

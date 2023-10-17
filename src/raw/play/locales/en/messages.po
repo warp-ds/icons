@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/play.js:2
 msgid "icon.title.play"
 msgstr "Play button"
+

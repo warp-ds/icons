@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/torget-verified.js:2
 msgid "icon.title.torget-verified"
 msgstr "Browser with highlighted shield in the bottom right corner"
+

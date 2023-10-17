@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/real-estate.js:2
 msgid "icon.title.real-estate"
 msgstr "House with a garden"
+

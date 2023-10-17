@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/beach.js:2
 msgid "icon.title.beach"
 msgstr "Beach umbrella"
+

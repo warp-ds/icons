@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/attachment.js:2
 msgid "icon.title.attachment"
 msgstr "Paperclip"
+

@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/charger.js:2
 msgid "icon.title.charger"
 msgstr "Charging cable"
+

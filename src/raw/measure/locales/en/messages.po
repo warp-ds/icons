@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/measure.js:2
 msgid "icon.title.measure"
 msgstr "Dotted square with measuring arrows"
+

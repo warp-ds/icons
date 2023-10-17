@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/car-rent.js:2
 msgid "icon.title.car-rent"
 msgstr "Car and clock"
+

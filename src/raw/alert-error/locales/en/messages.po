@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/alert-error.js:2
 msgid "icon.title.alert-error"
 msgstr "Red octagon with white exclamation point"
+

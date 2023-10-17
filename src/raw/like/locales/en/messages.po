@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/like.js:2
 msgid "icon.title.like"
 msgstr "Thumbs-up"
+
