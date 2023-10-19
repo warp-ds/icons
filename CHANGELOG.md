@@ -1,3 +1,34 @@
+# [1.1.0](https://github.com/warp-ds/icons/compare/v1.0.0...v1.1.0) (2023-10-19)
+
+
+### Bug Fixes
+
+* add 9BA8BA to exchange with currentColor ([#17](https://github.com/warp-ds/icons/issues/17)) ([bea742a](https://github.com/warp-ds/icons/commit/bea742a49dae5fef87e616143d7fc0a682368595))
+* add leading slash to dest in crowdin config ([#23](https://github.com/warp-ds/icons/issues/23)) ([d1170b6](https://github.com/warp-ds/icons/commit/d1170b67a9236f63d101bf19c57cc12cefabeb7b))
+* add more missing titles ([#35](https://github.com/warp-ds/icons/issues/35)) ([91f2b78](https://github.com/warp-ds/icons/commit/91f2b78371a5a028da38fe80766f6b56d04c7665))
+* element icons names ([#16](https://github.com/warp-ds/icons/issues/16)) ([0d550c8](https://github.com/warp-ds/icons/commit/0d550c85ecfa7be427f8a66c93689390dd5da379))
+* Fix bundling ([#20](https://github.com/warp-ds/icons/issues/20)) ([6ea9874](https://github.com/warp-ds/icons/commit/6ea9874c01055c469df7d9047b3f701b35975552))
+* make sure finnish translations aren't gitignored ([#40](https://github.com/warp-ds/icons/issues/40)) ([5c49b2b](https://github.com/warp-ds/icons/commit/5c49b2b752463e7f8c1c5ed181148da5620a525c))
+* pnpm lockfile ([6529014](https://github.com/warp-ds/icons/commit/652901476321ce13a6a3d98963f2b88794d2525c))
+* set next as default prerelease branch ([#12](https://github.com/warp-ds/icons/issues/12)) ([bb0be72](https://github.com/warp-ds/icons/commit/bb0be721927e8fae2efd063ebc9ca126f4378554))
+* update crowdin.yaml with leading slash ([bd09d68](https://github.com/warp-ds/icons/commit/bd09d685f066b337ae4873da2500ea4a6ed3a1bd))
+* update Readme text ([156d4ed](https://github.com/warp-ds/icons/commit/156d4ed8376f5c0a33e5159089fbf4692dbacae0))
+* update script with improved destination in crowdin ([#34](https://github.com/warp-ds/icons/issues/34)) ([30f4c92](https://github.com/warp-ds/icons/commit/30f4c92585ae95085dfbd547fcb9d29723798646))
+* use proper language placeholder in translations ([#22](https://github.com/warp-ds/icons/issues/22)) ([4425b66](https://github.com/warp-ds/icons/commit/4425b66136a4cadcb0e8c4b4ba4b816799aefaf2))
+
+
+### Features
+
+* Generate individual icons ([#39](https://github.com/warp-ds/icons/issues/39)) ([dd74394](https://github.com/warp-ds/icons/commit/dd7439410a0a2a4988e80433f6d5941b3c478195))
+* Handle i18n for elements ([#19](https://github.com/warp-ds/icons/issues/19)) ([8a27850](https://github.com/warp-ds/icons/commit/8a27850329eaa94e3a067c5c357e897a12e4b053))
+* Handle i18n for vue ([#14](https://github.com/warp-ds/icons/issues/14)) ([2cf4fdb](https://github.com/warp-ds/icons/commit/2cf4fdbb926fdab081e92fd9bb9923122c67c2ce))
+* i18n for react ([#9](https://github.com/warp-ds/icons/issues/9)) ([10e41bc](https://github.com/warp-ds/icons/commit/10e41bcdb6aa15d68e2ae87e330543d2f601614d))
+
+
+### Reverts
+
+* Revert "feat:Handle i18n for elements (#15)" (#18) ([6bfee40](https://github.com/warp-ds/icons/commit/6bfee405a0f75d4f2b94d8fa53a45a6c2ea54173)), closes [#15](https://github.com/warp-ds/icons/issues/15) [#18](https://github.com/warp-ds/icons/issues/18)
+
 # [1.1.0-next.14](https://github.com/warp-ds/icons/compare/v1.1.0-next.13...v1.1.0-next.14) (2023-10-19)
 
 
