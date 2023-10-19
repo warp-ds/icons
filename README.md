@@ -65,6 +65,14 @@ import '@warp-ds/icons/elements';
 <w-icon-attachment-24></w-icon-attachment-24>
 ```
 
+Or import individual icons:
+```js
+import "@warp-ds/icons/elements/alert-16";
+```
+
+```html
+<w-icon-alert-16></w-icon-alert-16>
+```
 
 ## Development
 
