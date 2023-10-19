@@ -17,11 +17,12 @@ getSVGs().forEach(({ svg, name, size, filename, exportName }) => {
     (attr) => attr.name + `=` + `"` + attr.value + `"`
   );
   const { message, id, comment } = titleMessage || {};
-  const titleHtml = "<title>${title}</title>";
+  const titleHtml = "${unsafeSVG(`<title>${title}</title>`)}";
   const className = exportName;
   // Handle i18n for icon title
   const output = [
     `import { LitElement, html } from 'lit';`,
+    `import { unsafeSVG } from "lit/directives/unsafe-svg.js";`,
     `import { i18n } from '@lingui/core';`,
     `import { messages as nbMessages} from '../src/raw/${name}/locales/nb/messages.mjs';`,
     `import { messages as enMessages} from '../src/raw/${name}/locales/en/messages.mjs';`,
@@ -36,7 +37,7 @@ getSVGs().forEach(({ svg, name, size, filename, exportName }) => {
       
       return html\`<svg ${attrs.join("")}>${titleHtml}${svg.html}</svg>\`; }`,
     `}`,
-    `if (!customElements.get('w-icon-${name}-${size}', ${className})) {`,
+    `if (!customElements.get('w-icon-${name}-${size}')) {`,
     `  customElements.define('w-icon-${name}-${size}', ${className});`,
     `}`,
   ].join("\n");

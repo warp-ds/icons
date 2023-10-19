@@ -12,7 +12,8 @@
   "exports": {
     "./react": "./dist/react/icons.js",
     "./vue": "./dist/vue/icons.js",
-    "./elements": "./dist/elements/icons.js",
+    "./elements": "./dist/elements/index.js",
+    "./elements/*": "./dist/elements/*.js",
     "./package.json": "./package.json"
   },
   "scripts": {
