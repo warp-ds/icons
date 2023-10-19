@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/table-sort-down.js:2
 msgid "icon.title.table-sort-down"
 msgstr "Downward-pointing arrow"
+

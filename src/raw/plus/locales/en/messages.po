@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/plus.js:2
 msgid "icon.title.plus"
 msgstr "Plus sign"
+

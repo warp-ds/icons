@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/graph-line.js:2
 msgid "icon.title.graph-line"
 msgstr "Line graph"
+

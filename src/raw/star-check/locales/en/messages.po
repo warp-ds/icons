@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/star-check.js:2
 msgid "icon.title.star-check"
 msgstr "Star with highlighted checkmark"
+

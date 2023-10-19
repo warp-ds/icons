@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/charter.js:2
 msgid "icon.title.charter"
 msgstr "Suitcase"
+

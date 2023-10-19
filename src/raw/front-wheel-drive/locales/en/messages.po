@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/front-wheel-drive.js:2
 msgid "icon.title.front-wheel-drive"
 msgstr "Front-wheel drive"
+

@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/phone-scratched.js:2
 msgid "icon.title.phone-scratched"
 msgstr "Smartphone with three scratches on the glass"
+

@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/grid.js:2
 msgid "icon.title.grid"
 msgstr "Grid of squares"
+

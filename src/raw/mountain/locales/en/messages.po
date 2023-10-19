@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/mountain.js:2
 msgid "icon.title.mountain"
 msgstr "Mountain"
+

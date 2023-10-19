@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/history.js:2
 msgid "icon.title.history"
 msgstr "Clock with arrow going counterclockwise"
+

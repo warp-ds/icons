@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/product-top.js:2
 msgid "icon.title.product-top"
 msgstr "Arrow pointing to an image with text below"
+

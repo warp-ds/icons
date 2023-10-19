@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/fireplace.js:2
 msgid "icon.title.fireplace"
 msgstr "Fireplace"
+
