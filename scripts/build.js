@@ -14,10 +14,10 @@ const descriptionsFile = readFileSync(path.join(basedir, 'icon-descriptions.yml'
 const descriptions = yaml.load(descriptionsFile)
 
 const SRC_DIR = path.join(basedir, "src/raw");
-const DIST_DIR = path.join(basedir, "dist");
+const DIST_DIR = path.join(basedir, "dist/icons");
 
 // these are the only colors we will replace to currentColor
-const magicColors = ['#71717a', '#767676', '#0063fb', '#d91f0a', '#d5840b', '#059e6f', '#0386bf', '#6f7d90'].map(v => v.toLowerCase())
+const magicColors = ['#9ba8ba', '#71717a', '#767676', '#0063fb', '#d91f0a', '#d5840b', '#059e6f', '#0386bf', '#6f7d90'].map(v => v.toLowerCase())
 const colorProps = [
   'color',
   'fill',
@@ -66,7 +66,6 @@ files.forEach((filePath) => {
     const dataAsHTMLElement = getElement({ selector: 'div', htmlString: `<div>${rawData}</div>` })
     const { name } = getNameAndSize(filePath)
     const title = descriptions[pascalCase(name)]
-    if (title) dataAsHTMLElement.querySelector('svg').prepend(`<title>${title}</title>`)
     const dataWithTitle = dataAsHTMLElement.innerHTML
 
     const prevFileSize = Buffer.byteLength(dataWithTitle, "utf8");
@@ -89,6 +88,8 @@ files.forEach((filePath) => {
     console.error(err);
   }
 });
+
+console.log(`${chalk.cyan('build')}: Wrote ${chalk.yellow(files.length)} icons to dist folder`)
 
 /**
  * Copied from https://github.com/svg/svgo/blob/fdf9236d12b861cee926d7ba3f00284ff7884eab/lib/svgo/coa.js#L512

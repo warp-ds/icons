@@ -1,8 +1,15 @@
 /node_modules
 /dist
+/.idea
 
 .FIGMA_TOKEN
 
 vue/
 react/
 elements/
+
+# i18n related files
+scripts/temp
+src/raw/*/locales/nb/*.mjs
+src/raw/*/locales/en/*.mjs
+src/raw/*/locales/fi/*.mjs

@@ -1,7 +1,7 @@
 # WARP icons
 The icon set for WARP, imported from (Figma project)[!https://www.figma.com/file/yEx16ew6S0Xgd579dN4hsM/Warp---Icons?type=design&node-id=150-113&mode=design&t=TRtIuPlsDoYlbuqd-0].
 
-**Note that the icons in the "src/raw" folder in this repository should never be used directly, as they aren't optimized.**
+**Note that the icons in the "src/raw" folder in this repository should never be used directly, as they aren't optimized. Also note that Raw icons don't contain title element and hence won't be follow accessibility guidelines**
 
 ## How to use
 
@@ -38,7 +38,7 @@ import { IconChevronRight16 } from '@warp-ds/icons/vue';
 ```
 
 ```js
-<icon-chevron-right16 />
+<icon-chevron-right-16 />
 ```
 
 ### Elements
@@ -51,21 +51,28 @@ You will need to install both Warp Elements and Lit Element which is the library
 npm install lit @warp-ds/icons
 ```
 
-#### Import elements
+#### Import Elements icons
 
-Import the individual element file, importing will load the component.
+Import elements icons once to use them in the entire app.
 Once imported, run your script through whatever bundling process your app uses (Rollup, Esbuild, etc) after which the component can be used in the page.
 
 ```js
-import '@warp-ds/icons/elements/attachment-16';
-import '@warp-ds/icons/elements/attachment-24';
+import '@warp-ds/icons/elements';
 ```
 
 ```html
-<w-icon-attachment16></w-icon-attachment16>
-<w-icon-attachment24></w-icon-attachment24>
+<w-icon-attachment-16></w-icon-attachment-16>
+<w-icon-attachment-24></w-icon-attachment-24>
 ```
 
+Or import individual icons:
+```js
+import "@warp-ds/icons/elements/alert-16";
+```
+
+```html
+<w-icon-alert-16></w-icon-alert-16>
+```
 
 ## Development
 
@@ -97,11 +104,20 @@ You can open a local preview of the icons. Use this to verify that the icons loo
 pnpm dev
 ```
 
+### Typescript support
+
+You can define an 'icons.d.ts' file in your repo and export the types bundled with the package for the correct namespace. Eg for React:
+
+```
+declare module '@warp-ds/icons/react' {
+    export * from '@warp-ds/icons/dist/types/react'
+}
+```
 
 ## Releases
 
-This project is continuously published to [NPM](https://www.npmjs.com/package/@warp-ds/icons) and [Eik](https://assets.finn.no/pkg/@warp-ds/icons) using an `alpha` tag (e.g. `1.1.0-alpha.1`).
-Anyone needing to use the latest changes of this package can point to the `alpha` version while waiting for the stable release.
+This project is continuously published to [NPM](https://www.npmjs.com/package/@warp-ds/icons) and [Eik](https://assets.finn.no/pkg/@warp-ds/icons) using a `next` tag (e.g. `1.1.0-next.1`).
+Anyone needing to use the latest changes of this package can point to the `next` version while waiting for the stable release.
 
 Eik versions for each of Vue, Elements and React icons that are built to the ./dist folder are automatically published to Eik under the path `https://assets.finn.no/pkg/{name}/{version}/`.
 

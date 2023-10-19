@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "module": "NodeNext",
+        "allowJs": true,
+        "strictNullChecks": false,
+        "emitDeclarationOnly": true,
+        "declaration": true,
+        "outDir": "./dist/types",
+        "removeComments": false
+    },
+    "files": [
+        "./react/index.js",
+        "./vue/index.js",
+        "./elements/index.js",
+    ],
+    "exclude": [
+        "node_modules",
+        "src",
+        "dist",
+        "scripts"
+    ]
+}

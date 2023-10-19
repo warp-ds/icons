@@ -1,16 +1,23 @@
-import * as eik from '@eik/esbuild-plugin';
-import esbuild from 'esbuild';
+import esbuild from "esbuild";
+import { glob } from "glob";
+import chalk from "chalk";
 
-await eik.load();
+const files = glob.sync("elements/*.js");
 
-await esbuild.build({
-  plugins: [eik.plugin()],
-  entryPoints: ['elements/index.js'],
-  bundle: true,
-  outfile: 'dist/elements/icons.js',
-  format: 'esm',
-  sourcemap: true,
-  target: 'es2017',
-  minify: true,
-  external: ['lit'],
+files.forEach(async (filePath) => {
+  console.log(`${chalk.cyan("elements")}: Building elements icon ${chalk.yellow(filePath)} `);
+  try {
+    await esbuild.build({
+      entryPoints: [filePath],
+      bundle: true,
+      outfile: `dist/${filePath}`,
+      format: "esm",
+      sourcemap: true,
+      target: "es2017",
+      minify: true,
+      external: ["lit"],
+    });
+  } catch (err) {
+    console.error(err);
+  }
 });
