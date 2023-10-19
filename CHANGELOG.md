@@ -1,3 +1,10 @@
+# [1.1.0-next.13](https://github.com/warp-ds/icons/compare/v1.1.0-next.12...v1.1.0-next.13) (2023-10-19)
+
+
+### Bug Fixes
+
+* make sure finnish translations aren't gitignored ([#40](https://github.com/warp-ds/icons/issues/40)) ([5c49b2b](https://github.com/warp-ds/icons/commit/5c49b2b752463e7f8c1c5ed181148da5620a525c))
+
 # [1.1.0-next.12](https://github.com/warp-ds/icons/compare/v1.1.0-next.11...v1.1.0-next.12) (2023-10-13)
 
 
