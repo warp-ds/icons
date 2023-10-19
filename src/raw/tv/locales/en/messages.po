@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/tv.js:2
 msgid "icon.title.tv"
 msgstr "Flat screen TV"
+

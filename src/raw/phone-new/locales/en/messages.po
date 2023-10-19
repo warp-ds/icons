@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/phone-new.js:2
 msgid "icon.title.phone-new"
 msgstr "Smartphone"
+

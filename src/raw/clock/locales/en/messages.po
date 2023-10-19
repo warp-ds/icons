@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/clock.js:2
 msgid "icon.title.clock"
 msgstr "Clock"
+

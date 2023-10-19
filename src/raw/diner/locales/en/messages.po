@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/diner.js:2
 msgid "icon.title.diner"
 msgstr "Knife and fork"
+

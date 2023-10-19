@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/nettbil.js:2
 msgid "icon.title.nettbil"
 msgstr "Two circles with a semicircle above"
+

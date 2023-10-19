@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/woods.js:2
 msgid "icon.title.woods"
 msgstr "Two spruce trees"
+
