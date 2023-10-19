@@ -1,3 +1,10 @@
+# [1.1.0-next.14](https://github.com/warp-ds/icons/compare/v1.1.0-next.13...v1.1.0-next.14) (2023-10-19)
+
+
+### Features
+
+* Generate individual icons ([#39](https://github.com/warp-ds/icons/issues/39)) ([dd74394](https://github.com/warp-ds/icons/commit/dd7439410a0a2a4988e80433f6d5941b3c478195))
+
 # [1.1.0-next.13](https://github.com/warp-ds/icons/compare/v1.1.0-next.12...v1.1.0-next.13) (2023-10-19)
 
 
