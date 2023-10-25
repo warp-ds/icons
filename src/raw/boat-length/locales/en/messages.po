@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/boat-length.js:2
 msgid "icon.title.boat-length"
 msgstr "Boat with arrows in both directions"
+

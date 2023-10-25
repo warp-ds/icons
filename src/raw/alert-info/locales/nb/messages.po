@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: nb\n"
 "X-Crowdin-File-ID: 4144\n"
-"PO-Revision-Date: \n"
 
 #. Title for alert info icon
 #. js-lingui-explicit-id
 #: scripts/temp/alert-info.js:2
 msgid "icon.title.alert-info"
 msgstr "Blå sirkel med bokstaven \"I\""
+

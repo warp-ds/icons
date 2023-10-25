@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/sailboat.js:2
 msgid "icon.title.sailboat"
 msgstr "Two birds and a sailboat on water"
+

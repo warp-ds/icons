@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/credit-card.js:2
 msgid "icon.title.credit-card"
 msgstr "Credit card"
+

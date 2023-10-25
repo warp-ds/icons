@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/up.js:2
 msgid "icon.title.up"
 msgstr "Square with arrow pointing up"
+

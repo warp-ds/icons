@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/info.js:2
 msgid "icon.title.info"
 msgstr "Information circle"
+

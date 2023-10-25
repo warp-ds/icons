@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/stairs.js:2
 msgid "icon.title.stairs"
 msgstr "Stairs with diagonal arrow up"
+

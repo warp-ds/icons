@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/users.js:2
 msgid "icon.title.users"
 msgstr "Group of users"
+

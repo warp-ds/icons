@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/speedometer.js:2
 msgid "icon.title.speedometer"
 msgstr "Speedometer"
+

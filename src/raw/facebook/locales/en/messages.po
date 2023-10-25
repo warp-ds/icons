@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/facebook.js:2
 msgid "icon.title.facebook"
 msgstr "Facebook logo"
+

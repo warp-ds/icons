@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/van.js:2
 msgid "icon.title.van"
 msgstr "Camper van"
+
