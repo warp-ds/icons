@@ -1,3 +1,10 @@
+## [1.1.1-next.2](https://github.com/warp-ds/icons/compare/v1.1.1-next.1...v1.1.1-next.2) (2023-10-25)
+
+
+### Reverts
+
+* Revert "chore: crowdin fixes" ([7f12046](https://github.com/warp-ds/icons/commit/7f1204602741c028fff78d011497bf3f2d9726dc))
+
 ## [1.1.1-next.1](https://github.com/warp-ds/icons/compare/v1.1.0...v1.1.1-next.1) (2023-10-25)
 
 
