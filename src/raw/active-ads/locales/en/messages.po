@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/active-ads.js:2
 msgid "icon.title.active-ads"
 msgstr "Sheet with image and headline with highlighted checkmark"
-

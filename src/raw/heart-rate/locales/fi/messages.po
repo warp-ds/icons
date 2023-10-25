@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: fi\n"
 "X-Crowdin-File-ID: 3562\n"
+"PO-Revision-Date: \n"
 
 #. Title for heart rate icon
 #. js-lingui-explicit-id
 #: scripts/temp/heart-rate.js:2
 msgid "icon.title.heart-rate"
 msgstr "Sydän ja sydänfilmi"
-

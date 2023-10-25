@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/task-list.js:2
 msgid "icon.title.task-list"
 msgstr "List with checkmark"
-

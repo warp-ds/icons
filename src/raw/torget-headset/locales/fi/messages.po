@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: fi\n"
 "X-Crowdin-File-ID: 2932\n"
+"PO-Revision-Date: \n"
 
 #. Title for Torget Headset icon
 #. js-lingui-explicit-id
 #: scripts/temp/torget-headset.js:2
 msgid "icon.title.torget-headset"
 msgstr "Kuulokkeet"
-

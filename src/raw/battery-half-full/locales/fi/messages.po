@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: fi\n"
 "X-Crowdin-File-ID: 4060\n"
+"PO-Revision-Date: \n"
 
 #. Title for battery half full icon
 #. js-lingui-explicit-id
 #: scripts/temp/battery-half-full.js:2
 msgid "icon.title.battery-half-full"
 msgstr "Puolillaan oleva akku"
-

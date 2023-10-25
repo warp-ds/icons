@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/youtube.js:2
 msgid "icon.title.youtube"
 msgstr "YouTube logo"
-
