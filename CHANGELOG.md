@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/warp-ds/icons/compare/v1.1.0...v1.1.1) (2023-10-25)
+
+
+### Bug Fixes
+
+* ssr for elements ([#44](https://github.com/warp-ds/icons/issues/44)) ([626ea5a](https://github.com/warp-ds/icons/commit/626ea5a21ef9f5fa6de5dde89618fc18e4e768e4))
+
 ## [1.1.1-next.2](https://github.com/warp-ds/icons/compare/v1.1.1-next.1...v1.1.1-next.2) (2023-10-25)
 
 
