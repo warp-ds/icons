@@ -15,7 +15,7 @@ files.forEach(async (filePath) => {
       sourcemap: true,
       target: "es2017",
       minify: true,
-      external: ["lit"],
+      external: ["lit", "@lingui/core"],
     });
   } catch (err) {
     console.error(err);
