@@ -8,5 +8,5 @@ await esbuild.build({
   sourcemap: true,
   target: 'es2017',
   minify: true,
-  external: ['vue'],
+  external: ['vue', "@lingui/core"],
 });
