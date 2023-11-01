@@ -1,3 +1,10 @@
+## [1.1.2-next.1](https://github.com/warp-ds/icons/compare/v1.1.1...v1.1.2-next.1) (2023-11-01)
+
+
+### Bug Fixes
+
+* externalize lingui from all icons ([eae5388](https://github.com/warp-ds/icons/commit/eae5388453c96ecfe93e45181a6b30cb8a927251))
+
 ## [1.1.1](https://github.com/warp-ds/icons/compare/v1.1.0...v1.1.1) (2023-10-25)
 
 
