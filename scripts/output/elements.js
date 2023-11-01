@@ -18,6 +18,7 @@ getSVGs().forEach(({ svg, name, size, filename, exportName }) => {
   );
   const { message, id, comment } = titleMessage || {};
   const titleHtml = "${unsafeStatic(`<title>${title}</title>`)}";
+  const classHtml = "class=${this.class}";
   const className = exportName;
   // Handle i18n for icon title
   const output = [
@@ -32,10 +33,13 @@ getSVGs().forEach(({ svg, name, size, filename, exportName }) => {
     ``,
     ``,
     `export class ${className} extends LitElement {`,
+    `static properties = {
+      class: { type: String, reflect: true },
+    }`,
     `  render() {
       const title = i18n.t({ message: \`${message}\`, id: '${id}', comment: '${comment}' });
       
-      return html\`<svg ${attrs.join("")}>${titleHtml}${svg.html}</svg>\`; }`,
+      return html\`<svg ${classHtml} ${attrs.join(" ")}>${titleHtml}${svg.html}</svg>\`; }`,
     `}`,
     `if (!customElements.get('w-icon-${name}-${size}')) {`,
     `  customElements.define('w-icon-${name}-${size}', ${className});`,
@@ -56,4 +60,3 @@ const indexFile = icons
 const indexFilename = joinPath(basepath, "index.js");
 writeFileSync(indexFilename, indexFile, "utf-8");
 console.log(`${chalk.blue("lit")}: Wrote ${chalk.yellow("index")} file`);
-
