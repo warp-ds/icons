@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/paint-roller.js:2
 msgid "icon.title.paint-roller"
 msgstr "Paint roller in action"
-

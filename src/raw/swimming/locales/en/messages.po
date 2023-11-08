@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/swimming.js:2
 msgid "icon.title.swimming"
 msgstr "Swimming person"
-

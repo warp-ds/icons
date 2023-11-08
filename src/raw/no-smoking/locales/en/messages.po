@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/no-smoking.js:2
 msgid "icon.title.no-smoking"
 msgstr "Overlaid cigarette"
-

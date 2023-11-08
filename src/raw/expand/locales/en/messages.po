@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/expand.js:2
 msgid "icon.title.expand"
 msgstr "Arrows pointing outwards"
-

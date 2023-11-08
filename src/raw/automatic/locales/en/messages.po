@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/automatic.js:2
 msgid "icon.title.automatic"
 msgstr "Automatic transmission"
-
