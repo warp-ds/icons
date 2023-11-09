@@ -1,3 +1,15 @@
+## [1.1.2-next.2](https://github.com/warp-ds/icons/compare/v1.1.2-next.1...v1.1.2-next.2) (2023-11-09)
+
+
+### Bug Fixes
+
+* add part-attribute to svg for elements-script ([#50](https://github.com/warp-ds/icons/issues/50)) ([8a056c7](https://github.com/warp-ds/icons/commit/8a056c7a66ad666b9e5391735c24f4203d91df9d))
+
+
+### Reverts
+
+* **crowdin.yml:** revert formatting that makes crowdin.yml format invalid ([#52](https://github.com/warp-ds/icons/issues/52)) ([fc4036b](https://github.com/warp-ds/icons/commit/fc4036bd82b492d1719ec25ffadf15f97a60bab7))
+
 ## [1.1.2-next.1](https://github.com/warp-ds/icons/compare/v1.1.1...v1.1.2-next.1) (2023-11-01)
 
 
