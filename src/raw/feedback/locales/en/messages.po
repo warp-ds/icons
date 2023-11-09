@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/feedback.js:2
 msgid "icon.title.feedback"
 msgstr "Speech bubbles"
+

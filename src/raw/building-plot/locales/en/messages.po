@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/building-plot.js:2
 msgid "icon.title.building-plot"
 msgstr "Dotted square with a highlighted house"
+

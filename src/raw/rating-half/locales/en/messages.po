@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/rating-half.js:2
 msgid "icon.title.rating-half"
 msgstr "Half full blue star"
+

@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/wheelchair.js:2
 msgid "icon.title.wheelchair"
 msgstr "Wheelchair"
+

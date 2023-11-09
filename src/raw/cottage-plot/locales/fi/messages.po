@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: fi\n"
 "X-Crowdin-File-ID: 3790\n"
-"PO-Revision-Date: \n"
 
 #. Title for cottage plot icon
 #. js-lingui-explicit-id
 #: scripts/temp/cottage-plot.js:2
 msgid "icon.title.cottage-plot"
 msgstr "Katkoviivainen neliö ja talo"
+

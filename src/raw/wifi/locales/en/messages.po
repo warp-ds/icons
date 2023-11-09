@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/wifi.js:2
 msgid "icon.title.wifi"
 msgstr "Wi-Fi symbol"
+

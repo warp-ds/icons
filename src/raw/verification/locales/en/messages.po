@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/verification.js:2
 msgid "icon.title.verification"
 msgstr "Blue shield with checkmark"
+

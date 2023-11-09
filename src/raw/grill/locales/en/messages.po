@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/grill.js:2
 msgid "icon.title.grill"
 msgstr "Charcoal grill"
+

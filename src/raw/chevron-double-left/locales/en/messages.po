@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/chevron-double-left.js:2
 msgid "icon.title.chevron-double-left"
 msgstr "Double leftward arrow"
+

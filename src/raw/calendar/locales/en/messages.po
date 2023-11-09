@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/calendar.js:2
 msgid "icon.title.calendar"
 msgstr "Calendar"
+

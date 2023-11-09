@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/bin.js:2
 msgid "icon.title.bin"
 msgstr "Trash can"
+

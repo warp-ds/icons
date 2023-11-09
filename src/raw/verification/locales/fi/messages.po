@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: fi\n"
 "X-Crowdin-File-ID: 2824\n"
-"PO-Revision-Date: \n"
 
 #. Title for verification icon
 #. js-lingui-explicit-id
 #: scripts/temp/verification.js:2
 msgid "icon.title.verification"
 msgstr "Sininen kilpi, jossa on valintamerkki"
+

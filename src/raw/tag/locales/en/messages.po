@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/tag.js:2
 msgid "icon.title.tag"
 msgstr "Tag"
+
