@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/chevron-up.js:2
 msgid "icon.title.chevron-up"
 msgstr "Upward arrow"
-

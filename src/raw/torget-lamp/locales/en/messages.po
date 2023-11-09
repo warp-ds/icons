@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/torget-lamp.js:2
 msgid "icon.title.torget-lamp"
 msgstr "Floor lamp"
-

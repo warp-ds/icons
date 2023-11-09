@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/circle-user.js:2
 msgid "icon.title.circle-user"
 msgstr "Circle with user profile"
-

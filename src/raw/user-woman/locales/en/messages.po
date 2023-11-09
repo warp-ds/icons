@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/user-woman.js:2
 msgid "icon.title.user-woman"
 msgstr "Woman with braids"
-
