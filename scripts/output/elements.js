@@ -35,7 +35,7 @@ getSVGs().forEach(({ svg, name, size, filename, exportName }) => {
     `  render() {
       const title = i18n.t({ message: \`${message}\`, id: '${id}', comment: '${comment}' });
       
-      return html\`<svg ${attrs.join("")}>${titleHtml}${svg.html}</svg>\`; }`,
+      return html\`<svg ${attrs.join("")} part="w-icon-${name}-${size}-part">${titleHtml}${svg.html}</svg>\`; }`,
     `}`,
     `if (!customElements.get('w-icon-${name}-${size}')) {`,
     `  customElements.define('w-icon-${name}-${size}', ${className});`,
