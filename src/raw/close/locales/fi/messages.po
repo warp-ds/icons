@@ -20,5 +20,5 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/close.js:2
 msgid "icon.title.close"
-msgstr "Risti"
+msgstr "Rasti"
 

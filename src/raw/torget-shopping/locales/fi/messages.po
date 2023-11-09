@@ -20,5 +20,5 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/torget-shopping.js:2
 msgid "icon.title.torget-shopping"
-msgstr "Ostoskori"
+msgstr "Ostoskärryt"
 

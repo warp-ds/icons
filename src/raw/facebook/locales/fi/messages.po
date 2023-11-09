@@ -20,5 +20,5 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/facebook.js:2
 msgid "icon.title.facebook"
-msgstr "Facebookin logo"
+msgstr "Facebook logo"
 

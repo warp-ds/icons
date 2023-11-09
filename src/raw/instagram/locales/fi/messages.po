@@ -20,5 +20,5 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/instagram.js:2
 msgid "icon.title.instagram"
-msgstr "Instagramin logo"
+msgstr "Instagram logo"
 

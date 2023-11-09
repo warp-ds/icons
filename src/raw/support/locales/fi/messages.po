@@ -20,5 +20,5 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/support.js:2
 msgid "icon.title.support"
-msgstr "Asiakaspalvelun kuulokkeet"
+msgstr "Asiakaspalvelija, jolla on päässään kuulokkeet"
 

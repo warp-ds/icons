@@ -20,5 +20,5 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/verification.js:2
 msgid "icon.title.verification"
-msgstr "Sininen kilpi, jossa on valintamerkki"
+msgstr "Kilpi, jossa on valintamerkki"
 

@@ -20,5 +20,5 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/town-house.js:2
 msgid "icon.title.town-house"
-msgstr "Kaksi kaupunkipientaloa"
+msgstr "Kaksi kaupunkitaloa"
 

@@ -20,5 +20,5 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/chat-support.js:2
 msgid "icon.title.chat-support"
-msgstr "Puhekuplia, joissa on hymyilevät kasvot"
+msgstr "Puhekuplia, joilla on hymyilevät kasvot"
 

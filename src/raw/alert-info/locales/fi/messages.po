@@ -20,5 +20,5 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/alert-info.js:2
 msgid "icon.title.alert-info"
-msgstr "Sininen ympyrä, jonka sisällä on i-kirjain"
+msgstr "Ympyrä, jonka sisällä on i-kirjain"
 

@@ -20,5 +20,5 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/product-bump.js:2
 msgid "icon.title.product-bump"
-msgstr "Kuva ja teksti, jotka on korostettu ylöspäin osoittavalla nuolella"
+msgstr "Kuva ja tekstiä, joiden vieressä on ylöspäin osoittava nuoli"
 
