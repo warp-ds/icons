@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: fi\n"
 "X-Crowdin-File-ID: 3046\n"
+"PO-Revision-Date: \n"
 
 #. Title for sorting icon
 #. js-lingui-explicit-id
 #: scripts/temp/sorting.js:2
 msgid "icon.title.sorting"
-msgstr "Lajittelujärjestyksen nuoli"
-
+msgstr "Lajittelujärjestyksen osoittava nuoli"

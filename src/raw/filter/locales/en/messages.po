@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/filter.js:2
 msgid "icon.title.filter"
 msgstr "Funnel"
-

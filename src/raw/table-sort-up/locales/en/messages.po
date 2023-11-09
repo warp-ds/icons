@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/table-sort-up.js:2
 msgid "icon.title.table-sort-up"
 msgstr "Upward-pointing arrow"
-

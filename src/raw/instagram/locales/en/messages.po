@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/instagram.js:2
 msgid "icon.title.instagram"
 msgstr "Instagram logo"
-

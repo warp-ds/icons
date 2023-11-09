@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: nb\n"
 "X-Crowdin-File-ID: 4162\n"
+"PO-Revision-Date: \n"
 
 #. Title for airplane hotel icon
 #. js-lingui-explicit-id
 #: scripts/temp/airplane-hotel.js:2
 msgid "icon.title.airplane-hotel"
 msgstr "Fly og hotell"
-
