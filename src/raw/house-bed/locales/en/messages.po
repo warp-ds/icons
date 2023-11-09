@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/house-bed.js:2
 msgid "icon.title.house-bed"
 msgstr "Bed with a roof over it"
-

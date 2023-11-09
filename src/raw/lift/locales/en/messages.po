@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/lift.js:2
 msgid "icon.title.lift"
 msgstr "Elevator"
-

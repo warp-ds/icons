@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/alert-info.js:2
 msgid "icon.title.alert-info"
 msgstr "Blue circle with the letter I"
-
