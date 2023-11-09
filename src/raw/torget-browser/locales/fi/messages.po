@@ -20,5 +20,5 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/torget-browser.js:2
 msgid "icon.title.torget-browser"
-msgstr "Selainikkuna, jossa on T-paita ja korostettu hiiren osoitin"
+msgstr "Selainikkuna, jossa näkyy T-paitaa klikkaava hiiren osoitin"
 

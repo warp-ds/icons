@@ -20,5 +20,5 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/rating-half.js:2
 msgid "icon.title.rating-half"
-msgstr "Puoliksi täytetty sininen tähti"
+msgstr "Puoliksi täytetty tähti"
 

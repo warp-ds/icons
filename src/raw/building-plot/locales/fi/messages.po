@@ -20,5 +20,5 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/building-plot.js:2
 msgid "icon.title.building-plot"
-msgstr "Katkoviivainen neliö ja talo"
+msgstr "Katkoviivoilla piirretty neliö ja talo"
 

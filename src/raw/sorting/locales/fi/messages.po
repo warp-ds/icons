@@ -20,5 +20,5 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/sorting.js:2
 msgid "icon.title.sorting"
-msgstr "Lajittelujärjestyksen nuoli"
+msgstr "Lajittelujärjestyksen osoittava nuoli"
 

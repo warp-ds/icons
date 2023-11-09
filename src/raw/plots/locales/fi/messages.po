@@ -20,5 +20,5 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/plots.js:2
 msgid "icon.title.plots"
-msgstr "Katkoviivainen neliö ja neliö, jonka sisällä on pienempi neliö"
+msgstr "Katkoviivoilla piirretty neliö, jonka sisällä on pienempi neliö"
 

@@ -20,5 +20,5 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/torget-verified.js:2
 msgid "icon.title.torget-verified"
-msgstr "Selainikkuna, jonka oikeassa alakulmassa on korostettu kilpi"
+msgstr "Selainikkuna, jonka oikeassa alakulmassa on kilpi"
 

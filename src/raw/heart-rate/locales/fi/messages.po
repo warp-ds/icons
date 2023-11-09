@@ -20,5 +20,5 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/heart-rate.js:2
 msgid "icon.title.heart-rate"
-msgstr "Sydän ja sydänfilmi"
+msgstr "Sydän, jonka sisällä sydänkäyrä"
 

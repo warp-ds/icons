@@ -20,5 +20,5 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/sauna.js:2
 msgid "icon.title.sauna"
-msgstr "Talo, jonka sisällä on lämpöaaltoja"
+msgstr "Talo ja lämpöaaltoja"
 

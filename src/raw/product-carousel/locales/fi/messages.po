@@ -20,5 +20,5 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/product-carousel.js:2
 msgid "icon.title.product-carousel"
-msgstr "Korostettu suorakulmio, jonka takana on kaksi suorakulmiota"
+msgstr "Suorakulmio, jonka taustalla on kaksi suorakulmiota"
 

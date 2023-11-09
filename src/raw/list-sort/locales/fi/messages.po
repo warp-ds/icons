@@ -20,5 +20,5 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/list-sort.js:2
 msgid "icon.title.list-sort"
-msgstr "Pystysuora lista"
+msgstr "Lista"
 

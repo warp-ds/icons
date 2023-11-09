@@ -20,5 +20,5 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/measure.js:2
 msgid "icon.title.measure"
-msgstr "Katkoviivainen neliö mittanuolilla"
+msgstr "Katkoviivoilla piirretty neliö ja mittanuolet"
 

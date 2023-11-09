@@ -20,5 +20,5 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/star-check.js:2
 msgid "icon.title.star-check"
-msgstr "Tähti, jossa on korostettu valintamerkki"
+msgstr "Tähti ja valintamerkki"
 
