@@ -1,4 +1,4 @@
-import { Messages, i18n } from '@lingui/core';
+import { Messages } from '@lingui/core';
 
 export const supportedLocales = ['en', 'nb', 'fi'] as const;
 type SupportedLocale = (typeof supportedLocales)[number];
@@ -52,10 +52,10 @@ export const getMessages = (
 export const activateI18n = (
   enMessages: Messages,
   nbMessages: Messages,
-  fiMessages: Messages
-) => {
+  fiMessages: Messages,
+i18nInstance: any) => {
   const locale = detectLocale();
   const messages = getMessages(locale, enMessages, nbMessages, fiMessages);
-  i18n.load(locale, messages);
-  i18n.activate(locale);
+  i18nInstance.loadAndActivate({ locale, messages });
+  // i18n.activate(locale);
 };
