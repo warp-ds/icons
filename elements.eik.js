@@ -5,7 +5,11 @@ import chalk from "chalk";
 const files = glob.sync("elements/*.js");
 
 files.forEach(async (filePath) => {
-  console.log(`${chalk.cyan("elements")}: Building elements icon ${chalk.yellow(filePath)} `);
+  console.log(
+    `${chalk.cyan("elements")}: Building elements icon ${chalk.yellow(
+      filePath
+    )} `
+  );
   try {
     await esbuild.build({
       entryPoints: [filePath],

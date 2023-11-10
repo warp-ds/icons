@@ -10,8 +10,10 @@
   ],
   "types": "./dist/types",
   "exports": {
-    "./react": "./dist/react/icons.js",
-    "./vue": "./dist/vue/icons.js",
+    "./react": "./dist/react/index.js",
+    "./react/*": "./dist/react/*.js",
+    "./vue": "./dist/vue/index.js",
+    "./vue/*": "./dist/vue/*.js",
     "./elements": "./dist/elements/index.js",
     "./elements/*": "./dist/elements/*.js",
     "./package.json": "./package.json"
