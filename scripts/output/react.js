@@ -21,21 +21,16 @@ getSVGs().forEach(({ svg, filename, exportName, name }) => {
   const output = [
     `import React from 'react';`,
     `import { i18n } from '@lingui/core';`,
-    `import { messages as nbMessages} from '../../src/raw/${name}/locales/nb/messages.mjs';`,
-    `import { messages as enMessages} from '../../src/raw/${name}/locales/en/messages.mjs';`,
-    `import { messages as fiMessages} from '../../src/raw/${name}/locales/fi/messages.mjs';`,
-    `import { activateI18n } from '../../src/utils/i18n';`,
+    `import { messages as nbMessages} from '../src/raw/${name}/locales/nb/messages.mjs';`,
+    `import { messages as enMessages} from '../src/raw/${name}/locales/en/messages.mjs';`,
+    `import { messages as fiMessages} from '../src/raw/${name}/locales/fi/messages.mjs';`,
+    `import { activateI18n } from '../src/utils/i18n';`,
     `activateI18n(enMessages, nbMessages, fiMessages);`,
     `const title = i18n.t({ message: \`${message}\`, id: '${id}', comment: '${comment}' });`,
     `export const ${exportName} = (attrs) => React.createElement('svg', { ${attrs.join(", ")}, dangerouslySetInnerHTML: { __html: ${'`'}${titleHtml}${svg.html}${'`'} }, ...attrs, });`,
   ].join("\n");
 
-
-  // Make subfolder for each icon name if it doesn't exist
-  const iconNamePath = `${basepath}${name}/`;
-  !existsSync(iconNamePath) && mkdirSync(iconNamePath, { recursive: true })
-
-  const path = joinPath(iconNamePath, filename)
+  const path = joinPath(basepath, filename)
   writeFileSync(path, output, 'utf-8')
   icons.push({ exportName, filename, name })
 })
@@ -45,7 +40,7 @@ console.log(`${chalk.cyan('react')}: Processing ${chalk.yellow(iconNames.length)
 console.log(`${chalk.cyan('react')}: Wrote ${chalk.yellow(icons.length)} icon files (different sizes for the same icon)`)
 
 // Create index file
-const indexFile = icons.map(({ filename, name }) => `export * from './${name}/${filename}'`) .join("\n");
+const indexFile = icons.map(({ filename }) => `export * from './${filename}'`) .join("\n");
 const indexFilename = joinPath(basepath, 'index.js')
 writeFileSync(indexFilename, `${indexFile}`, 'utf-8')
 console.log(`${chalk.cyan('react')}: Wrote ${chalk.yellow('index')} file`)
