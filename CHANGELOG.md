@@ -1,3 +1,10 @@
+# [1.2.0-next.1](https://github.com/warp-ds/icons/compare/v1.1.2-next.2...v1.2.0-next.1) (2023-11-10)
+
+
+### Features
+
+* Expose individual named exports for React & Vue ([#54](https://github.com/warp-ds/icons/issues/54)) ([1ab02f8](https://github.com/warp-ds/icons/commit/1ab02f8336fec122b0ee2cb74c7636c25cd15feb))
+
 ## [1.1.2-next.2](https://github.com/warp-ds/icons/compare/v1.1.2-next.1...v1.1.2-next.2) (2023-11-09)
 
 
