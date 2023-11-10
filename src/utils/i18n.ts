@@ -53,9 +53,10 @@ export const activateI18n = (
   enMessages: Messages,
   nbMessages: Messages,
   fiMessages: Messages,
-i18nInstance: any) => {
+  i18nInstance: any) => {
   const locale = detectLocale();
   const messages = getMessages(locale, enMessages, nbMessages, fiMessages);
   i18nInstance.loadAndActivate({ locale, messages });
+  return i18nInstance
   // i18n.activate(locale);
 };

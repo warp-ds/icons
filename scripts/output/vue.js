@@ -39,12 +39,13 @@ svgs.forEach(({ svg, filename, exportName, name }) => {
   const titleHtml = "<title>${title}</title>";
   // Handle i18n of icon title
   const output = [
-    `import { i18n } from '@lingui/core';`,
-    `import { activateI18n } from '../src/utils/i18n';`,
+    // `import { i18n } from '@lingui/core';`,
+    `import { detectLocale } from '../src/utils/i18n';`,
     `import { h } from 'vue'`,
     `const msgs = ${JSON.stringify(messages[name])}`,
-    `const i18instance = activateI18n(msgs.en, msgs.nb, msgs.fi, i18n);`,
-    `const title = i18instance.t({ message: \`${message}\`, id: '${id}', comment: '${comment}' });`,
+    // `i18n.loadAndActivate({ locale: 'nb', messages: msgs.nb })`,
+    // `const title = i18n.t({ message: \`${message}\`, id: '${id}', comment: '${comment}' });`,
+    `const title = msgs['nb']`,
     `export default (_, { attrs }) => h('svg', { ${attrs.join(', ')}, innerHTML: ${'`'}${titleHtml}${svg.html}${'`'}, ...attrs })`
   ].join('\n')
   const path = joinPath(basepath, filename)
