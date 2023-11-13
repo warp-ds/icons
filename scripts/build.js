@@ -9,7 +9,7 @@ import { nanoid } from "nanoid";
 import { getElement, getNameAndSize, pascalCase } from './util/helpers.js'
 import { readFileSync } from 'node:fs'
 import yaml from 'js-yaml'
-import { basedir } from "../index.js";
+import { basedir } from "../base.js";
 const descriptionsFile = readFileSync(path.join(basedir, 'icon-descriptions.yml'))
 const descriptions = yaml.load(descriptionsFile)
 

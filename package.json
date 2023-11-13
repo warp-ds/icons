@@ -4,11 +4,32 @@
   "version": "1.2.0",
   "repository": "git@github.com:warp-ds/icons.git",
   "description": "WARP's icon set",
-  "main": "index.js",
+  "main": "main.js",
   "files": [
     "dist"
   ],
-  "types": "./dist/types",
+  "typesVersions": {
+    "*": {
+      "./react": [
+        "./dist/react/index.d.ts"
+      ],
+      "./react/*": [
+        "./dist/react/*.d.ts"
+      ],
+      "./vue": [
+        "./dist/vue/index.d.ts"
+      ],
+      "./vue/*": [
+        "./dist/vue/*.d.ts"
+      ],
+      "./elements": [
+        "./dist/elements/index.d.ts"
+      ],
+      "./elements/*": [
+        "./dist/elements/*.d.ts"
+      ]
+    }
+  },
   "exports": {
     "./react": "./dist/react/index.js",
     "./react/*": "./dist/react/*.js",
@@ -30,9 +51,9 @@
     "build:release": "rimraf dist && pnpm build && pnpm build:vue && pnpm build:react && pnpm build:elements && tsc",
     "vite:build": "vite build",
     "preview": "pnpm run build && vite build && vite preview",
-    "build:react": "rimraf react && mkdir react && lingui extract && lingui compile && node ./scripts/output/react.js && node ./react.eik.js",
-    "build:vue": "rimraf vue && mkdir vue && lingui extract && lingui compile && node ./scripts/output/vue.js && node ./vue.eik.js",
-    "build:elements": "rimraf elements && mkdir elements && lingui extract && lingui compile && node ./scripts/output/elements.js && node ./elements.eik.js",
+    "build:react": "rimraf react && mkdir react && lingui extract && lingui compile && node ./scripts/output/react.js && node ./buildReact.js",
+    "build:vue": "rimraf vue && mkdir vue && lingui extract && lingui compile && node ./scripts/output/vue.js && node ./buildVue.js",
+    "build:elements": "rimraf elements && mkdir elements && lingui extract && lingui compile && node ./scripts/output/elements.js && node ./buildElements.js",
     "build:all": "lingui extract && lingui compile && rimraf react && mkdir react && rimraf vue && mkdir vue && rimraf elements && mkdir elements && node ./scripts/output/react.js && node ./react.eik.js && node ./scripts/output/vue.js && node ./vue.eik.js && node ./scripts/output/elements.js && node ./elements.eik.js"
   },
   "license": "Apache-2.0",

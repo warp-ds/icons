@@ -2,11 +2,11 @@ import esbuild from "esbuild";
 import { glob } from "glob";
 import chalk from "chalk";
 
-const files = glob.sync("elements/*.js");
+const files = glob.sync("vue/*.js");
 
 files.forEach(async (filePath) => {
   console.log(
-    `${chalk.cyan("elements")}: Building elements icon ${chalk.yellow(
+    `${chalk.cyan("vue")}: Building vue icon ${chalk.yellow(
       filePath
     )} `
   );
@@ -18,8 +18,8 @@ files.forEach(async (filePath) => {
       format: "esm",
       sourcemap: true,
       target: "es2017",
-      minify: true,
-      external: ["lit", "@lingui/core"],
+      minify: false,
+      external: ["vue", "@lingui/core"],
     });
   } catch (err) {
     console.error(err);

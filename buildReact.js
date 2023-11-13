@@ -18,7 +18,7 @@ files.forEach(async (filePath) => {
       format: "esm",
       sourcemap: true,
       target: "es2017",
-      minify: true,
+      minify: false,
       external: ["react", "@lingui/core"],
     });
   } catch (err) {

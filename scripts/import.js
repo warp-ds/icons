@@ -6,7 +6,7 @@ import fetch from "node-fetch";
 import path from "node:path";
 import ora from "ora";
 import prompts from "prompts";
-import { basedir } from "../index.js";
+import { basedir } from "../base.js";
 import { getNameAndSize } from "./util/helpers.js";
 
 
