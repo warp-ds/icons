@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/spa.js:2
 msgid "icon.title.spa"
 msgstr "Water lily"
-

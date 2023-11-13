@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/plots.js:2
 msgid "icon.title.plots"
 msgstr "Dotted square with a highlighted smaller square"
-

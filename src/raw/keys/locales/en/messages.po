@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/keys.js:2
 msgid "icon.title.keys"
 msgstr "Two keys on a keyring"
-

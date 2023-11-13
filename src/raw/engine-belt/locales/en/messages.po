@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/engine-belt.js:2
 msgid "icon.title.engine-belt"
 msgstr "Fan belt"
-

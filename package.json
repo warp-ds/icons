@@ -1,7 +1,7 @@
 {
   "name": "@warp-ds/icons",
   "type": "module",
-  "version": "1.1.1",
+  "version": "1.2.0-next.1",
   "repository": "git@github.com:warp-ds/icons.git",
   "description": "WARP's icon set",
   "main": "index.js",
@@ -10,8 +10,10 @@
   ],
   "types": "./dist/types",
   "exports": {
-    "./react": "./dist/react/icons.js",
-    "./vue": "./dist/vue/icons.js",
+    "./react": "./dist/react/index.js",
+    "./react/*": "./dist/react/*.js",
+    "./vue": "./dist/vue/index.js",
+    "./vue/*": "./dist/vue/*.js",
     "./elements": "./dist/elements/index.js",
     "./elements/*": "./dist/elements/*.js",
     "./package.json": "./package.json"

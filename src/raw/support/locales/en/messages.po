@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/support.js:2
 msgid "icon.title.support"
 msgstr "Customer support headset"
-
