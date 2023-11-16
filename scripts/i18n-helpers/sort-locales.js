@@ -25,4 +25,4 @@ sortedKeys.forEach(key => {
 // Generate the JavaScript code with export default statement and keys without quotes
 const jsCode = `export default ${JSON.stringify(sortedContent, null, 2).replace(/"([^"]+)":/g, '$1:')};\n`;
 
-fs.writeFileSync('./sortedFile.js', jsCode);
+fs.writeFileSync('./default-icon-descriptions.js', jsCode);

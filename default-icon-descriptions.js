@@ -69,6 +69,16 @@ export default {
     id: "icon.title.automatic",
     comment: "Title for automatic icon"
   },
+  autovexdark: {
+    message: "",
+    id: "icon.title.autovexdark",
+    comment: "Title for AutovexDark icon"
+  },
+  autovexlight: {
+    message: "",
+    id: "icon.title.autovexlight",
+    comment: "Title for AutovexLight icon"
+  },
   backwheeldrive: {
     message: "Rear-wheel drive",
     id: "icon.title.back-wheel-drive",
@@ -244,6 +254,11 @@ export default {
     id: "icon.title.car-key",
     comment: "Title for car key icon"
   },
+  carpart: {
+    message: "",
+    id: "icon.title.carpart",
+    comment: "Title for CarPart icon"
+  },
   carrear: {
     message: "Car rear view",
     id: "icon.title.car-rear",
@@ -283,6 +298,11 @@ export default {
     message: "Chainsaw",
     id: "icon.title.chainsaw",
     comment: "Title for chainsaw icon"
+  },
+  chair: {
+    message: "",
+    id: "icon.title.chair",
+    comment: "Title for Chair icon"
   },
   charger: {
     message: "Charging cable",
@@ -624,6 +644,11 @@ export default {
     id: "icon.title.download",
     comment: "Title for download icon"
   },
+  drawer: {
+    message: "Drawer",
+    id: "icon.title.drawer",
+    comment: "Title for drawer icon"
+  },
   drink: {
     message: "Cocktail glass",
     id: "icon.title.drink",
@@ -954,6 +979,11 @@ export default {
     id: "icon.title.guitar",
     comment: "Title for guitar icon"
   },
+  guitarbat: {
+    message: "",
+    id: "icon.title.guitarbat",
+    comment: "Title for GuitarBat icon"
+  },
   hamburger: {
     message: "Hamburger",
     id: "icon.title.hamburger",
@@ -1019,6 +1049,16 @@ export default {
     id: "icon.title.honk",
     comment: "Title for honk icon"
   },
+  honkdark: {
+    message: "",
+    id: "icon.title.honkdark",
+    comment: "Title for HonkDark icon"
+  },
+  honklight: {
+    message: "",
+    id: "icon.title.honklight",
+    comment: "Title for HonkLight icon"
+  },
   hospital: {
     message: "Hospital building",
     id: "icon.title.hospital",
@@ -1053,6 +1093,11 @@ export default {
     message: "House with a person",
     id: "icon.title.house-person",
     comment: "Title for house person icon"
+  },
+  iceskater: {
+    message: "",
+    id: "icon.title.iceskater",
+    comment: "Title for IceSkater icon"
   },
   idea: {
     message: "Lightbulb",
@@ -1374,6 +1419,21 @@ export default {
     id: "icon.title.minus",
     comment: "Title for minus icon"
   },
+  mittanbuddark: {
+    message: "",
+    id: "icon.title.mittanbuddark",
+    comment: "Title for MittAnbudDark icon"
+  },
+  mittanbudlight: {
+    message: "",
+    id: "icon.title.mittanbudlight",
+    comment: "Title for MittAnbudLight icon"
+  },
+  mixer: {
+    message: "Kitchen machine",
+    id: "icon.title.mixer",
+    comment: "Title for mixer icon"
+  },
   mobile: {
     message: "Mobile phone",
     id: "icon.title.mobile",
@@ -1418,6 +1478,16 @@ export default {
     message: "Two circles with a semicircle above",
     id: "icon.title.nettbil",
     comment: "Title for Nettbil icon"
+  },
+  nettbildark: {
+    message: "",
+    id: "icon.title.nettbildark",
+    comment: "Title for NettbilDark icon"
+  },
+  nettbillight: {
+    message: "",
+    id: "icon.title.nettbillight",
+    comment: "Title for NettbilLight icon"
   },
   network: {
     message: "Network of nodes",
@@ -1473,6 +1543,16 @@ export default {
     message: "Office desk with a computer screen",
     id: "icon.title.office-desk",
     comment: "Title for office desk icon"
+  },
+  oikotiedark: {
+    message: "",
+    id: "icon.title.oikotiedark",
+    comment: "Title for OikotieDark icon"
+  },
+  oikotielight: {
+    message: "",
+    id: "icon.title.oikotielight",
+    comment: "Title for OikotieLight icon"
   },
   online: {
     message: "Computer monitor with Wi-Fi signal",
@@ -1814,6 +1894,16 @@ export default {
     id: "icon.title.remove",
     comment: "Title for remove icon"
   },
+  remppatoridark: {
+    message: "",
+    id: "icon.title.remppatoridark",
+    comment: "Title for RemppatoriDark icon"
+  },
+  remppatorilight: {
+    message: "",
+    id: "icon.title.remppatorilight",
+    comment: "Title for RemppatoriLight icon"
+  },
   repair: {
     message: "Wrench and screwdriver",
     id: "icon.title.repair",
@@ -1944,6 +2034,16 @@ export default {
     id: "icon.title.shipping",
     comment: "Title for shipping icon"
   },
+  shirt: {
+    message: "",
+    id: "icon.title.shirt",
+    comment: "Title for Shirt icon"
+  },
+  shoes: {
+    message: "A pair of shoes",
+    id: "icon.title.shoes",
+    comment: "Title for shoes icon"
+  },
   shoppingcart: {
     message: "Shopping cart",
     id: "icon.title.shopping-cart",
@@ -2069,10 +2169,20 @@ export default {
     id: "icon.title.store",
     comment: "Title for store icon"
   },
+  storefront: {
+    message: "",
+    id: "icon.title.storefront",
+    comment: "Title for StoreFront icon"
+  },
   stove: {
     message: "Stove",
     id: "icon.title.stove",
     comment: "Title for stove icon"
+  },
+  stroller: {
+    message: "",
+    id: "icon.title.stroller",
+    comment: "Title for Stroller icon"
   },
   suitcase: {
     message: "Suitcase",
@@ -2329,6 +2439,11 @@ export default {
     id: "icon.title.twitter",
     comment: "Title for Twitter icon"
   },
+  twitterx: {
+    message: "",
+    id: "icon.title.twitterx",
+    comment: "Title for TwitterX icon"
+  },
   umbrella: {
     message: "Umbrella",
     id: "icon.title.umbrella",
@@ -2399,10 +2514,20 @@ export default {
     id: "icon.title.vaccine",
     comment: "Title for vaccine icon"
   },
+  vacuum: {
+    message: "Vacuum cleaner",
+    id: "icon.title.vacuum",
+    comment: "Title for vacuum icon"
+  },
   van: {
     message: "Camper van",
     id: "icon.title.van",
     comment: "Title for van icon"
+  },
+  vase: {
+    message: "",
+    id: "icon.title.vase",
+    comment: "Title for Vase icon"
   },
   vehicle: {
     message: "Car",
