@@ -1,3 +1,10 @@
+## [1.2.1-next.1](https://github.com/warp-ds/icons/compare/v1.2.0...v1.2.1-next.1) (2023-11-16)
+
+
+### Bug Fixes
+
+* Refactor a lot of build things for icons ([#58](https://github.com/warp-ds/icons/issues/58)) ([5c0efc8](https://github.com/warp-ds/icons/commit/5c0efc8579b383531bd787fb4609ad79cf9b8c16))
+
 # [1.2.0](https://github.com/warp-ds/icons/compare/v1.1.1...v1.2.0) (2023-11-13)
 
 
