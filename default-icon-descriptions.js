@@ -70,12 +70,12 @@ export default {
     comment: "Title for automatic icon"
   },
   autovexdark: {
-    message: "",
+    message: "AutovexDark logo",
     id: "icon.title.autovexdark",
     comment: "Title for AutovexDark icon"
   },
   autovexlight: {
-    message: "",
+    message: "AutovexLight logo",
     id: "icon.title.autovexlight",
     comment: "Title for AutovexLight icon"
   },
@@ -255,7 +255,7 @@ export default {
     comment: "Title for car key icon"
   },
   carpart: {
-    message: "",
+    message: "Car part",
     id: "icon.title.carpart",
     comment: "Title for CarPart icon"
   },
@@ -300,7 +300,7 @@ export default {
     comment: "Title for chainsaw icon"
   },
   chair: {
-    message: "",
+    message: "Chair",
     id: "icon.title.chair",
     comment: "Title for Chair icon"
   },
@@ -980,7 +980,7 @@ export default {
     comment: "Title for guitar icon"
   },
   guitarbat: {
-    message: "",
+    message: "Guiter with a bat",
     id: "icon.title.guitarbat",
     comment: "Title for GuitarBat icon"
   },
@@ -1050,12 +1050,12 @@ export default {
     comment: "Title for honk icon"
   },
   honkdark: {
-    message: "",
+    message: "Honk",
     id: "icon.title.honkdark",
     comment: "Title for HonkDark icon"
   },
   honklight: {
-    message: "",
+    message: "Honk",
     id: "icon.title.honklight",
     comment: "Title for HonkLight icon"
   },
@@ -1095,7 +1095,7 @@ export default {
     comment: "Title for house person icon"
   },
   iceskater: {
-    message: "",
+    message: "Ice skater",
     id: "icon.title.iceskater",
     comment: "Title for IceSkater icon"
   },
@@ -1420,12 +1420,12 @@ export default {
     comment: "Title for minus icon"
   },
   mittanbuddark: {
-    message: "",
+    message: "MittAnbud",
     id: "icon.title.mittanbuddark",
     comment: "Title for MittAnbudDark icon"
   },
   mittanbudlight: {
-    message: "",
+    message: "MittAnbud",
     id: "icon.title.mittanbudlight",
     comment: "Title for MittAnbudLight icon"
   },
@@ -1480,12 +1480,12 @@ export default {
     comment: "Title for Nettbil icon"
   },
   nettbildark: {
-    message: "",
+    message: "Nettbil",
     id: "icon.title.nettbildark",
     comment: "Title for NettbilDark icon"
   },
   nettbillight: {
-    message: "",
+    message: "Nettbil",
     id: "icon.title.nettbillight",
     comment: "Title for NettbilLight icon"
   },
@@ -1545,12 +1545,12 @@ export default {
     comment: "Title for office desk icon"
   },
   oikotiedark: {
-    message: "",
+    message: "Oikotie",
     id: "icon.title.oikotiedark",
     comment: "Title for OikotieDark icon"
   },
   oikotielight: {
-    message: "",
+    message: "Oikotie",
     id: "icon.title.oikotielight",
     comment: "Title for OikotieLight icon"
   },
@@ -1895,12 +1895,12 @@ export default {
     comment: "Title for remove icon"
   },
   remppatoridark: {
-    message: "",
+    message: "RemppaTori",
     id: "icon.title.remppatoridark",
     comment: "Title for RemppatoriDark icon"
   },
   remppatorilight: {
-    message: "",
+    message: "RemppaTori",
     id: "icon.title.remppatorilight",
     comment: "Title for RemppatoriLight icon"
   },
@@ -2035,7 +2035,7 @@ export default {
     comment: "Title for shipping icon"
   },
   shirt: {
-    message: "",
+    message: "Shirt",
     id: "icon.title.shirt",
     comment: "Title for Shirt icon"
   },
@@ -2170,7 +2170,7 @@ export default {
     comment: "Title for store icon"
   },
   storefront: {
-    message: "",
+    message: "Storefront building",
     id: "icon.title.storefront",
     comment: "Title for StoreFront icon"
   },
@@ -2180,7 +2180,7 @@ export default {
     comment: "Title for stove icon"
   },
   stroller: {
-    message: "",
+    message: "Stroller",
     id: "icon.title.stroller",
     comment: "Title for Stroller icon"
   },
@@ -2440,7 +2440,7 @@ export default {
     comment: "Title for Twitter icon"
   },
   twitterx: {
-    message: "",
+    message: "X logo",
     id: "icon.title.twitterx",
     comment: "Title for TwitterX icon"
   },
@@ -2525,7 +2525,7 @@ export default {
     comment: "Title for van icon"
   },
   vase: {
-    message: "",
+    message: "Vase",
     id: "icon.title.vase",
     comment: "Title for Vase icon"
   },
