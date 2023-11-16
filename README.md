@@ -106,28 +106,12 @@ pnpm dev
 
 ### Typescript support
 
-You can define an 'icons.d.ts' file in your repo and export the types bundled with the package for the correct namespace. Eg for React:
-
-```
-declare module '@warp-ds/icons/react' {
-    export * from '@warp-ds/icons/dist/types/react'
-}
-```
+We are bundling types now for all named exports. To make Typescript compiler compliant to these changes you'll need to use `"module": "NodeNext"` in your tsconfig and then all the imports would have types.
 
 ## Releases
 
-This project is continuously published to [NPM](https://www.npmjs.com/package/@warp-ds/icons) and [Eik](https://assets.finn.no/pkg/@warp-ds/icons) using a `next` tag (e.g. `1.1.0-next.1`).
+This project is continuously published to [NPM](https://www.npmjs.com/package/@warp-ds/icons) using a `next` tag (e.g. `1.1.0-next.1`).
 Anyone needing to use the latest changes of this package can point to the `next` version while waiting for the stable release.
-
-Eik versions for each of Vue, Elements and React icons that are built to the ./dist folder are automatically published to Eik under the path `https://assets.finn.no/pkg/{name}/{version}/`.
-
-Example Paths:
-* React: `https://assets.finn.no/pkg/@warp-ds/icons/v1/react/icons.min.js`
-* Vue: `https://assets.finn.no/pkg/@warp-ds/icons/v1/vue/icons.min.js`
-* Custom Elements: `https://assets.finn.no/pkg/@warp-ds/icons/v1/elements/icons.min.js`
-* Raw ads svg at size 16: `https://assets.finn.no/pkg/@warp-ds/icons/v1/16/ads.svg`
-* Raw air con svg at size 24: `https://assets.finn.no/pkg/@warp-ds/icons/v1/24/air-con.svg`
-
 
 ## Changelog
 
