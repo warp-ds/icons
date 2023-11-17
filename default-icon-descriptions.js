@@ -2439,11 +2439,6 @@ export default {
     id: "icon.title.twitter",
     comment: "Title for Twitter icon"
   },
-  twitterx: {
-    message: "X logo",
-    id: "icon.title.twitterx",
-    comment: "Title for TwitterX icon"
-  },
   umbrella: {
     message: "Umbrella",
     id: "icon.title.umbrella",

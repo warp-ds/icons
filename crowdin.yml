@@ -82,11 +82,6 @@ files:
       "translation": "/src/raw/up/locales/%two_letters_code%/messages.po",
     },
     {
-      "source": "/src/raw/twitter-x/locales/en/messages.po",
-      "dest": "/icons/**/%original_file_name%",
-      "translation": "/src/raw/twitter-x/locales/%two_letters_code%/messages.po",
-    },
-    {
       "source": "/src/raw/twitter/locales/en/messages.po",
       "dest": "/icons/**/%original_file_name%",
       "translation": "/src/raw/twitter/locales/%two_letters_code%/messages.po",
