@@ -1,3 +1,10 @@
+# [1.3.0-next.2](https://github.com/warp-ds/icons/compare/v1.3.0-next.1...v1.3.0-next.2) (2023-11-22)
+
+
+### Bug Fixes
+
+* Add export to react script which broke exports in index.js ([#61](https://github.com/warp-ds/icons/issues/61)) ([57288c6](https://github.com/warp-ds/icons/commit/57288c6a58dce129d09d0f372ff755035028d6e6))
+
 # [1.3.0-next.1](https://github.com/warp-ds/icons/compare/v1.2.1-next.1...v1.3.0-next.1) (2023-11-21)
 
 
