@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/norwegian-motor.js:2
 msgid "icon.title.norwegian-motor"
 msgstr "Circle with NBF"
+

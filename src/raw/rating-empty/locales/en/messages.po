@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/rating-empty.js:2
 msgid "icon.title.rating-empty"
 msgstr "Empty blue star"
+

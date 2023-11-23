@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: nb\n"
 "X-Crowdin-File-ID: 4078\n"
-"PO-Revision-Date: \n"
 
 #. Title for bank ident icon
 #. js-lingui-explicit-id
 #: scripts/temp/bank-ident.js:2
 msgid "icon.title.bank-ident"
 msgstr "Skjold med sjekkmerke"
+

@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/car-subscription.js:2
 msgid "icon.title.car-subscription"
 msgstr "Car and checklist"
+

@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/torget-delivery.js:2
 msgid "icon.title.torget-delivery"
 msgstr "Hand holding a small box"
+

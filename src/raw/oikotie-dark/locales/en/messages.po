@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for OikotieDark icon
 #. js-lingui-explicit-id
 #: scripts/temp/oikotie-dark.js:2
 msgid "icon.title.oikotiedark"
-msgstr "Oikotie"
+msgstr "Oikotie dark icon"
+

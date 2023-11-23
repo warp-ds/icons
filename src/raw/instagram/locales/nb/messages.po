@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: nb\n"
 "X-Crowdin-File-ID: 3496\n"
-"PO-Revision-Date: \n"
 
 #. Title for Instagram icon
 #. js-lingui-explicit-id
 #: scripts/temp/instagram.js:2
 msgid "icon.title.instagram"
 msgstr "Instagram logo"
+

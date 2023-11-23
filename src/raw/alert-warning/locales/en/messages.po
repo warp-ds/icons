@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/alert-warning.js:2
 msgid "icon.title.alert-warning"
 msgstr "Yellow warning triangle with exclamation point"
+

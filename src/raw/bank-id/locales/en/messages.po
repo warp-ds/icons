@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/bank-id.js:2
 msgid "icon.title.bank-id"
 msgstr "BankID logo"
+

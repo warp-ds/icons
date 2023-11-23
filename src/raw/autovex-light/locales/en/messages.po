@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for AutovexLight icon
 #. js-lingui-explicit-id
 #: scripts/temp/autovex-light.js:2
 msgid "icon.title.autovexlight"
-msgstr "AutovexLight logo"
+msgstr "Autovex Light icon"
+

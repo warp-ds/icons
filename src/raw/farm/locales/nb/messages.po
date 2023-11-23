@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: nb\n"
 "X-Crowdin-File-ID: 3658\n"
-"PO-Revision-Date: \n"
 
 #. Title for farm icon
 #. js-lingui-explicit-id
 #: scripts/temp/farm.js:2
 msgid "icon.title.farm"
 msgstr "Låve med silo og fugler"
+

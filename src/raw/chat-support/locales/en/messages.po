@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/chat-support.js:2
 msgid "icon.title.chat-support"
 msgstr "Speech bubbles with smiley faces"
+

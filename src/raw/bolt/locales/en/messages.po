@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/bolt.js:2
 msgid "icon.title.bolt"
 msgstr "Lightning bolt"
+

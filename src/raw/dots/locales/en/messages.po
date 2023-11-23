@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/dots.js:2
 msgid "icon.title.dots"
 msgstr "Three dots"
+

@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for MittAnbudDark icon
 #. js-lingui-explicit-id
 #: scripts/temp/mitt-anbud-dark.js:2
 msgid "icon.title.mittanbuddark"
-msgstr "MittAnbud"
+msgstr "MittAnbud dark icon"
+
