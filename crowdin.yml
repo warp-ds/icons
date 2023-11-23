@@ -42,9 +42,19 @@ files:
       "translation": "/src/raw/verification/locales/%two_letters_code%/messages.po",
     },
     {
+      "source": "/src/raw/vase/locales/en/messages.po",
+      "dest": "/icons/**/%original_file_name%",
+      "translation": "/src/raw/vase/locales/%two_letters_code%/messages.po",
+    },
+    {
       "source": "/src/raw/van/locales/en/messages.po",
       "dest": "/icons/**/%original_file_name%",
       "translation": "/src/raw/van/locales/%two_letters_code%/messages.po",
+    },
+    {
+      "source": "/src/raw/vacuum/locales/en/messages.po",
+      "dest": "/icons/**/%original_file_name%",
+      "translation": "/src/raw/vacuum/locales/%two_letters_code%/messages.po",
     },
     {
       "source": "/src/raw/users/locales/en/messages.po",
@@ -142,6 +152,11 @@ files:
       "translation": "/src/raw/torget-browser/locales/%two_letters_code%/messages.po",
     },
     {
+      "source": "/src/raw/tools/locales/en/messages.po",
+      "dest": "/icons/**/%original_file_name%",
+      "translation": "/src/raw/tools/locales/%two_letters_code%/messages.po",
+    },
+    {
       "source": "/src/raw/three-sixty/locales/en/messages.po",
       "dest": "/icons/**/%original_file_name%",
       "translation": "/src/raw/three-sixty/locales/%two_letters_code%/messages.po",
@@ -192,9 +207,19 @@ files:
       "translation": "/src/raw/suitcase/locales/%two_letters_code%/messages.po",
     },
     {
+      "source": "/src/raw/stroller/locales/en/messages.po",
+      "dest": "/icons/**/%original_file_name%",
+      "translation": "/src/raw/stroller/locales/%two_letters_code%/messages.po",
+    },
+    {
       "source": "/src/raw/stove/locales/en/messages.po",
       "dest": "/icons/**/%original_file_name%",
       "translation": "/src/raw/stove/locales/%two_letters_code%/messages.po",
+    },
+    {
+      "source": "/src/raw/store-front/locales/en/messages.po",
+      "dest": "/icons/**/%original_file_name%",
+      "translation": "/src/raw/store-front/locales/%two_letters_code%/messages.po",
     },
     {
       "source": "/src/raw/store/locales/en/messages.po",
@@ -262,6 +287,16 @@ files:
       "translation": "/src/raw/shower/locales/%two_letters_code%/messages.po",
     },
     {
+      "source": "/src/raw/shoes/locales/en/messages.po",
+      "dest": "/icons/**/%original_file_name%",
+      "translation": "/src/raw/shoes/locales/%two_letters_code%/messages.po",
+    },
+    {
+      "source": "/src/raw/shirt/locales/en/messages.po",
+      "dest": "/icons/**/%original_file_name%",
+      "translation": "/src/raw/shirt/locales/%two_letters_code%/messages.po",
+    },
+    {
       "source": "/src/raw/share/locales/en/messages.po",
       "dest": "/icons/**/%original_file_name%",
       "translation": "/src/raw/share/locales/%two_letters_code%/messages.po",
@@ -310,6 +345,16 @@ files:
       "source": "/src/raw/room-service/locales/en/messages.po",
       "dest": "/icons/**/%original_file_name%",
       "translation": "/src/raw/room-service/locales/%two_letters_code%/messages.po",
+    },
+    {
+      "source": "/src/raw/remppatori-light/locales/en/messages.po",
+      "dest": "/icons/**/%original_file_name%",
+      "translation": "/src/raw/remppatori-light/locales/%two_letters_code%/messages.po",
+    },
+    {
+      "source": "/src/raw/remppatori-dark/locales/en/messages.po",
+      "dest": "/icons/**/%original_file_name%",
+      "translation": "/src/raw/remppatori-dark/locales/%two_letters_code%/messages.po",
     },
     {
       "source": "/src/raw/refresh/locales/en/messages.po",
@@ -452,6 +497,16 @@ files:
       "translation": "/src/raw/paint-roller/locales/%two_letters_code%/messages.po",
     },
     {
+      "source": "/src/raw/oikotie-light/locales/en/messages.po",
+      "dest": "/icons/**/%original_file_name%",
+      "translation": "/src/raw/oikotie-light/locales/%two_letters_code%/messages.po",
+    },
+    {
+      "source": "/src/raw/oikotie-dark/locales/en/messages.po",
+      "dest": "/icons/**/%original_file_name%",
+      "translation": "/src/raw/oikotie-dark/locales/%two_letters_code%/messages.po",
+    },
+    {
       "source": "/src/raw/office-desk/locales/en/messages.po",
       "dest": "/icons/**/%original_file_name%",
       "translation": "/src/raw/office-desk/locales/%two_letters_code%/messages.po",
@@ -472,6 +527,16 @@ files:
       "translation": "/src/raw/new-ad/locales/%two_letters_code%/messages.po",
     },
     {
+      "source": "/src/raw/nettbil-light/locales/en/messages.po",
+      "dest": "/icons/**/%original_file_name%",
+      "translation": "/src/raw/nettbil-light/locales/%two_letters_code%/messages.po",
+    },
+    {
+      "source": "/src/raw/nettbil-dark/locales/en/messages.po",
+      "dest": "/icons/**/%original_file_name%",
+      "translation": "/src/raw/nettbil-dark/locales/%two_letters_code%/messages.po",
+    },
+    {
       "source": "/src/raw/nettbil/locales/en/messages.po",
       "dest": "/icons/**/%original_file_name%",
       "translation": "/src/raw/nettbil/locales/%two_letters_code%/messages.po",
@@ -485,6 +550,21 @@ files:
       "source": "/src/raw/motorcycle/locales/en/messages.po",
       "dest": "/icons/**/%original_file_name%",
       "translation": "/src/raw/motorcycle/locales/%two_letters_code%/messages.po",
+    },
+    {
+      "source": "/src/raw/mixer/locales/en/messages.po",
+      "dest": "/icons/**/%original_file_name%",
+      "translation": "/src/raw/mixer/locales/%two_letters_code%/messages.po",
+    },
+    {
+      "source": "/src/raw/mitt-anbud-light/locales/en/messages.po",
+      "dest": "/icons/**/%original_file_name%",
+      "translation": "/src/raw/mitt-anbud-light/locales/%two_letters_code%/messages.po",
+    },
+    {
+      "source": "/src/raw/mitt-anbud-dark/locales/en/messages.po",
+      "dest": "/icons/**/%original_file_name%",
+      "translation": "/src/raw/mitt-anbud-dark/locales/%two_letters_code%/messages.po",
     },
     {
       "source": "/src/raw/minus/locales/en/messages.po",
@@ -612,6 +692,11 @@ files:
       "translation": "/src/raw/image/locales/%two_letters_code%/messages.po",
     },
     {
+      "source": "/src/raw/ice-skater/locales/en/messages.po",
+      "dest": "/icons/**/%original_file_name%",
+      "translation": "/src/raw/ice-skater/locales/%two_letters_code%/messages.po",
+    },
+    {
       "source": "/src/raw/house-person/locales/en/messages.po",
       "dest": "/icons/**/%original_file_name%",
       "translation": "/src/raw/house-person/locales/%two_letters_code%/messages.po",
@@ -637,6 +722,16 @@ files:
       "translation": "/src/raw/hotel/locales/%two_letters_code%/messages.po",
     },
     {
+      "source": "/src/raw/honk-light/locales/en/messages.po",
+      "dest": "/icons/**/%original_file_name%",
+      "translation": "/src/raw/honk-light/locales/%two_letters_code%/messages.po",
+    },
+    {
+      "source": "/src/raw/honk-dark/locales/en/messages.po",
+      "dest": "/icons/**/%original_file_name%",
+      "translation": "/src/raw/honk-dark/locales/%two_letters_code%/messages.po",
+    },
+    {
       "source": "/src/raw/honk/locales/en/messages.po",
       "dest": "/icons/**/%original_file_name%",
       "translation": "/src/raw/honk/locales/%two_letters_code%/messages.po",
@@ -655,6 +750,11 @@ files:
       "source": "/src/raw/heart-rate/locales/en/messages.po",
       "dest": "/icons/**/%original_file_name%",
       "translation": "/src/raw/heart-rate/locales/%two_letters_code%/messages.po",
+    },
+    {
+      "source": "/src/raw/guitar-bat/locales/en/messages.po",
+      "dest": "/icons/**/%original_file_name%",
+      "translation": "/src/raw/guitar-bat/locales/%two_letters_code%/messages.po",
     },
     {
       "source": "/src/raw/grill/locales/en/messages.po",
@@ -790,6 +890,11 @@ files:
       "source": "/src/raw/drink/locales/en/messages.po",
       "dest": "/icons/**/%original_file_name%",
       "translation": "/src/raw/drink/locales/%two_letters_code%/messages.po",
+    },
+    {
+      "source": "/src/raw/drawer/locales/en/messages.po",
+      "dest": "/icons/**/%original_file_name%",
+      "translation": "/src/raw/drawer/locales/%two_letters_code%/messages.po",
     },
     {
       "source": "/src/raw/download/locales/en/messages.po",
@@ -937,6 +1042,11 @@ files:
       "translation": "/src/raw/charger/locales/%two_letters_code%/messages.po",
     },
     {
+      "source": "/src/raw/chair/locales/en/messages.po",
+      "dest": "/icons/**/%original_file_name%",
+      "translation": "/src/raw/chair/locales/%two_letters_code%/messages.po",
+    },
+    {
       "source": "/src/raw/chainsaw/locales/en/messages.po",
       "dest": "/icons/**/%original_file_name%",
       "translation": "/src/raw/chainsaw/locales/%two_letters_code%/messages.po",
@@ -962,9 +1072,19 @@ files:
       "translation": "/src/raw/car-rent/locales/%two_letters_code%/messages.po",
     },
     {
+      "source": "/src/raw/car-part/locales/en/messages.po",
+      "dest": "/icons/**/%original_file_name%",
+      "translation": "/src/raw/car-part/locales/%two_letters_code%/messages.po",
+    },
+    {
       "source": "/src/raw/car-key/locales/en/messages.po",
       "dest": "/icons/**/%original_file_name%",
       "translation": "/src/raw/car-key/locales/%two_letters_code%/messages.po",
+    },
+    {
+      "source": "/src/raw/car-front/locales/en/messages.po",
+      "dest": "/icons/**/%original_file_name%",
+      "translation": "/src/raw/car-front/locales/%two_letters_code%/messages.po",
     },
     {
       "source": "/src/raw/car/locales/en/messages.po",
@@ -1105,6 +1225,16 @@ files:
       "source": "/src/raw/back-wheel-drive/locales/en/messages.po",
       "dest": "/icons/**/%original_file_name%",
       "translation": "/src/raw/back-wheel-drive/locales/%two_letters_code%/messages.po",
+    },
+    {
+      "source": "/src/raw/autovex-light/locales/en/messages.po",
+      "dest": "/icons/**/%original_file_name%",
+      "translation": "/src/raw/autovex-light/locales/%two_letters_code%/messages.po",
+    },
+    {
+      "source": "/src/raw/autovex-dark/locales/en/messages.po",
+      "dest": "/icons/**/%original_file_name%",
+      "translation": "/src/raw/autovex-dark/locales/%two_letters_code%/messages.po",
     },
     {
       "source": "/src/raw/automatic/locales/en/messages.po",

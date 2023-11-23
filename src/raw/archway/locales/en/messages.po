@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/archway.js:2
 msgid "icon.title.archway"
 msgstr "Archway"
+

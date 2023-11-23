@@ -1,18 +1,19 @@
 {
     "compilerOptions": {
         "target": "esnext",
-        "module": "NodeNext",
+        "moduleResolution": "node",
         "allowJs": true,
         "strictNullChecks": false,
         "emitDeclarationOnly": true,
         "declaration": true,
-        "outDir": "./dist/types",
-        "removeComments": false
+        "outDir": "./dist/",
+        "removeComments": false,
+        "allowSyntheticDefaultImports": true,
     },
-    "files": [
-        "./react/index.js",
-        "./vue/index.js",
-        "./elements/index.js",
+    "include": [
+        "./react/*.js",
+        "./vue/*.js",
+        "./elements/*.js",
     ],
     "exclude": [
         "node_modules",

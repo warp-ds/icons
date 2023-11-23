@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/gas-hybrid.js:2
 msgid "icon.title.gas-hybrid"
 msgstr "Circle with a plug and a drop"
+

@@ -28,6 +28,7 @@ getSVGs().forEach(({ svg, filename, exportName, name }) => {
     `activateI18n(enMessages, nbMessages, fiMessages);`,
     `const title = i18n.t({ message: \`${message}\`, id: '${id}', comment: '${comment}' });`,
     `export const ${exportName} = (attrs) => React.createElement('svg', { ${attrs.join(", ")}, dangerouslySetInnerHTML: { __html: ${'`'}${titleHtml}${svg.html}${'`'} }, ...attrs, });`,
+    `export default ${exportName};`
   ].join("\n");
 
   const path = joinPath(basepath, filename)

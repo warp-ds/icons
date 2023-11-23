@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/economy.js:2
 msgid "icon.title.economy"
 msgstr "Banknote and two coins"
+

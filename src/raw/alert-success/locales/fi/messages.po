@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: fi\n"
 "X-Crowdin-File-ID: 4138\n"
-"PO-Revision-Date: \n"
 
 #. Title for alert success icon
 #. js-lingui-explicit-id
 #: scripts/temp/alert-success.js:2
 msgid "icon.title.alert-success"
 msgstr "Vihreä ympyrä, jonka sisällä on valintamerkki"
+

@@ -1,14 +1,35 @@
 {
   "name": "@warp-ds/icons",
   "type": "module",
-  "version": "1.2.0",
+  "version": "1.3.0-next.2",
   "repository": "git@github.com:warp-ds/icons.git",
   "description": "WARP's icon set",
-  "main": "index.js",
+  "main": "main.js",
   "files": [
     "dist"
   ],
-  "types": "./dist/types",
+  "typesVersions": {
+    "*": {
+      "./react": [
+        "./dist/react/index.d.ts"
+      ],
+      "./react/*": [
+        "./dist/react/*.d.ts"
+      ],
+      "./vue": [
+        "./dist/vue/index.d.ts"
+      ],
+      "./vue/*": [
+        "./dist/vue/*.d.ts"
+      ],
+      "./elements": [
+        "./dist/elements/index.d.ts"
+      ],
+      "./elements/*": [
+        "./dist/elements/*.d.ts"
+      ]
+    }
+  },
   "exports": {
     "./react": "./dist/react/index.js",
     "./react/*": "./dist/react/*.js",
@@ -19,26 +40,24 @@
     "./package.json": "./package.json"
   },
   "scripts": {
-    "commit": "cz",
-    "tsc": "tsc",
-    "import": "node ./scripts/import.js",
+    "build:all": "lingui extract && lingui compile && rimraf react && mkdir react && rimraf vue && mkdir vue && rimraf elements && mkdir elements && node ./scripts/output/react.js && node ./buildReact.js && node ./scripts/output/vue.js && node ./buildVue.js && node ./scripts/output/elements.js && node ./buildElements.js",
+    "build:elements": "rimraf elements && mkdir elements && lingui extract && lingui compile && node ./scripts/output/elements.js && node ./buildElements.js",
+    "build:react": "rimraf react && mkdir react && lingui extract && lingui compile && node ./scripts/output/react.js && node ./buildReact.js",
+    "build:release": "rimraf dist && pnpm build && pnpm build:vue && pnpm build:react && pnpm build:elements && tsc",
+    "build:vue": "rimraf vue && mkdir vue && lingui extract && lingui compile && node ./scripts/output/vue.js && node ./buildVue.js",
     "build": "node ./scripts/build.js && pnpm i18n",
-    "i18n": "node ./scripts/i18n.js",
+    "commit": "cz",
+    "dev": "pnpm build && vite",
     "i18n:clear": "node scripts/i18n-helpers/clear-locales.js",
     "i18n:get-sorted-locales": "node scripts/i18n-helpers/sort-locales.js",
-    "dev": "pnpm build && vite",
-    "build:release": "rimraf dist && pnpm build && pnpm build:vue && pnpm build:react && pnpm build:elements && tsc",
-    "vite:build": "vite build",
+    "i18n": "node ./scripts/i18n.js",
+    "import": "node ./scripts/import.js",
     "preview": "pnpm run build && vite build && vite preview",
-    "build:react": "rimraf react && mkdir react && lingui extract && lingui compile && node ./scripts/output/react.js && node ./react.eik.js",
-    "build:vue": "rimraf vue && mkdir vue && lingui extract && lingui compile && node ./scripts/output/vue.js && node ./vue.eik.js",
-    "build:elements": "rimraf elements && mkdir elements && lingui extract && lingui compile && node ./scripts/output/elements.js && node ./elements.eik.js",
-    "build:all": "lingui extract && lingui compile && rimraf react && mkdir react && rimraf vue && mkdir vue && rimraf elements && mkdir elements && node ./scripts/output/react.js && node ./react.eik.js && node ./scripts/output/vue.js && node ./vue.eik.js && node ./scripts/output/elements.js && node ./elements.eik.js"
+    "tsc": "tsc",
+    "vite:build": "vite build"
   },
   "license": "Apache-2.0",
   "devDependencies": {
-    "@eik/cli": "^2.0.22",
-    "@eik/esbuild-plugin": "^1.1.11",
     "@lingui/cli": "^4.4.2",
     "@lingui/conf": "^4.4.2",
     "@semantic-release/changelog": "^6.0.3",
@@ -63,25 +82,11 @@
     "svgo": "^3.0.0",
     "typescript": "^5.2.2",
     "unocss": "^0.56.0",
-    "vite": "^4.4.9",
-    "vite-plugin-nunjucks": "^0.1.10"
+    "vite-plugin-nunjucks": "^0.1.10",
+    "vite": "^4.4.9"
   },
   "publishConfig": {
     "access": "public"
-  },
-  "eik": {
-    "server": "https://assets.finn.no",
-    "type": "package",
-    "files": {
-      "react": "./dist/react",
-      "vue": "./dist/vue",
-      "elements": "./dist/elements"
-    },
-    "import-map": [
-      "https://assets.finn.no/map/react/v2",
-      "https://assets.finn.no/map/vue/v1",
-      "https://assets.finn.no/map/custom-elements/v2"
-    ]
   },
   "config": {
     "commitizen": {

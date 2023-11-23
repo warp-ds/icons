@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/torget-shipping.js:2
 msgid "icon.title.torget-shipping"
 msgstr "Truck in motion"
+

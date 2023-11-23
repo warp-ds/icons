@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/office-desk.js:2
 msgid "icon.title.office-desk"
 msgstr "Office desk with a computer screen"
+

@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/plane-ticket.js:2
 msgid "icon.title.plane-ticket"
 msgstr "Hand with plane ticket"
+

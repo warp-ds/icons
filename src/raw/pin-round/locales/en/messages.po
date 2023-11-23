@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/pin-round.js:2
 msgid "icon.title.pin-round"
 msgstr "Map pin with a shadow underneath"
+

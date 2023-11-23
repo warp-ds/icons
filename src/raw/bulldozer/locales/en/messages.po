@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/bulldozer.js:2
 msgid "icon.title.bulldozer"
 msgstr "Bulldozer"
+

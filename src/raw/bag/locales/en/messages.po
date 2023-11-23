@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/bag.js:2
 msgid "icon.title.bag"
 msgstr "Handbag"
+

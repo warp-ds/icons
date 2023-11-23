@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: fi\n"
 "X-Crowdin-File-ID: 3142\n"
-"PO-Revision-Date: \n"
 
 #. Title for sailboat icon
 #. js-lingui-explicit-id
 #: scripts/temp/sailboat.js:2
 msgid "icon.title.sailboat"
 msgstr "Kaksi lintua taivaalla ja purjevene vedessä"
+

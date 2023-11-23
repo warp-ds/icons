@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/product-nabolagsprofil.js:2
 msgid "icon.title.product-nabolagsprofil"
 msgstr "House with a highlighted map pin"
+

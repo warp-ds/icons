@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/house-cabin.js:2
 msgid "icon.title.house-cabin"
 msgstr "Cabin"
+

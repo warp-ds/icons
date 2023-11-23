@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: nb\n"
 "X-Crowdin-File-ID: 4150\n"
-"PO-Revision-Date: \n"
 
 #. Title for alert error icon
 #. js-lingui-explicit-id
 #: scripts/temp/alert-error.js:2
 msgid "icon.title.alert-error"
 msgstr "Rød åttekant med hvitt utropstegn"
+

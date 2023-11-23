@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/calculator.js:2
 msgid "icon.title.calculator"
 msgstr "Calculator"
+

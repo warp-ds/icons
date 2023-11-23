@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/product-starred.js:2
 msgid "icon.title.product-starred"
 msgstr "Three stars with text below"
+

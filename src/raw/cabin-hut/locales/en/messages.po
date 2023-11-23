@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/cabin-hut.js:2
 msgid "icon.title.cabin-hut"
 msgstr "Cabin with garden"
+

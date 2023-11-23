@@ -1,3 +1,24 @@
+# [1.3.0-next.2](https://github.com/warp-ds/icons/compare/v1.3.0-next.1...v1.3.0-next.2) (2023-11-22)
+
+
+### Bug Fixes
+
+* Add export to react script which broke exports in index.js ([#61](https://github.com/warp-ds/icons/issues/61)) ([57288c6](https://github.com/warp-ds/icons/commit/57288c6a58dce129d09d0f372ff755035028d6e6))
+
+# [1.3.0-next.1](https://github.com/warp-ds/icons/compare/v1.2.1-next.1...v1.3.0-next.1) (2023-11-21)
+
+
+### Features
+
+* Add new icons ([#59](https://github.com/warp-ds/icons/issues/59)) ([6cce394](https://github.com/warp-ds/icons/commit/6cce39490040520a80ba4602f33ef78f7bcd3ca8))
+
+## [1.2.1-next.1](https://github.com/warp-ds/icons/compare/v1.2.0...v1.2.1-next.1) (2023-11-16)
+
+
+### Bug Fixes
+
+* Refactor a lot of build things for icons ([#58](https://github.com/warp-ds/icons/issues/58)) ([5c0efc8](https://github.com/warp-ds/icons/commit/5c0efc8579b383531bd787fb4609ad79cf9b8c16))
+
 # [1.2.0](https://github.com/warp-ds/icons/compare/v1.1.1...v1.2.0) (2023-11-13)
 
 

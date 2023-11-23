@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/skyscraper.js:2
 msgid "icon.title.skyscraper"
 msgstr "Two skyscrapers with a cloud above"
+

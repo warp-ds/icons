@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/user.js:2
 msgid "icon.title.user"
 msgstr "User profile"
+

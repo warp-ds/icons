@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/farm.js:2
 msgid "icon.title.farm"
 msgstr "Barn with silo and birds"
+
