@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/landscape.js:2
 msgid "icon.title.landscape"
 msgstr "Sun and mountains"
+

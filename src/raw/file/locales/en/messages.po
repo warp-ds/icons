@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/file.js:2
 msgid "icon.title.file"
 msgstr "File folder"
+

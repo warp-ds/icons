@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for NettbilDark icon
 #. js-lingui-explicit-id
 #: scripts/temp/nettbil-dark.js:2
 msgid "icon.title.nettbildark"
 msgstr "Nettbil"
+

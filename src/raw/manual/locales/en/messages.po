@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/manual.js:2
 msgid "icon.title.manual"
 msgstr "Manual transmission gearbox"
+

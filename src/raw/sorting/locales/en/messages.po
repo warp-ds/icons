@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/sorting.js:2
 msgid "icon.title.sorting"
 msgstr "Sorting arrows"
+

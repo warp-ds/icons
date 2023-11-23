@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/bulb.js:2
 msgid "icon.title.bulb"
 msgstr "Lightbulb"
+

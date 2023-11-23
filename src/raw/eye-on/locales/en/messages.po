@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/eye-on.js:2
 msgid "icon.title.eye-on"
 msgstr "Open eye"
+

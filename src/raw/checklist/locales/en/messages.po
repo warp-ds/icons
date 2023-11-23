@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/checklist.js:2
 msgid "icon.title.checklist"
 msgstr "Checklist"
+

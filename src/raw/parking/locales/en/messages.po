@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/parking.js:2
 msgid "icon.title.parking"
 msgstr "Parking sign"
+

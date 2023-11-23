@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/bookmark.js:2
 msgid "icon.title.bookmark"
 msgstr "Bookmark"
+

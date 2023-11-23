@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/warranty.js:2
 msgid "icon.title.warranty"
 msgstr "Ribbon with checkmark"
+

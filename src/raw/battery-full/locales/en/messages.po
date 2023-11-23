@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/battery-full.js:2
 msgid "icon.title.battery-full"
 msgstr "Full battery"
+

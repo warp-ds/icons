@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/torget-browser.js:2
 msgid "icon.title.torget-browser"
 msgstr "Browser window with a t-shirt and a highlighted mouse pointer"
+

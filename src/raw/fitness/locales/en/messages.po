@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/fitness.js:2
 msgid "icon.title.fitness"
 msgstr "Running shoe"
+
