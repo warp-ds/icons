@@ -482,6 +482,11 @@ files:
       "translation": "/src/raw/phone-new/locales/%two_letters_code%/messages.po",
     },
     {
+      "source": "/src/raw/phone-badge-check/locales/en/messages.po",
+      "dest": "/icons/**/%original_file_name%",
+      "translation": "/src/raw/phone-badge-check/locales/%two_letters_code%/messages.po",
+    },
+    {
       "source": "/src/raw/paw/locales/en/messages.po",
       "dest": "/icons/**/%original_file_name%",
       "translation": "/src/raw/paw/locales/%two_letters_code%/messages.po",
@@ -1090,6 +1095,11 @@ files:
       "source": "/src/raw/car/locales/en/messages.po",
       "dest": "/icons/**/%original_file_name%",
       "translation": "/src/raw/car/locales/%two_letters_code%/messages.po",
+    },
+    {
+      "source": "/src/raw/cancel/locales/en/messages.po",
+      "dest": "/icons/**/%original_file_name%",
+      "translation": "/src/raw/cancel/locales/%two_letters_code%/messages.po",
     },
     {
       "source": "/src/raw/camping/locales/en/messages.po",

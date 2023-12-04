@@ -219,6 +219,11 @@ export default {
     id: "icon.title.camping",
     comment: "Title for camping icon"
   },
+  cancel: {
+    message: "Circle with a diagonal line",
+    id: "icon.title.cancel",
+    comment: "Title for cancel icon"
+  },
   car: {
     message: "Car",
     id: "icon.title.car",
@@ -1658,6 +1663,11 @@ export default {
     message: "Phone receiver",
     id: "icon.title.phone",
     comment: "Title for phone icon"
+  },
+  phonebadgecheck: {
+    message: "Smartphone and a badge with a check mark",
+    id: "icon.title.phone-badge-check",
+    comment: "Title for phone badge check icon"
   },
   phonenew: {
     message: "Smartphone",
