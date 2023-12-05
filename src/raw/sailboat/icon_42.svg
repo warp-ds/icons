@@ -1,8 +1,6 @@
-<svg width="42" height="28" viewBox="0 0 42 28" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M35.0002 25L38.6384 17.7236C38.8046 17.3912 38.5629 17 38.1912 17H3.80924C3.43755 17 3.1958 17.3912 3.36203 17.7236L7.00022 25" stroke="#9BA8BA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M1 26.9188C2.44789 27.1149 3.91752 26.9547 5.30158 26.4497C6.68565 25.9447 7.94921 25.1078 9 24C9.75791 24.9189 10.6835 25.6534 11.7171 26.1562C12.7506 26.6589 13.869 26.9187 15 26.9187C16.131 26.9187 17.2494 26.6589 18.2829 26.1562C19.3165 25.6534 20.2421 24.9189 21 24C21.7579 24.9189 22.6835 25.6534 23.7171 26.1562C24.7506 26.6589 25.869 26.9187 27 26.9187C28.131 26.9187 29.2494 26.6589 30.2829 26.1562C31.3165 25.6534 32.2421 24.9189 33 24C34.0508 25.1078 35.3143 25.9447 36.6984 26.4497C38.0649 26.9483 39.5148 27.1108 40.9448 26.9261" stroke="#9BA8BA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M9.02148 2.02148L11 4.00004L12.9786 2.02148" stroke="#9BA8BA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M3.02441 8.02417L5.00019 9.99994L6.97596 8.02417" stroke="#9BA8BA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M21 1L35 13H21V1Z" stroke="#9BA8BA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M21 17V13" stroke="#9BA8BA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="28" fill="none" viewBox="0 0 42 28">
+  <path stroke="#9BA8BA" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+    d="m33 23.428 3.119-6.236a.429.429 0 0 0-.383-.62H6.266a.429.429 0 0 0-.384.62L9 23.428" />
+  <path stroke="#9BA8BA" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+    d="M3.857 25.073c1.241.168 2.5.031 3.687-.402a8.299 8.299 0 0 0 3.17-2.1 6.993 6.993 0 0 0 2.329 1.849c.886.43 1.845.653 2.814.653.97 0 1.928-.222 2.814-.653A6.994 6.994 0 0 0 21 22.57a6.993 6.993 0 0 0 2.329 1.849c.886.43 1.844.653 2.814.653s1.928-.222 2.814-.653a6.993 6.993 0 0 0 2.329-1.849 8.3 8.3 0 0 0 3.17 2.1 7.714 7.714 0 0 0 3.64.409M10.732 3.733l1.696 1.696 1.696-1.696M5.592 8.878l1.694 1.693 1.693-1.693M21 2.857l12 10.286H21V2.857ZM21 16.571v-3.428" />
 </svg>
