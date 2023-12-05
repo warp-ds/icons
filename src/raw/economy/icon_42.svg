@@ -1,9 +1,10 @@
-<svg width="42" height="28" viewBox="0 0 42 28" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M32.5 18C36.6421 18 40 14.6421 40 10.5C40 6.35786 36.6421 3 32.5 3C28.3579 3 25 6.35786 25 10.5C25 14.6421 28.3579 18 32.5 18Z" stroke="#9BA8BA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M29 11C29 8.79086 30.7909 7 33 7" stroke="#9BA8BA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M25 10C21.091 10.2573 18 13.5095 18 17.4836C18 21.6257 21.3579 24.9836 25.5 24.9836C29.3731 24.9836 32.5605 22.0478 32.9582 18.2801" stroke="#9BA8BA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M15.0001 24H3C2.44772 24 2 23.5523 2 23L2 5C2 4.44772 2.44772 4 3 4L23.0001 4" stroke="#9BA8BA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M7.00009 20H6" stroke="#9BA8BA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M7.00009 8H6" stroke="#9BA8BA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M14 16.7862C13.665 16.9241 13.2994 17 12.9165 17C11.3058 17 10 15.6569 10 14C10 12.3431 11.3058 11 12.9165 11C13.2994 11 13.665 11.0759 14 11.2138" stroke="#9BA8BA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="28" fill="none" viewBox="0 0 42 28">
+  <path stroke="#9BA8BA" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+    d="M31.31 17.238a6.071 6.071 0 1 0 0-12.143 6.071 6.071 0 0 0 0 12.143Z" />
+  <path stroke="#9BA8BA" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+    d="M28.476 11.571a3.238 3.238 0 0 1 3.238-3.238M25.238 10.762a6.072 6.072 0 1 0 6.442 6.703" />
+  <path stroke="#9BA8BA" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+    d="M17.143 22.095H7.429a.81.81 0 0 1-.81-.81V6.716a.81.81 0 0 1 .81-.81h16.19M10.667 18.857h-.81M10.667 9.143h-.81" />
+  <path stroke="#9BA8BA" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+    d="M16.333 16.256a2.298 2.298 0 0 1-.877.173c-1.304 0-2.36-1.088-2.36-2.429 0-1.341 1.056-2.428 2.36-2.428.31 0 .606.061.877.173" />
 </svg>
