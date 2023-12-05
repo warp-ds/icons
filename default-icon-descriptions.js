@@ -417,7 +417,7 @@ export default {
   circleuserfilled: {
     message: "Person in a circle",
     id: "icon.title.circle-user-filled",
-    comment: "Title for house filled icon"
+    comment: "Title for circle user filled icon"
   },
   clipboard: {
     message: "Clipboard",
