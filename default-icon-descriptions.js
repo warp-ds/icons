@@ -2084,6 +2084,11 @@ export default {
     id: "icon.title.shoes",
     comment: "Title for shoes icon"
   },
+  shoppingcart: {
+    message: "Shopping cart",
+    id: "icon.title.shopping-cart",
+    comment: "Title for shopping cart icon"
+  },
   shower: {
     message: "Running shower head",
     id: "icon.title.shower",
