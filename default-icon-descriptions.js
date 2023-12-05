@@ -129,6 +129,11 @@ export default {
     id: "icon.title.bell",
     comment: "Title for bell icon"
   },
+  bellfilled: {
+    message: "Bell",
+    id: "icon.title.bell-filled",
+    comment: "Title for bell filled icon"
+  },
   bin: {
     message: "Trash can",
     id: "icon.title.bin",
@@ -218,6 +223,11 @@ export default {
     message: "Camper",
     id: "icon.title.camping",
     comment: "Title for camping icon"
+  },
+  cancel: {
+    message: "Circle with a diagonal line",
+    id: "icon.title.cancel",
+    comment: "Title for cancel icon"
   },
   car: {
     message: "Car",
@@ -394,10 +404,20 @@ export default {
     id: "icon.title.circle-plus",
     comment: "Title for circle-plus icon"
   },
+  circleplusfilled: {
+    message: "Plus sign inside a circle",
+    id: "icon.title.circle-plus-filled",
+    comment: "Title for circle plus filled icon"
+  },
   circleuser: {
     message: "Circle with user profile",
     id: "icon.title.circle-user",
     comment: "Title for circle-user icon"
+  },
+  circleuserfilled: {
+    message: "Person in a circle",
+    id: "icon.title.circle-user-filled",
+    comment: "Title for circle user filled icon"
   },
   clipboard: {
     message: "Clipboard",
@@ -1074,6 +1094,11 @@ export default {
     id: "icon.title.hourglass",
     comment: "Title for hourglass icon"
   },
+  house: {
+    message: "House",
+    id: "icon.title.house",
+    comment: "Title for house icon"
+  },
   housebed: {
     message: "Bed with a roof over it",
     id: "icon.title.house-bed",
@@ -1083,6 +1108,11 @@ export default {
     message: "Cabin",
     id: "icon.title.house-cabin",
     comment: "Title for house cabin icon"
+  },
+  housefilled: {
+    message: "House",
+    id: "icon.title.house-filled",
+    comment: "Title for house filled icon"
   },
   housemodern: {
     message: "Modern house",
@@ -1389,6 +1419,11 @@ export default {
     id: "icon.title.messages",
     comment: "Title for messages icon"
   },
+  messagesfilled: {
+    message: "Message bubble with smiley face",
+    id: "icon.title.messages-filled",
+    comment: "Title for messages filled icon"
+  },
   microphone: {
     message: "Microphone",
     id: "icon.title.microphone",
@@ -1658,6 +1693,11 @@ export default {
     message: "Phone receiver",
     id: "icon.title.phone",
     comment: "Title for phone icon"
+  },
+  phonebadgecheck: {
+    message: "Smartphone and a badge with a check mark",
+    id: "icon.title.phone-badge-check",
+    comment: "Title for phone badge check icon"
   },
   phonenew: {
     message: "Smartphone",
