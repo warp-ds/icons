@@ -1,3 +1,10 @@
+# [1.4.0-next.2](https://github.com/warp-ds/icons/compare/v1.4.0-next.1...v1.4.0-next.2) (2023-12-05)
+
+
+### Bug Fixes
+
+* update market and twitter icons ([#65](https://github.com/warp-ds/icons/issues/65)) ([b9360bb](https://github.com/warp-ds/icons/commit/b9360bb2b8388d19c54ea390381b74d399fcef22))
+
 # [1.4.0-next.1](https://github.com/warp-ds/icons/compare/v1.3.0...v1.4.0-next.1) (2023-12-05)
 
 
