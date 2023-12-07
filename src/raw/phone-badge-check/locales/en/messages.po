@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for phone badge check icon
 #. js-lingui-explicit-id
 #: scripts/temp/phone-badge-check.js:2
 msgid "icon.title.phone-badge-check"
 msgstr "Smartphone and a badge with a check mark"
+

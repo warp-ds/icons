@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for cancel icon
 #. js-lingui-explicit-id
 #: scripts/temp/cancel.js:2
 msgid "icon.title.cancel"
 msgstr "Circle with a diagonal line"
+
