@@ -1277,9 +1277,9 @@ files:
       "translation": "/src/raw/back-wheel-drive/locales/%two_letters_code%/messages.po",
     },
     {
-      "source": "/src/raw/babyonesie/locales/en/messages.po",
+      "source": "/src/raw/baby-onesie/locales/en/messages.po",
       "dest": "/icons/**/%original_file_name%",
-      "translation": "/src/raw/babyonesie/locales/%two_letters_code%/messages.po",
+      "translation": "/src/raw/baby-onesie/locales/%two_letters_code%/messages.po",
     },
     {
       "source": "/src/raw/autovex-light/locales/en/messages.po",
