@@ -79,6 +79,11 @@ export default {
     id: "icon.title.autovexlight",
     comment: "Title for AutovexLight icon"
   },
+  babyonesie: {
+    message: "Baby onesie",
+    id: "icon.title.baby-onesie",
+    comment: "Title for baby onesie icon"
+  },
   backwheeldrive: {
     message: "Rear-wheel drive",
     id: "icon.title.back-wheel-drive",
@@ -2243,6 +2248,11 @@ export default {
     message: "Swap icon",
     id: "icon.title.swap",
     comment: "Title for swap icon"
+  },
+  sweater: {
+    message: "Sweater",
+    id: "icon.title.sweater",
+    comment: "Title for sweater icon"
   },
   swimming: {
     message: "Swimming person",
