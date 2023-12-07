@@ -197,6 +197,11 @@ files:
       "translation": "/src/raw/swimming/locales/%two_letters_code%/messages.po",
     },
     {
+      "source": "/src/raw/sweater/locales/en/messages.po",
+      "dest": "/icons/**/%original_file_name%",
+      "translation": "/src/raw/sweater/locales/%two_letters_code%/messages.po",
+    },
+    {
       "source": "/src/raw/support/locales/en/messages.po",
       "dest": "/icons/**/%original_file_name%",
       "translation": "/src/raw/support/locales/%two_letters_code%/messages.po",
@@ -1270,6 +1275,11 @@ files:
       "source": "/src/raw/back-wheel-drive/locales/en/messages.po",
       "dest": "/icons/**/%original_file_name%",
       "translation": "/src/raw/back-wheel-drive/locales/%two_letters_code%/messages.po",
+    },
+    {
+      "source": "/src/raw/babyonesie/locales/en/messages.po",
+      "dest": "/icons/**/%original_file_name%",
+      "translation": "/src/raw/babyonesie/locales/%two_letters_code%/messages.po",
     },
     {
       "source": "/src/raw/autovex-light/locales/en/messages.po",
