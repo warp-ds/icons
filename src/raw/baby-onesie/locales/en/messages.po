@@ -18,5 +18,4 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/baby-onesie.js:2
 msgid "icon.title.baby-onesie"
-msgstr ""
-
+msgstr "Baby onesie"
