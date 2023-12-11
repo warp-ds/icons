@@ -1,3 +1,17 @@
+# [1.4.0-next.4](https://github.com/warp-ds/icons/compare/v1.4.0-next.3...v1.4.0-next.4) (2023-12-11)
+
+
+### Bug Fixes
+
+* remove messages-filled mask remains and other masks ([#66](https://github.com/warp-ds/icons/issues/66)) ([e4d9112](https://github.com/warp-ds/icons/commit/e4d91127d1fe45382783f10572ac8985063d076e))
+
+# [1.4.0-next.3](https://github.com/warp-ds/icons/compare/v1.4.0-next.2...v1.4.0-next.3) (2023-12-07)
+
+
+### Features
+
+* add sweater and baby-onesie icons ([#68](https://github.com/warp-ds/icons/issues/68)) ([c3d10b5](https://github.com/warp-ds/icons/commit/c3d10b568e3c13848d4d2c02b96181fa6e647bb1))
+
 # [1.4.0-next.2](https://github.com/warp-ds/icons/compare/v1.4.0-next.1...v1.4.0-next.2) (2023-12-05)
 
 
