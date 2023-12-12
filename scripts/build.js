@@ -6,12 +6,8 @@ import chalk from "chalk";
 import path from "path";
 import fs from "fs-extra";
 import { nanoid } from "nanoid";
-import { getElement, getNameAndSize, pascalCase } from './util/helpers.js'
-import { readFileSync } from 'node:fs'
-import yaml from 'js-yaml'
+import { getElement } from './util/helpers.js'
 import { basedir } from "../base.js";
-const descriptionsFile = readFileSync(path.join(basedir, 'icon-descriptions.yml'))
-const descriptions = yaml.load(descriptionsFile)
 
 const SRC_DIR = path.join(basedir, "src/raw");
 const DIST_DIR = path.join(basedir, "dist/icons");
@@ -64,15 +60,9 @@ files.forEach((filePath) => {
       return
     }
     const dataAsHTMLElement = getElement({ selector: 'div', htmlString: `<div>${rawData}</div>` })
-    const { name } = getNameAndSize(filePath)
-    const title = descriptions[pascalCase(name)]
     const dataWithTitle = dataAsHTMLElement.innerHTML
 
-    const prevFileSize = Buffer.byteLength(dataWithTitle, "utf8");
-
     const { data: optimizedData } = optimize(dataWithTitle, { plugins: svgoPlugins });
-
-    const optimizedFileSize = Buffer.byteLength(optimizedData, "utf8");
 
     const iconName = getIconName(filePath);
     const fileName = path.basename(filePath);

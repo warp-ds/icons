@@ -6,7 +6,7 @@ import { exec } from 'child_process'
 import chalk from 'chalk'
 import { getSVGs, getDirname } from './util/helpers.js'
 import defaultIconDescriptions from '../default-icon-descriptions.js'
-import yaml from 'js-yaml';
+import yaml from 'yaml';
 
 /**
  * Script to add localization files (.po files and .mjs files).
@@ -97,16 +97,15 @@ Object.values(icons).map(iconFolderName => {
   })
 });
 
-const crowdinContent = yaml.dump(`
-project_id_env: CROWDIN_PROJECT_ID
-api_token_env: CROWDIN_API_TOKEN
-base_url_env: CROWDIN_BASE_URL
-base_path: "."
+const crowdinContent = yaml.stringify({
+project_id_env: 'CROWDIN_PROJECT_ID',
+api_token_env: 'CROWDIN_API_TOKEN',
+base_url_env: 'CROWDIN_BASE_URL',
+base_path: '.',
 
-preserve_hierarchy: true
-files:
-  ${JSON.stringify(files)}
-`);
+preserve_hierarchy: true,
+files: files
+}, { blockQuote: 'literal' });
 
 const crowdinConfigFilePath = `${rootPath}/crowdin.yml`;
 fs.writeFileSync(crowdinConfigFilePath, crowdinContent, 'utf-8');
