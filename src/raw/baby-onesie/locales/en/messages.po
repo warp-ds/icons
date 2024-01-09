@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/baby-onesie.js:2
 msgid "icon.title.baby-onesie"
 msgstr "Baby onesie"
+
