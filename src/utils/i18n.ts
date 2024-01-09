@@ -1,9 +1,45 @@
 import { Messages, i18n } from '@lingui/core';
 
-export const supportedLocales = ['en', 'nb', 'fi'] as const;
+export const supportedLocales = ['en', 'nb', 'fi', 'da', 'se'] as const;
 type SupportedLocale = (typeof supportedLocales)[number];
 
 export const defaultLocale = 'en';
+
+const detectByBrand = () => {
+	let value;
+  switch (process.env.NMP_BRAND) {
+		case 'FINN':
+			value = 'nb';
+			break;
+		case 'TORI':
+			value = 'fi';
+			break;
+		case 'BLOCKET':
+			value = 'se';
+			break;
+		case 'DBA':
+			value = 'da';
+			break;
+		default:
+			value = 'en';
+	}
+	return value;
+};
+
+const detectByHost = () => {
+  const hostname = document?.location?.hostname;
+  if (hostname.includes('finn')) {
+    return 'nb'
+  } else if (hostname.includes('tori')) {
+    return 'fi';
+  } else if (hostname.includes('blocket')) {
+    return 'se';
+  } else if (hostname.includes('dba')) {
+    return 'da';
+  } else {
+    return 'en';
+  }
+}
 
 export const getSupportedLocale = (usedLocale: string) => {
   return (
@@ -17,11 +53,9 @@ export const getSupportedLocale = (usedLocale: string) => {
 export function detectLocale(): SupportedLocale {
   if (typeof window === 'undefined') {
     /**
-     * Server locale detection. This requires e.g LANG environment variable to be set on the server.
+     * Server locale detection. This requires e.g NMP_BRAND environment variable to be set on the server.
      */
-    const serverLocale =
-      process.env.NMP_LANGUAGE ||
-      Intl.DateTimeFormat().resolvedOptions().locale;
+    const serverLocale = detectByBrand();
     return getSupportedLocale(serverLocale);
   }
 
@@ -29,8 +63,9 @@ export function detectLocale(): SupportedLocale {
     /**
      * Client locale detection. Expects the lang attribute to be defined.
      */
-    const htmlLocale = document.documentElement.lang;
-    return getSupportedLocale(htmlLocale);
+    const htmlLocale = document?.documentElement?.lang;
+    const hostLocale = detectByHost();
+    return getSupportedLocale(htmlLocale ?? hostLocale);
   } catch (e) {
     console.warn('could not detect locale, falling back to source locale', e);
     return defaultLocale;
