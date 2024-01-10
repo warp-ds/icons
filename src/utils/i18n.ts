@@ -1,6 +1,6 @@
 import { Messages, i18n } from '@lingui/core';
 
-export const supportedLocales = ['en', 'nb', 'fi', 'da', 'se'] as const;
+export const supportedLocales = ['en', 'nb', 'fi', 'da', 'sv'] as const;
 type SupportedLocale = (typeof supportedLocales)[number];
 
 export const defaultLocale = 'en';
@@ -15,7 +15,7 @@ const detectByBrand = () => {
 			value = 'fi';
 			break;
 		case 'BLOCKET':
-			value = 'se';
+			value = 'sv';
 			break;
 		case 'DBA':
 			value = 'da';
@@ -29,15 +29,15 @@ const detectByBrand = () => {
 const detectByHost = () => {
   const hostname = document?.location?.hostname;
   if (hostname.includes('finn')) {
-    return 'nb'
+    return 'nb';
   } else if (hostname.includes('tori')) {
     return 'fi';
   } else if (hostname.includes('blocket')) {
-    return 'se';
+    return 'sv';
   } else if (hostname.includes('dba')) {
     return 'da';
   } else {
-    return 'en';
+    return defaultLocale;
   }
 }
 
@@ -46,7 +46,7 @@ export const getSupportedLocale = (usedLocale: string) => {
     supportedLocales.find(
       (locale) =>
         usedLocale === locale || usedLocale.toLowerCase().includes(locale)
-    ) || defaultLocale
+    ) || detectByHost()
   );
 };
 
@@ -65,6 +65,11 @@ export function detectLocale(): SupportedLocale {
      */
     const htmlLocale = document?.documentElement?.lang;
     const hostLocale = detectByHost();
+    
+    if (!supportedLocales.includes(htmlLocale as SupportedLocale)) {
+      console.warn('Correct locale is not set in html lang tag, falling back to detection by hostname');
+      return getSupportedLocale(hostLocale);
+    }
     return getSupportedLocale(htmlLocale ?? hostLocale);
   } catch (e) {
     console.warn('could not detect locale, falling back to source locale', e);
