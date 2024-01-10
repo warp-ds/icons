@@ -67,7 +67,7 @@ export function detectLocale(): SupportedLocale {
     const hostLocale = detectByHost();
     
     if (!supportedLocales.includes(htmlLocale as SupportedLocale)) {
-      console.warn('Correct locale is not set in html lang tag, falling back to detection by hostname');
+      console.warn('Unsupported locale set in html lang tag, falling back to detection by hostname');
       return getSupportedLocale(hostLocale);
     }
     return getSupportedLocale(htmlLocale ?? hostLocale);
