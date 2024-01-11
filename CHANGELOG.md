@@ -1,3 +1,10 @@
+## [1.4.1-next.1](https://github.com/warp-ds/icons/compare/v1.4.0...v1.4.1-next.1) (2024-01-11)
+
+
+### Bug Fixes
+
+* locale detection for icons ([#81](https://github.com/warp-ds/icons/issues/81)) ([f97d09f](https://github.com/warp-ds/icons/commit/f97d09fc14173dc965fc10b7146aa7c50b3aace2))
+
 # [1.4.0](https://github.com/warp-ds/icons/compare/v1.3.0...v1.4.0) (2023-12-12)
 
 
