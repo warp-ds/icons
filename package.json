@@ -75,7 +75,7 @@
     "yaml": "^2.3.4",
     "nanoid": "^5.0.4",
     "node-fetch": "^3.2.9",
-    "ora": "^7.0.1",
+    "ora": "^8.0.0",
     "prompts": "^2.4.0",
     "rimraf": "^5.0.1",
     "semantic-release": "^21.1.1",
