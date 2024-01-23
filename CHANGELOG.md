@@ -1,3 +1,10 @@
+## [1.4.1-next.2](https://github.com/warp-ds/icons/compare/v1.4.1-next.1...v1.4.1-next.2) (2024-01-23)
+
+
+### Bug Fixes
+
+* update oikotie market icons ([#83](https://github.com/warp-ds/icons/issues/83)) ([d4bad16](https://github.com/warp-ds/icons/commit/d4bad16c59056b3bffc1e176e5e838183c7f81b4))
+
 ## [1.4.1-next.1](https://github.com/warp-ds/icons/compare/v1.4.0...v1.4.1-next.1) (2024-01-11)
 
 
