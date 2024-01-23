@@ -484,6 +484,9 @@ files:
   - source: /src/raw/graph-line/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/graph-line/locales/%two_letters_code%/messages.po
+  - source: /src/raw/geometric-shapes/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/geometric-shapes/locales/%two_letters_code%/messages.po
   - source: /src/raw/gas-hybrid/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/gas-hybrid/locales/%two_letters_code%/messages.po
