@@ -1,3 +1,10 @@
+# [1.5.0-next.1](https://github.com/warp-ds/icons/compare/v1.4.1-next.2...v1.5.0-next.1) (2024-01-24)
+
+
+### Features
+
+* add missing 16px icons and a geometric-shapes icon ([#84](https://github.com/warp-ds/icons/issues/84)) ([c22fd1b](https://github.com/warp-ds/icons/commit/c22fd1bf04f1ee69b6df29286a7e6dffaf5ad998))
+
 ## [1.4.1-next.2](https://github.com/warp-ds/icons/compare/v1.4.1-next.1...v1.4.1-next.2) (2024-01-23)
 
 
