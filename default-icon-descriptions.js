@@ -954,6 +954,11 @@ export default {
     id: "icon.title.gas-station",
     comment: "Title for gas station icon"
   },
+  geometricshapes: {
+    message: "Rectangle, ellipse, diamond and triangle shapes",
+    id: "icon.title.geometric-shapes",
+    comment: "Title for GeometricShapes icon"
+  },
   gift: {
     message: "Gift box",
     id: "icon.title.gift",
