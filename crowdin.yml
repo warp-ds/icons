@@ -19,6 +19,9 @@ files:
   - source: /src/raw/warranty/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/warranty/locales/%two_letters_code%/messages.po
+  - source: /src/raw/warning-filled/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/warning-filled/locales/%two_letters_code%/messages.po
   - source: /src/raw/warning/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/warning/locales/%two_letters_code%/messages.po

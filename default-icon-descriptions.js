@@ -2629,6 +2629,11 @@ export default {
     id: "icon.title.warning",
     comment: "Title for warning icon"
   },
+  warningfilled: {
+    message: "Yellow warning triangle with exclamation point",
+    id: "icon.title.warning-filled",
+    comment: "Title for warning filled icon"
+  },
   warranty: {
     message: "Ribbon with checkmark",
     id: "icon.title.warranty",
