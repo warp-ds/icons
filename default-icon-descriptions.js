@@ -109,6 +109,11 @@ export default {
     id: "icon.title.bank-ident",
     comment: "Title for bank ident icon"
   },
+  bankidno: {
+    message: "BankID logo",
+    id: "icon.title.bank-id-no",
+    comment: "Title for Norwegian BankID icon"
+  },
   batteryempty: {
     message: "Empty battery",
     id: "icon.title.battery-empty",

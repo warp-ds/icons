@@ -772,6 +772,9 @@ files:
   - source: /src/raw/bank-ident/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/bank-ident/locales/%two_letters_code%/messages.po
+  - source: /src/raw/bank-id-no/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/bank-id-no/locales/%two_letters_code%/messages.po
   - source: /src/raw/bank-id/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/bank-id/locales/%two_letters_code%/messages.po
