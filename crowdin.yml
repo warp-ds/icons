@@ -520,6 +520,9 @@ files:
   - source: /src/raw/filter/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/filter/locales/%two_letters_code%/messages.po
+  - source: /src/raw/file-add/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/file-add/locales/%two_letters_code%/messages.po
   - source: /src/raw/file/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/file/locales/%two_letters_code%/messages.po

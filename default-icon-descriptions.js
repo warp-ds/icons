@@ -844,6 +844,11 @@ export default {
     id: "icon.title.file",
     comment: "Title for file icon"
   },
+  fileadd: {
+    message: "File folder",
+    id: "icon.title.file-add",
+    comment: "Title for file add icon"
+  },
   film: {
     message: "Film reel",
     id: "icon.title.film",
