@@ -469,6 +469,9 @@ files:
   - source: /src/raw/heart-rate/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/heart-rate/locales/%two_letters_code%/messages.po
+  - source: /src/raw/heart/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/heart/locales/%two_letters_code%/messages.po
   - source: /src/raw/guitar-bat/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/guitar-bat/locales/%two_letters_code%/messages.po
