@@ -2174,6 +2174,11 @@ export default {
     id: "icon.title.soccer",
     comment: "Title for soccer icon"
   },
+  sofa: {
+    message: "Sofa",
+    id: "icon.title.sofa",
+    comment: "Title for sofa icon"
+  },
   sorting: {
     message: "Sorting arrows",
     id: "icon.title.sorting",

@@ -160,6 +160,9 @@ files:
   - source: /src/raw/sorting/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/sorting/locales/%two_letters_code%/messages.po
+  - source: /src/raw/sofa/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/sofa/locales/%two_letters_code%/messages.po
   - source: /src/raw/smiley-sad/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/smiley-sad/locales/%two_letters_code%/messages.po
