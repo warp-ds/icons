@@ -374,6 +374,11 @@ export default {
     id: "icon.title.checkmark-success",
     comment: "Title for checkmark success icon"
   },
+  checkshield: {
+    message: "Shield with checkmark",
+    id: "icon.title.check-shield",
+    comment: "Title for check shield icon"
+  },
   chevrondoubleleft: {
     message: "Double leftward arrow",
     id: "icon.title.chevron-double-left",

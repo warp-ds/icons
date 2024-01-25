@@ -637,6 +637,9 @@ files:
   - source: /src/raw/checklist/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/checklist/locales/%two_letters_code%/messages.po
+  - source: /src/raw/check-shield/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/check-shield/locales/%two_letters_code%/messages.po
   - source: /src/raw/check/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/check/locales/%two_letters_code%/messages.po
