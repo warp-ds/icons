@@ -2625,7 +2625,7 @@ export default {
     comment: "Title for wallet icon"
   },
   warning: {
-    message: "Warning sign",
+    message: "Warning triangle",
     id: "icon.title.warning",
     comment: "Title for warning icon"
   },
