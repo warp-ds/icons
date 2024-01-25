@@ -169,6 +169,16 @@ export default {
     id: "icon.title.bookmark",
     comment: "Title for bookmark icon"
   },
+  browser: {
+    message: "Browser window with a t-shirt and a highlighted mouse pointer",
+    id: "icon.title.browser",
+    comment: "Title for browser icon"
+  },
+  browserverified: {
+    message: "Browser with highlighted shield in the bottom right corner",
+    id: "icon.title.browser-verified",
+    comment: "Title for browser verified icon"
+  },
   building: {
     message: "Apartment building",
     id: "icon.title.building",
@@ -600,7 +610,7 @@ export default {
     comment: "Title for dating icon"
   },
   delivery: {
-    message: "Delivery truck",
+    message: "Hand holding a small box",
     id: "icon.title.delivery",
     comment: "Title for delivery icon"
   },
@@ -1049,6 +1059,11 @@ export default {
     id: "icon.title.headphones",
     comment: "Title for headphones icon"
   },
+  headset: {
+    message: "Headphones",
+    id: "icon.title.headset",
+    comment: "Title for headset icon"
+  },
   health: {
     message: "Heart and medical cross",
     id: "icon.title.health",
@@ -1245,7 +1260,7 @@ export default {
     comment: "Title for ladder icon"
   },
   lamp: {
-    message: "Desk lamp",
+    message: "Floor lamp",
     id: "icon.title.lamp",
     comment: "Title for lamp icon"
   },
@@ -1490,7 +1505,7 @@ export default {
     comment: "Title for MittAnbudLight icon"
   },
   mixer: {
-    message: "Kitchen machine",
+    message: "Food mixer",
     id: "icon.title.mixer",
     comment: "Title for mixer icon"
   },
@@ -2095,7 +2110,7 @@ export default {
     comment: "Title for shield icon"
   },
   shipping: {
-    message: "Shipping box",
+    message: "Truck in motion",
     id: "icon.title.shipping",
     comment: "Title for shipping icon"
   },
@@ -2558,6 +2573,11 @@ export default {
     message: "Checkmark and user",
     id: "icon.title.user-check",
     comment: "Title for user check icon"
+  },
+  usergroup: {
+    message: "Three people",
+    id: "icon.title.user-group",
+    comment: "Title for user group icon"
   },
   userminus: {
     message: "Remove user",

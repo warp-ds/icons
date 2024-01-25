@@ -46,6 +46,9 @@ files:
   - source: /src/raw/user-woman/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/user-woman/locales/%two_letters_code%/messages.po
+  - source: /src/raw/user-group/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/user-group/locales/%two_letters_code%/messages.po
   - source: /src/raw/user/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/user/locales/%two_letters_code%/messages.po
@@ -193,6 +196,9 @@ files:
   - source: /src/raw/shirt/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/shirt/locales/%two_letters_code%/messages.po
+  - source: /src/raw/shipping/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/shipping/locales/%two_letters_code%/messages.po
   - source: /src/raw/share/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/share/locales/%two_letters_code%/messages.po
@@ -418,6 +424,9 @@ files:
   - source: /src/raw/landscape/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/landscape/locales/%two_letters_code%/messages.po
+  - source: /src/raw/lamp/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/lamp/locales/%two_letters_code%/messages.po
   - source: /src/raw/krone/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/krone/locales/%two_letters_code%/messages.po
@@ -481,6 +490,9 @@ files:
   - source: /src/raw/heart/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/heart/locales/%two_letters_code%/messages.po
+  - source: /src/raw/headset/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/headset/locales/%two_letters_code%/messages.po
   - source: /src/raw/guitar-bat/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/guitar-bat/locales/%two_letters_code%/messages.po
@@ -595,6 +607,9 @@ files:
   - source: /src/raw/diner/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/diner/locales/%two_letters_code%/messages.po
+  - source: /src/raw/delivery/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/delivery/locales/%two_letters_code%/messages.po
   - source: /src/raw/dating/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/dating/locales/%two_letters_code%/messages.po
@@ -739,6 +754,12 @@ files:
   - source: /src/raw/building/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/building/locales/%two_letters_code%/messages.po
+  - source: /src/raw/browser-verified/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/browser-verified/locales/%two_letters_code%/messages.po
+  - source: /src/raw/browser/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/browser/locales/%two_letters_code%/messages.po
   - source: /src/raw/bookmark/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/bookmark/locales/%two_letters_code%/messages.po
