@@ -49,6 +49,11 @@ export default {
     id: "icon.title.all-wheel-drive",
     comment: "Title for all wheel drive icon"
   },
+  animalpaw: {
+    message: "Dog's paw",
+    id: "icon.title.animal-paw",
+    comment: "Title for animal paw icon"
+  },
   archway: {
     message: "Archway",
     id: "icon.title.archway",

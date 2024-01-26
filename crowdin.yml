@@ -775,6 +775,9 @@ files:
   - source: /src/raw/archway/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/archway/locales/%two_letters_code%/messages.po
+  - source: /src/raw/animal-paw/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/animal-paw/locales/%two_letters_code%/messages.po
   - source: /src/raw/all-wheel-drive/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/all-wheel-drive/locales/%two_letters_code%/messages.po
