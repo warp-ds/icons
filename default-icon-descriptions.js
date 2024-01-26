@@ -44,11 +44,6 @@ export default {
     id: "icon.title.alert-success",
     comment: "Title for alert success icon"
   },
-  alertwarning: {
-    message: "Yellow warning triangle with exclamation point",
-    id: "icon.title.alert-warning",
-    comment: "Title for alert warning icon"
-  },
   allwheeldrive: {
     message: "All-wheel drive",
     id: "icon.title.all-wheel-drive",
@@ -98,16 +93,6 @@ export default {
     message: "A bank with three columns",
     id: "icon.title.bank",
     comment: "Title for bank icon"
-  },
-  bankid: {
-    message: "BankID logo",
-    id: "icon.title.bank-id",
-    comment: "Title for BankID icon"
-  },
-  bankident: {
-    message: "Shield with checkmark",
-    id: "icon.title.bank-ident",
-    comment: "Title for bank ident icon"
   },
   bankidno: {
     message: "BankID logo",
@@ -839,11 +824,6 @@ export default {
     id: "icon.title.fast-rewind",
     comment: "Title for fast rewind icon"
   },
-  favorite: {
-    message: "Heart",
-    id: "icon.title.favorite",
-    comment: "Title for favorite icon"
-  },
   feedback: {
     message: "Speech bubbles",
     id: "icon.title.feedback",
@@ -853,11 +833,6 @@ export default {
     message: "Female gender symbol",
     id: "icon.title.female",
     comment: "Title for female icon"
-  },
-  file: {
-    message: "File folder",
-    id: "icon.title.file",
-    comment: "Title for file icon"
   },
   fileadd: {
     message: "File folder",
@@ -1419,11 +1394,6 @@ export default {
     id: "icon.title.map-marker",
     comment: "Title for map marker icon"
   },
-  market: {
-    message: "Sofa",
-    id: "icon.title.market",
-    comment: "Title for market icon"
-  },
   measure: {
     message: "Dotted square with measuring arrows",
     id: "icon.title.measure",
@@ -1738,11 +1708,6 @@ export default {
     message: "Smartphone and a badge with a check mark",
     id: "icon.title.phone-badge-check",
     comment: "Title for phone badge check icon"
-  },
-  phonenew: {
-    message: "Smartphone",
-    id: "icon.title.phone-new",
-    comment: "Title for phone new icon"
   },
   phonescratched: {
     message: "Smartphone with three scratches on the glass",
@@ -2414,51 +2379,6 @@ export default {
     id: "icon.title.tools",
     comment: "Title for tools icon"
   },
-  torgetbrowser: {
-    message: "Browser window with a t-shirt and a highlighted mouse pointer",
-    id: "icon.title.torget-browser",
-    comment: "Title for Torget Browser icon"
-  },
-  torgetdelivery: {
-    message: "Hand holding a small box",
-    id: "icon.title.torget-delivery",
-    comment: "Title for Torget Delivery icon"
-  },
-  torgetheadset: {
-    message: "Headphones",
-    id: "icon.title.torget-headset",
-    comment: "Title for Torget Headset icon"
-  },
-  torgetlamp: {
-    message: "Floor lamp",
-    id: "icon.title.torget-lamp",
-    comment: "Title for Torget Lamp icon"
-  },
-  torgetmixer: {
-    message: "Food mixer",
-    id: "icon.title.torget-mixer",
-    comment: "Title for Torget Mixer icon"
-  },
-  torgetshipping: {
-    message: "Truck in motion",
-    id: "icon.title.torget-shipping",
-    comment: "Title for Torget Shipping icon"
-  },
-  torgetshopping: {
-    message: "Shopping cart",
-    id: "icon.title.torget-shopping",
-    comment: "Title for Torget Shopping icon"
-  },
-  torgetusers: {
-    message: "Three people",
-    id: "icon.title.torget-users",
-    comment: "Title for Torget Users icon"
-  },
-  torgetverified: {
-    message: "Browser with highlighted shield in the bottom right corner",
-    id: "icon.title.torget-verified",
-    comment: "Title for Torget Verified icon"
-  },
   touch: {
     message: "Touch screen",
     id: "icon.title.touch",
@@ -2503,11 +2423,6 @@ export default {
     message: "Travel suitcase",
     id: "icon.title.travel",
     comment: "Title for travel icon"
-  },
-  triangle: {
-    message: "Warning triangle",
-    id: "icon.title.triangle",
-    comment: "Title for triangle icon"
   },
   trophy: {
     message: "Trophy",

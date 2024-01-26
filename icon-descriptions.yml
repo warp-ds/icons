@@ -8,7 +8,7 @@ Alert: Sirkel med utropstegn
 AlertError: Rød åttekant med hvitt utropstegn
 AlertInfo: Blå sirkel med bokstaven I
 AlertSuccess: Grønn sirkel med hakemerke
-AlertWarning: Gul varseltrekant med utropstegn
+WarningFilled: Gul varseltrekant med utropstegn
 AllWheelDrive:  Firehjuls drivverk
 Archway: Buegang
 Attachment: Binders
@@ -16,7 +16,7 @@ Automatic: Girkasse automat
 BackWheelDrive: Bakhjuls drivverk
 Bag: Håndveske
 Bank: En bank med tre søyler
-BankIdent: Skjold med hakemerke
+BankIdNo: BankID logo
 BatteryEmpty: Tomt batteri
 BatteryFull: Fullt batteri
 BatteryHalfFull: Halvfullt batteri
@@ -27,6 +27,8 @@ Block: Person med fremhevet forbudt skilt
 BoatLength: Båt med piler i begge retninger
 Bolt: Lyn
 Bookmark: Bokmerke
+Browser: Nettleservindu med t-skjorte og fremhevet musepeker
+BrowserVerified: Nettleser med fremhevet skjold nederst til høyre
 Building: Boligblokk
 Bulb: Lyspære
 Bulldozer: Bulldoser
@@ -51,6 +53,7 @@ ChatRequest: Snakkeboble ved siden av en person
 ChatSupport: Snakkebobler med smilefjes
 Check: Hakemerke
 Checklist: Sjekkliste
+CheckShiled: Skjold med hakemerke
 Chevron-down: Pil ned
 Chevron-left: Pil venstre
 Chevron-right: Pil høyre
@@ -67,6 +70,7 @@ CottagePlot: Et stiplet kvadrat med en fremhevet hytte
 CreditCard: To kredittkort
 Cursor: Musepeker over en sirkel
 Dating: To hjerter
+Delivery: Hånd som holder en liten eske
 Diner: Kniv og gaffel
 Discount: Prosenttegn
 Dislike: Tommel ned
@@ -86,9 +90,8 @@ EyeOff: Overstreket øye
 EyeOn: Øye
 Facebook: Facebook logo
 Farm: En låve med en silo ved siden av og to fugler på himmelen
-Favorite: Hjerte
 Feedback: Snakkebobler
-File: Ark med brettet kant i øvre høyre hjørne og en sirkel med plusstegn
+FileAdd: Ark med brettet kant i øvre høyre hjørne og en sirkel med plusstegn
 Filter: To horisontale skyveknapper over hverandre
 Fireplace: Peis
 Fishing: Fiskekrok
@@ -101,7 +104,9 @@ GraphLine: Linjegraf
 GraphPie: Kakediagram
 Grid: Fire kvadrater som danner et større kvadrat
 Grill: Kulegrill
+Heart: Hjerte
 HeartRate: Et hjerte med hjerterytme indikator
+Headset: Hodetelefoner
 Hiking: Skogssti
 History: Roterende pil til venstre med en klokke
 Hotel: Hotell
@@ -115,6 +120,7 @@ Instagram: Instagram logo
 Job: Dokumentmappe
 Keys: To nøkler på nøkkelring
 Krone: Sirkel med KR
+Lamp: Gulvlampe
 Landscape: Sol og fjell
 Laundry: Vaskemaskin
 Layers: Tre kvadrater som flyter inn i hverandre
@@ -130,7 +136,7 @@ Mail: Konvolutt
 Mailbox: Postkasse med et flagg som signaliserer ny post
 Manual: Girkasse manuell
 Map: Kart med kartnål
-Market: Sofa
+Sofa: Sofa
 Measure: Stiplet kvadrat med målepiler
 Message: Snakkeboble
 Minus: Minus
@@ -143,7 +149,6 @@ NorwegianMotor: Sirkel med NBF
 PaintRoller: Malingsrulle i aksjon
 Parking: Sirkel med bokstaven P
 Paw: Kattepote
-PhoneNew: Smarttelefon
 PhoneScratched: Smarttelefon med tre riper
 PhoneUsed: Smarttelefon med tre riper i glasset
 PinMarker: Kartnål
@@ -179,6 +184,7 @@ Seat: Flysete
 Send: Papirfly
 Service: Roterende pil med skiftenøkkel
 Share: Kvadrat med pil ut til høyre
+Shipping: Lastebil i fart
 Shower: Rennende dusjhode
 SmartPhone: Smarttelefon
 SmileyGood: Fornøyd smil
@@ -199,22 +205,14 @@ TV: Flatskjerm
 Tag: Merkelapp
 Theater: Kostymemaske med smilefjes
 ThreeSixty: Roterende pil til høyre med et hus
-TorgetBrowser: Nettleservindu med t-skjorte og fremhevet musepeker
-TorgetDelivery: Hånd som holder en liten eske
-TorgetHeadset: Hodetelefoner
-TorgetLamp: Gulvlampe
-TorgetMixer: Kjøkkenmaskin
-TorgetShipping: Lastebil i fart
-TorgetShopping: Handlevogn
-TorgetUsers: Tre personer
-TorgetVerified: Nettleser med fremhevet skjold nederst til høyre
 TownHouse: To boligblokker
 Tractor: Traktor
-Triangle: Varseltrekant
+Warning: Varseltrekant
 Twitter: Twitter logo
 Up: Kvadrat med pil opp
 Upload: Pil opp fra harddisk
 User: Person
+UserGroup: Tre personer
 Users: To personer
 UserWoman: En kvinne med musefletter
 Van: Bobil
