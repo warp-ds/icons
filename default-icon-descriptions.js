@@ -1079,11 +1079,6 @@ export default {
     id: "icon.title.home",
     comment: "Title for home icon"
   },
-  honk: {
-    message: "Car horn",
-    id: "icon.title.honk",
-    comment: "Title for honk icon"
-  },
   honkdark: {
     message: "Honk",
     id: "icon.title.honkdark",
@@ -1518,11 +1513,6 @@ export default {
     message: "Musical note",
     id: "icon.title.music",
     comment: "Title for music icon"
-  },
-  nettbil: {
-    message: "Two circles with a semicircle above",
-    id: "icon.title.nettbil",
-    comment: "Title for Nettbil icon"
   },
   nettbildark: {
     message: "Nettbil",

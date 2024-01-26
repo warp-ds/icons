@@ -313,9 +313,6 @@ files:
   - source: /src/raw/nettbil-dark/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/nettbil-dark/locales/%two_letters_code%/messages.po
-  - source: /src/raw/nettbil/locales/en/messages.po
-    dest: /icons/**/%original_file_name%
-    translation: /src/raw/nettbil/locales/%two_letters_code%/messages.po
   - source: /src/raw/mountain/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/mountain/locales/%two_letters_code%/messages.po
@@ -439,9 +436,6 @@ files:
   - source: /src/raw/honk-dark/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/honk-dark/locales/%two_letters_code%/messages.po
-  - source: /src/raw/honk/locales/en/messages.po
-    dest: /icons/**/%original_file_name%
-    translation: /src/raw/honk/locales/%two_letters_code%/messages.po
   - source: /src/raw/history/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/history/locales/%two_letters_code%/messages.po
