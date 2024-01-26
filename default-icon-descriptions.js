@@ -1884,20 +1884,20 @@ export default {
     id: "icon.title.radio",
     comment: "Title for radio icon"
   },
-  ratingempty: {
+  starempty: {
     message: "Empty blue star",
-    id: "icon.title.rating-empty",
-    comment: "Title for empty-star rating icon"
+    id: "icon.title.star-empty",
+    comment: "Title for star empty icon"
   },
-  ratingfull: {
+  starfull: {
     message: "Full blue star",
-    id: "icon.title.rating-full",
-    comment: "Title for full-star rating icon"
+    id: "icon.title.star-full",
+    comment: "Title for star full icon"
   },
-  ratinghalf: {
+  starhalf: {
     message: "Half full blue star",
-    id: "icon.title.rating-half",
-    comment: "Title for half-star rating icon"
+    id: "icon.title.star-half",
+    comment: "Title for star half icon"
   },
   reading: {
     message: "Open book",

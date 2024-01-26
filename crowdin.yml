@@ -109,6 +109,15 @@ files:
   - source: /src/raw/store/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/store/locales/%two_letters_code%/messages.po
+  - source: /src/raw/star-half/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/star-half/locales/%two_letters_code%/messages.po
+  - source: /src/raw/star-full/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/star-full/locales/%two_letters_code%/messages.po
+  - source: /src/raw/star-empty/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/star-empty/locales/%two_letters_code%/messages.po
   - source: /src/raw/star-check/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/star-check/locales/%two_letters_code%/messages.po
@@ -202,15 +211,6 @@ files:
   - source: /src/raw/real-estate/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/real-estate/locales/%two_letters_code%/messages.po
-  - source: /src/raw/rating-half/locales/en/messages.po
-    dest: /icons/**/%original_file_name%
-    translation: /src/raw/rating-half/locales/%two_letters_code%/messages.po
-  - source: /src/raw/rating-full/locales/en/messages.po
-    dest: /icons/**/%original_file_name%
-    translation: /src/raw/rating-full/locales/%two_letters_code%/messages.po
-  - source: /src/raw/rating-empty/locales/en/messages.po
-    dest: /icons/**/%original_file_name%
-    translation: /src/raw/rating-empty/locales/%two_letters_code%/messages.po
   - source: /src/raw/question/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/question/locales/%two_letters_code%/messages.po

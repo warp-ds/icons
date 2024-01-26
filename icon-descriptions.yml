@@ -8,9 +8,10 @@ Alert: Sirkel med utropstegn
 AlertError: Rød åttekant med hvitt utropstegn
 AlertInfo: Blå sirkel med bokstaven I
 AlertSuccess: Grønn sirkel med hakemerke
-WarningFilled: Gul varseltrekant med utropstegn
 AllWheelDrive:  Firehjuls drivverk
 Archway: Buegang
+ArrowUp: En pil som peker opp
+ArrowDown: En pil som peker ned
 Attachment: Binders
 Automatic: Girkasse automat
 BackWheelDrive: Bakhjuls drivverk
@@ -30,6 +31,7 @@ Bookmark: Bokmerke
 Browser: Nettleservindu med t-skjorte og fremhevet musepeker
 BrowserVerified: Nettleser med fremhevet skjold nederst til høyre
 Building: Boligblokk
+BuildingPlot: Et stiplet kvadrat med et fremhevet hus
 Bulb: Lyspære
 Bulldozer: Bulldoser
 Burger: Tre horisontale streker
@@ -136,7 +138,6 @@ Mail: Konvolutt
 Mailbox: Postkasse med et flagg som signaliserer ny post
 Manual: Girkasse manuell
 Map: Kart med kartnål
-Sofa: Sofa
 Measure: Stiplet kvadrat med målepiler
 Message: Snakkeboble
 Minus: Minus
@@ -146,6 +147,7 @@ NettbilLight: To sirkler med en halvsirkel over
 NewAd: Ark med bilde, overskrift og fremhevet plusstegn
 NoSmoking: Overstreket sigarett
 NorwegianMotor: Sirkel med NBF
+OfficeDesk: En kontorpult med en dataskjerm
 PaintRoller: Malingsrulle i aksjon
 Parking: Sirkel med bokstaven P
 Paw: Kattepote
@@ -168,9 +170,9 @@ ProductStarred: Tre stjerner med tekst under
 ProductTop: Pil mot bilde med tekst under
 Propeller: Snurrende propell
 Question: Sirkel med spørsmålstegn
-Rating-empty: Tom blå stjerne
-Rating-full: Full blå stjerne
-Rating-half: Halvfull blå stjerne
+StarEmpty: Tom blå stjerne
+StarFull: Full blå stjerne
+StarHalf: Halvfull blå stjerne
 RealEstate: Hus med hage
 Refresh: Roterende pil
 RoomService: Hanskekledd hånd og serveringsbrett med kuppel
@@ -186,11 +188,13 @@ Service: Roterende pil med skiftenøkkel
 Share: Kvadrat med pil ut til høyre
 Shipping: Lastebil i fart
 Shower: Rennende dusjhode
+Skyscraper: To boligblokker med en sky over
 SmartPhone: Smarttelefon
 SmileyGood: Fornøyd smil
 SmileyHappy: Glad smilefjes
 SmileyNeutral: Uttrykksløst fjes
 SmileySad: Trist fjes
+Sofa: Sofa
 Sorting: Tekstliste med pil ned på siden
 Spa: Vannlilje
 Speedometer: Speedometer
@@ -218,15 +222,9 @@ UserWoman: En kvinne med musefletter
 Van: Bobil
 Verification: Blått skjold med hakemerke
 Wallet: Lommebok
+WarningFilled: Gul varseltrekant med utropstegn
 Warranty: Rosett med hakemerke
 Wheelchair: Rullestol
 Wifi: WiFi symbol, tre bølger over en sirkel
 Woods: To grantrær
 Youtube: YouTube logo
-BuildingPlot: Et stiplet kvadrat med et fremhevet hus
-Skyscraper: To boligblokker med en sky over
-OfficeDesk: En kontorpult med en dataskjerm
-ArrowUp: En pil som peker opp
-ArrowDown: En pil som peker ned
-TableInfo: En sirkel med bokstaven I
-BankId: BankId logo
