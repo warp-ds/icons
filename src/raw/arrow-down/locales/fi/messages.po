@@ -16,9 +16,9 @@ msgstr ""
 "X-Crowdin-Language: fi\n"
 "X-Crowdin-File-ID: 2980\n"
 
-#. Title for table sort down icon
+#. Title for arrow down icon
 #. js-lingui-explicit-id
-#: scripts/temp/table-sort-down.js:2
-msgid "icon.title.table-sort-down"
+#: scripts/temp/arrow-down.js:2
+msgid "icon.title.arrow-down"
 msgstr "Alaspäin osoittava nuoli"
 

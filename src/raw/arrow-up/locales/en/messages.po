@@ -14,9 +14,9 @@ msgstr ""
 "Plural-Forms: \n"
 "X-Crowdin-SourceKey: msgstr\n"
 
-#. Title for table sort down icon
+#. Title for arrow up icon
 #. js-lingui-explicit-id
-#: scripts/temp/table-sort-down.js:2
-msgid "icon.title.table-sort-down"
-msgstr "Downward-pointing arrow"
+#: scripts/temp/arrow-up.js:2
+msgid "icon.title.arrow-up"
+msgstr "Upward-pointing arrow"
 

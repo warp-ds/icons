@@ -2274,15 +2274,15 @@ export default {
     id: "icon.title.table-info",
     comment: "Title for table info icon"
   },
-  tablesortdown: {
+  arrowdown: {
     message: "Downward-pointing arrow",
-    id: "icon.title.table-sort-down",
-    comment: "Title for table sort down icon"
+    id: "icon.title.arrow-down",
+    comment: "Title for arrow down icon"
   },
-  tablesortup: {
+  arrowup: {
     message: "Upward-pointing arrow",
-    id: "icon.title.table-sort-up",
-    comment: "Title for table sort up icon"
+    id: "icon.title.arrow-up",
+    comment: "Title for arrow up icon"
   },
   tablet: {
     message: "Tablet device",

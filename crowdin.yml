@@ -85,12 +85,6 @@ files:
   - source: /src/raw/tag/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/tag/locales/%two_letters_code%/messages.po
-  - source: /src/raw/table-sort-up/locales/en/messages.po
-    dest: /icons/**/%original_file_name%
-    translation: /src/raw/table-sort-up/locales/%two_letters_code%/messages.po
-  - source: /src/raw/table-sort-down/locales/en/messages.po
-    dest: /icons/**/%original_file_name%
-    translation: /src/raw/table-sort-down/locales/%two_letters_code%/messages.po
   - source: /src/raw/table-info/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/table-info/locales/%two_letters_code%/messages.po
@@ -772,6 +766,12 @@ files:
   - source: /src/raw/attachment/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/attachment/locales/%two_letters_code%/messages.po
+  - source: /src/raw/arrow-up/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/arrow-up/locales/%two_letters_code%/messages.po
+  - source: /src/raw/arrow-down/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/arrow-down/locales/%two_letters_code%/messages.po
   - source: /src/raw/archway/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/archway/locales/%two_letters_code%/messages.po
