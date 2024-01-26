@@ -2269,11 +2269,6 @@ export default {
     id: "icon.title.sync",
     comment: "Title for sync icon"
   },
-  tableinfo: {
-    message: "Circle with letter \"I\"",
-    id: "icon.title.table-info",
-    comment: "Title for table info icon"
-  },
   arrowdown: {
     message: "Downward-pointing arrow",
     id: "icon.title.arrow-down",

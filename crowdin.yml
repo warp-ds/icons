@@ -85,9 +85,6 @@ files:
   - source: /src/raw/tag/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/tag/locales/%two_letters_code%/messages.po
-  - source: /src/raw/table-info/locales/en/messages.po
-    dest: /icons/**/%original_file_name%
-    translation: /src/raw/table-info/locales/%two_letters_code%/messages.po
   - source: /src/raw/swimming/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/swimming/locales/%two_letters_code%/messages.po
