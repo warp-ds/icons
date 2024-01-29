@@ -18,7 +18,7 @@ for (const key in originalFileContent) {
 const sortedKeys = Object.keys(cleanedContent).sort();
 
 const sortedContent = {};
-sortedKeys.forEach(key => {
+sortedKeys.forEach((key) => {
   sortedContent[key] = cleanedContent[key];
 });
 
