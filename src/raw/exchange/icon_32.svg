@@ -1,7 +1,6 @@
-<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M16 31C24.2843 31 31 24.2843 31 16C31 7.71573 24.2843 1 16 1C7.71573 1 1 7.71573 1 16C1 24.2843 7.71573 31 16 31Z" stroke="#71717A" stroke-width="1.5" stroke-miterlimit="10"/>
-<path d="M12 11.3333H22.6667" stroke="#71717A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M21.3335 20.6667L10.6668 20.6667" stroke="#71717A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M20 8L22.6667 11.3333L20 14.6667" stroke="#71717A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M13.3335 24L10.6668 20.6667L13.3335 17.3333" stroke="#71717A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="none" viewBox="0 0 32 32">
+  <path stroke="#3F3F46" stroke-miterlimit="10" stroke-width="2"
+    d="M16 31c8.284 0 15-6.715 15-15 0-8.284-6.716-15-15-15C7.714 1 1 7.716 1 16c0 8.285 6.715 15 15 15Z" />
+  <path stroke="#3F3F46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+    d="M12 11.334h10.666M21.333 20.667H10.666M20 8l2.666 3.334L20 14.667M13.333 24l-2.667-3.333 2.667-3.333" />
 </svg>
