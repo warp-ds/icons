@@ -202,6 +202,9 @@ files:
   - source: /src/raw/search/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/search/locales/%two_letters_code%/messages.po
+  - source: /src/raw/scroll-up/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/scroll-up/locales/%two_letters_code%/messages.po
   - source: /src/raw/sauna/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/sauna/locales/%two_letters_code%/messages.po
@@ -286,6 +289,9 @@ files:
   - source: /src/raw/pin-marker/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/pin-marker/locales/%two_letters_code%/messages.po
+  - source: /src/raw/picture-stack/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/picture-stack/locales/%two_letters_code%/messages.po
   - source: /src/raw/phone-used/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/phone-used/locales/%two_letters_code%/messages.po
@@ -307,6 +313,9 @@ files:
   - source: /src/raw/paint-roller/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/paint-roller/locales/%two_letters_code%/messages.po
+  - source: /src/raw/organize/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/organize/locales/%two_letters_code%/messages.po
   - source: /src/raw/oikotie-light/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/oikotie-light/locales/%two_letters_code%/messages.po
@@ -379,6 +388,9 @@ files:
   - source: /src/raw/mail/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/mail/locales/%two_letters_code%/messages.po
+  - source: /src/raw/logout/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/logout/locales/%two_letters_code%/messages.po
   - source: /src/raw/lock-shield/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/lock-shield/locales/%two_letters_code%/messages.po
@@ -784,6 +796,12 @@ files:
   - source: /src/raw/attachment/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/attachment/locales/%two_letters_code%/messages.po
+  - source: /src/raw/arrow-right/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/arrow-right/locales/%two_letters_code%/messages.po
+  - source: /src/raw/arrow-left/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/arrow-left/locales/%two_letters_code%/messages.po
   - source: /src/raw/archway/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/archway/locales/%two_letters_code%/messages.po
