@@ -271,6 +271,9 @@ files:
   - source: /src/raw/phone-badge-check/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/phone-badge-check/locales/%two_letters_code%/messages.po
+  - source: /src/raw/phone/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/phone/locales/%two_letters_code%/messages.po
   - source: /src/raw/paw/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/paw/locales/%two_letters_code%/messages.po

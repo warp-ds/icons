@@ -1695,7 +1695,7 @@ export default {
     comment: "Title for performance icon"
   },
   phone: {
-    message: "Phone receiver",
+    message: "Smartphone",
     id: "icon.title.phone",
     comment: "Title for phone icon"
   },
