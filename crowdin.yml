@@ -325,6 +325,9 @@ files:
   - source: /src/raw/minus/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/minus/locales/%two_letters_code%/messages.po
+  - source: /src/raw/minivan/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/minivan/locales/%two_letters_code%/messages.po
   - source: /src/raw/messages-filled/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/messages-filled/locales/%two_letters_code%/messages.po

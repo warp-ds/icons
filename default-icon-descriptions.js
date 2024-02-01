@@ -59,6 +59,16 @@ export default {
     id: "icon.title.archway",
     comment: "Title for archway icon"
   },
+  arrowdown: {
+    message: "Downward-pointing arrow",
+    id: "icon.title.arrow-down",
+    comment: "Title for arrow down icon"
+  },
+  arrowup: {
+    message: "Upward-pointing arrow",
+    id: "icon.title.arrow-up",
+    comment: "Title for arrow up icon"
+  },
   attachment: {
     message: "Paperclip",
     id: "icon.title.attachment",
@@ -1459,6 +1469,11 @@ export default {
     id: "icon.title.mill",
     comment: "Title for mill icon"
   },
+  minivan: {
+    message: "Minivan",
+    id: "icon.title.minivan",
+    comment: "Title for minivan icon"
+  },
   minus: {
     message: "Minus",
     id: "icon.title.minus",
@@ -1884,21 +1899,6 @@ export default {
     id: "icon.title.radio",
     comment: "Title for radio icon"
   },
-  starempty: {
-    message: "Empty blue star",
-    id: "icon.title.star-empty",
-    comment: "Title for star empty icon"
-  },
-  starfull: {
-    message: "Full blue star",
-    id: "icon.title.star-full",
-    comment: "Title for star full icon"
-  },
-  starhalf: {
-    message: "Half full blue star",
-    id: "icon.title.star-half",
-    comment: "Title for star half icon"
-  },
   reading: {
     message: "Open book",
     id: "icon.title.reading",
@@ -2199,6 +2199,21 @@ export default {
     id: "icon.title.star-check",
     comment: "Title for star-check icon"
   },
+  starempty: {
+    message: "Empty blue star",
+    id: "icon.title.star-empty",
+    comment: "Title for star empty icon"
+  },
+  starfull: {
+    message: "Full blue star",
+    id: "icon.title.star-full",
+    comment: "Title for star full icon"
+  },
+  starhalf: {
+    message: "Half full blue star",
+    id: "icon.title.star-half",
+    comment: "Title for star half icon"
+  },
   statistics: {
     message: "Bar chart and pie chart",
     id: "icon.title.statistics",
@@ -2268,16 +2283,6 @@ export default {
     message: "Sync icon",
     id: "icon.title.sync",
     comment: "Title for sync icon"
-  },
-  arrowdown: {
-    message: "Downward-pointing arrow",
-    id: "icon.title.arrow-down",
-    comment: "Title for arrow down icon"
-  },
-  arrowup: {
-    message: "Upward-pointing arrow",
-    id: "icon.title.arrow-up",
-    comment: "Title for arrow up icon"
   },
   tablet: {
     message: "Tablet device",
