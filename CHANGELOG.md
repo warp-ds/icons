@@ -1,3 +1,10 @@
+# [1.5.0-next.3](https://github.com/warp-ds/icons/compare/v1.5.0-next.2...v1.5.0-next.3) (2024-02-01)
+
+
+### Bug Fixes
+
+* update strings for logout, picture-stack and organize ([#90](https://github.com/warp-ds/icons/issues/90)) ([f381be3](https://github.com/warp-ds/icons/commit/f381be3e1bacc0de26778a282d9e0509da2c3c39))
+
 # [1.5.0-next.2](https://github.com/warp-ds/icons/compare/v1.5.0-next.1...v1.5.0-next.2) (2024-01-29)
 
 
