@@ -64,6 +64,16 @@ export default {
     id: "icon.title.arrow-down",
     comment: "Title for arrow down icon"
   },
+  arrowleft: {
+    message: "Leftward-pointing arrow",
+    id: "icon.title.arrow-left",
+    comment: "Title for table arrow left icon"
+  },
+  arrowright: {
+    message: "Rightward-pointing arrow",
+    id: "icon.title.arrow-right",
+    comment: "Title for table arrow right icon"
+  },
   arrowup: {
     message: "Upward-pointing arrow",
     id: "icon.title.arrow-up",
@@ -1624,6 +1634,11 @@ export default {
     id: "icon.title.order",
     comment: "Title for order icon"
   },
+  organize: {
+    message: "Two horizontal lines between two opposite vertical arrows",
+    id: "icon.title.organize",
+    comment: "Title for organize icon"
+  },
   package: {
     message: "Package box",
     id: "icon.title.package",
@@ -1733,6 +1748,11 @@ export default {
     message: "Photograph",
     id: "icon.title.photo",
     comment: "Title for photo icon"
+  },
+  picturestack: {
+    message: "Picture stack",
+    id: "icon.title.picture-stack",
+    comment: "Title for picture stack icon"
   },
   piggybank: {
     message: "Piggy bank",
@@ -2018,6 +2038,11 @@ export default {
     message: "Scissors",
     id: "icon.title.scissors",
     comment: "Title for scissors icon"
+  },
+  scrollup: {
+    message: "Upward arrow",
+    id: "icon.title.scroll-up",
+    comment: "Title for scroll up icon"
   },
   search: {
     message: "Magnifying glass",

@@ -1,3 +1,10 @@
+# [1.5.0-next.2](https://github.com/warp-ds/icons/compare/v1.5.0-next.1...v1.5.0-next.2) (2024-01-29)
+
+
+### Features
+
+* add missing icons ([#88](https://github.com/warp-ds/icons/issues/88)) ([f5db3ac](https://github.com/warp-ds/icons/commit/f5db3ac70530fc966731ddda7d95a7858e92783f))
+
 # [1.5.0-next.1](https://github.com/warp-ds/icons/compare/v1.4.1-next.2...v1.5.0-next.1) (2024-01-24)
 
 
