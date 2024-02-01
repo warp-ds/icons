@@ -12,9 +12,11 @@ msgstr ""
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: \n"
+"X-Crowdin-SourceKey: msgstr\n"
 
 #. Title for table arrow left icon
 #. js-lingui-explicit-id
 #: scripts/temp/arrow-left.js:2
 msgid "icon.title.arrow-left"
 msgstr "Leftward-pointing arrow"
+
