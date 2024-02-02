@@ -1,7 +1,5 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="5" y="1" width="14" height="22" rx="2" stroke="#71717A" stroke-width="1.5"/>
-<path d="M5 19H19" stroke="#71717A" stroke-width="1.5" stroke-linecap="round"/>
-<path d="M4 13.7188L6.5 15.1736" stroke="#71717A" stroke-width="1.5" stroke-linecap="round"/>
-<path d="M4 10.7188L6.5 12.1736" stroke="#71717A" stroke-width="1.5" stroke-linecap="round"/>
-<path d="M18 5.71875L20.5 7.17358" stroke="#71717A" stroke-width="1.5" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+  <rect width="14" height="22" x="5" y="1" stroke="#3F3F46" stroke-width="1.5" rx="2.667" />
+  <path stroke="#3F3F46" stroke-linecap="round" stroke-width="1.5"
+    d="M5 19h14M4 13.719l2.5 1.455M4 10.719l2.5 1.455M18 5.719l2.5 1.455" />
 </svg>

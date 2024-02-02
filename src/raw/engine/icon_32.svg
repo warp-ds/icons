@@ -1,9 +1,6 @@
-<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1.3335" y="5.33333" width="29.3333" height="25.3333" rx="2.66667" stroke="#71717A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M30.6668 13.3333H1.3335" stroke="#71717A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M25.3332 18.6667H6.6665" stroke="#71717A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M10.6665 18.6667V22.6667C10.6665 24.1394 11.8604 25.3333 13.3332 25.3333H30.6665" stroke="#71717A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M27.9998 5.33333V2.66666C27.9998 1.93028 27.4029 1.33333 26.6665 1.33333H23.9998C23.2635 1.33333 22.6665 1.93028 22.6665 2.66666V5.33333" stroke="#71717A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M18.6668 5.33333V2.66666C18.6668 1.93028 18.0699 1.33333 17.3335 1.33333H14.6668C13.9304 1.33333 13.3335 1.93028 13.3335 2.66666V5.33333" stroke="#71717A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M9.33333 5.33333V2.66666C9.33333 1.93028 8.73638 1.33333 8 1.33333H5.33333C4.59695 1.33333 4 1.93028 4 2.66666V5.33333" stroke="#71717A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="none" viewBox="0 0 32 32">
+  <rect width="29.333" height="25.333" x="1.333" y="5.333" stroke="#3F3F46" stroke-linecap="round"
+    stroke-linejoin="round" stroke-width="2" rx="2.667" />
+  <path stroke="#3F3F46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+    d="M30.666 13.334H1.333M25.333 18.667H6.667M10.666 18.667v4a2.667 2.667 0 0 0 2.667 2.666h17.334M28 5.333V2.667c0-.737-.597-1.333-1.334-1.333H24c-.736 0-1.334.596-1.334 1.333v2.667M18.666 5.333V2.667c0-.737-.597-1.333-1.333-1.333h-2.667c-.736 0-1.333.596-1.333 1.333v2.667M9.333 5.333V2.667c0-.737-.597-1.333-1.333-1.333H5.333C4.596 1.333 4 1.93 4 2.667v2.667" />
 </svg>
