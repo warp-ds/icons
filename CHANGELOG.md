@@ -1,3 +1,10 @@
+# [1.5.0-next.4](https://github.com/warp-ds/icons/compare/v1.5.0-next.3...v1.5.0-next.4) (2024-02-02)
+
+
+### Features
+
+* add 16px icons and update all svgs ([#91](https://github.com/warp-ds/icons/issues/91)) ([a5f5794](https://github.com/warp-ds/icons/commit/a5f5794cb42a4f9255e9b3bd607634c17b8de7a0))
+
 # [1.5.0-next.3](https://github.com/warp-ds/icons/compare/v1.5.0-next.2...v1.5.0-next.3) (2024-02-01)
 
 
