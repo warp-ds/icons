@@ -1,3 +1,19 @@
+# [1.5.0](https://github.com/warp-ds/icons/compare/v1.4.0...v1.5.0) (2024-02-02)
+
+
+### Bug Fixes
+
+* locale detection for icons ([#81](https://github.com/warp-ds/icons/issues/81)) ([f97d09f](https://github.com/warp-ds/icons/commit/f97d09fc14173dc965fc10b7146aa7c50b3aace2))
+* update oikotie market icons ([#83](https://github.com/warp-ds/icons/issues/83)) ([d4bad16](https://github.com/warp-ds/icons/commit/d4bad16c59056b3bffc1e176e5e838183c7f81b4))
+* update strings for logout, picture-stack and organize ([#90](https://github.com/warp-ds/icons/issues/90)) ([f381be3](https://github.com/warp-ds/icons/commit/f381be3e1bacc0de26778a282d9e0509da2c3c39))
+
+
+### Features
+
+* add 16px icons and update all svgs ([#91](https://github.com/warp-ds/icons/issues/91)) ([a5f5794](https://github.com/warp-ds/icons/commit/a5f5794cb42a4f9255e9b3bd607634c17b8de7a0))
+* add missing 16px icons and a geometric-shapes icon ([#84](https://github.com/warp-ds/icons/issues/84)) ([c22fd1b](https://github.com/warp-ds/icons/commit/c22fd1bf04f1ee69b6df29286a7e6dffaf5ad998))
+* add missing icons ([#88](https://github.com/warp-ds/icons/issues/88)) ([f5db3ac](https://github.com/warp-ds/icons/commit/f5db3ac70530fc966731ddda7d95a7858e92783f))
+
 # [1.5.0-next.4](https://github.com/warp-ds/icons/compare/v1.5.0-next.3...v1.5.0-next.4) (2024-02-02)
 
 
