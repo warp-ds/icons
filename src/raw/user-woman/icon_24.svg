@@ -1,9 +1,6 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M12 11C14.7614 11 17 8.76142 17 6C17 3.23858 14.7614 1 12 1C9.23858 1 7 3.23858 7 6C7 8.76142 9.23858 11 12 11Z" stroke="#71717A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M3.75 23.25C2.92157 23.25 2.23818 22.5745 2.36513 21.7558C2.68032 19.7232 3.63319 17.8282 5.10571 16.3557C6.93419 14.5272 9.41414 13.5 12 13.5C14.5859 13.5 17.0658 14.5272 18.8943 16.3557C20.3668 17.8282 21.3197 19.7232 21.6349 21.7558" stroke="#71717A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M7.5 3.49996C6.83333 2.8333 4.67877 2.15625 3.67877 3.88339C2.54499 5.84159 3.67877 10.3834 4.67877 11.8834L7 7.49994" stroke="#71717A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M16.5 3.49996C17.1667 2.8333 19.3212 2.15625 20.3212 3.88339C21.455 5.84159 20.3212 10.3834 19.3212 11.8834L17 7.49994" stroke="#71717A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M12 4C11.8333 4.83333 11 6.5 7.4 6.5" stroke="#71717A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M12 4C12.1667 4.83333 13 6.5 16.6 6.5" stroke="#71717A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M16.5 15C16 16.1667 14.4 17.5 12 17.5C9.6 17.5 8 16.1667 7.5 15" stroke="#71717A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+  <path stroke="#3F3F46" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"
+    d="M12 11.25a5.25 5.25 0 1 0 0-10.5 5.25 5.25 0 0 0 0 10.5ZM4.25 23.25c-1.105 0-2.02-.905-1.796-1.986a9.75 9.75 0 0 1 19.092 0" />
+  <path stroke="#3F3F46" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"
+    d="M7.35 3.5c-.667-.667-2.821-1.344-3.821.383-1.134 1.958 0 6.5 1 8L6.85 7.5M16.725 3.5c.667-.667 2.821-1.344 3.821.383 1.134 1.958 0 6.5-1 8L17.226 7.5M12 4c-.167.833-1 2.5-4.6 2.5M12 4c.167.833 1 2.5 4.6 2.5M16.5 15c-.5 1.167-2.1 2.5-4.5 2.5S8 16.167 7.5 15" />
 </svg>

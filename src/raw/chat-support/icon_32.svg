@@ -1,7 +1,6 @@
-<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M12.1022 24.9231L7.79455 28V21.8462H3.48685C2.91562 21.8462 2.36778 21.63 1.96385 21.2453C1.55993 20.8607 1.33301 20.3389 1.33301 19.7949V3.38462C1.33301 2.84058 1.55993 2.31883 1.96385 1.93414C2.36778 1.54945 2.91562 1.33334 3.48685 1.33334H28.5125C29.0837 1.33334 29.6316 1.54945 30.0355 1.93414C30.4394 2.31883 30.6663 2.84058 30.6663 3.38462V9.5" stroke="#71717A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M7.99023 14.2667C9.25104 14.9339 10.6013 15.4162 11.9996 15.6987" stroke="#71717A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M10.666 6.66667V8.66667" stroke="#71717A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M21.333 6.66667V8.66667" stroke="#71717A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M30.6663 25.7778C30.6663 26.5142 30.0694 27.1111 29.333 27.1111H27.333V30.6667L22.333 27.1111H18.6663C17.93 27.1111 17.333 26.5142 17.333 25.7778V18.6667C17.333 17.9303 17.93 17.3333 18.6663 17.3333H29.333C30.0694 17.3333 30.6663 17.9303 30.6663 18.6667V25.7778Z" stroke="#71717A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="none" viewBox="0 0 32 32">
+  <path stroke="#3F3F46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+    d="M12.103 24.923 7.795 28v-6.154H3.487a2.21 2.21 0 0 1-1.523-.601 2.003 2.003 0 0 1-.63-1.45V3.384c0-.545.226-1.067.63-1.451a2.21 2.21 0 0 1 1.523-.601h25.026c.571 0 1.12.216 1.523.6.404.385.63.907.63 1.451V9.5" />
+  <path stroke="#3F3F46" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+    d="M7.991 14.267c1.261.667 2.611 1.15 4.01 1.432M10.667 6.667v2M21.334 6.667v2M30.667 25.777c0 .737-.597 1.334-1.334 1.334h-2v3.555l-5-3.555h-3.666a1.333 1.333 0 0 1-1.334-1.334v-7.11c0-.737.597-1.334 1.334-1.334h10.666c.737 0 1.334.597 1.334 1.333v7.111Z" />
 </svg>

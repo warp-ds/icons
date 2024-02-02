@@ -7,7 +7,7 @@ export default {
     plugins: [
         uno({presets: [presetWarp({ skipResets: true })],
     }),
-    nunjucks.default({ variables: { 'index.html': { iconsBySize: iconsBySize() }}} ),
+    nunjucks({ variables: { 'index.html': { iconsBySize: iconsBySize() }}} ),
     ],
     build: {
         emptyOutDir: false,

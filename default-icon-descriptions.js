@@ -59,6 +59,16 @@ export default {
     id: "icon.title.archway",
     comment: "Title for archway icon"
   },
+  arrowleft: {
+    message: "Leftward-pointing arrow",
+    id: "icon.title.arrow-left",
+    comment: "Title for table arrow left icon"
+  },
+  arrowright: {
+    message: "Rightward-pointing arrow",
+    id: "icon.title.arrow-right",
+    comment: "Title for table arrow right icon"
+  },
   attachment: {
     message: "Paperclip",
     id: "icon.title.attachment",
@@ -954,6 +964,11 @@ export default {
     id: "icon.title.gas-station",
     comment: "Title for gas station icon"
   },
+  geometricshapes: {
+    message: "Rectangle, ellipse, diamond and triangle shapes",
+    id: "icon.title.geometric-shapes",
+    comment: "Title for GeometricShapes icon"
+  },
   gift: {
     message: "Gift box",
     id: "icon.title.gift",
@@ -1340,7 +1355,7 @@ export default {
     comment: "Title for login icon"
   },
   logout: {
-    message: "Logout",
+    message: "Exit door",
     id: "icon.title.logout",
     comment: "Title for logout icon"
   },
@@ -1609,6 +1624,11 @@ export default {
     id: "icon.title.order",
     comment: "Title for order icon"
   },
+  organize: {
+    message: "Two horizontal lines between two opposite vertical arrows",
+    id: "icon.title.organize",
+    comment: "Title for organize icon"
+  },
   package: {
     message: "Package box",
     id: "icon.title.package",
@@ -1723,6 +1743,11 @@ export default {
     message: "Photograph",
     id: "icon.title.photo",
     comment: "Title for photo icon"
+  },
+  picturestack: {
+    message: "Picture stack",
+    id: "icon.title.picture-stack",
+    comment: "Title for picture stack icon"
   },
   piggybank: {
     message: "Piggy bank",
@@ -2023,6 +2048,11 @@ export default {
     message: "Scissors",
     id: "icon.title.scissors",
     comment: "Title for scissors icon"
+  },
+  scrollup: {
+    message: "Upward arrow",
+    id: "icon.title.scroll-up",
+    comment: "Title for scroll up icon"
   },
   search: {
     message: "Magnifying glass",
