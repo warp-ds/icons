@@ -1,7 +1,7 @@
 {
   "name": "@warp-ds/icons",
   "type": "module",
-  "version": "1.5.1-next.1",
+  "version": "1.5.1",
   "repository": "git@github.com:warp-ds/icons.git",
   "description": "WARP's icon set",
   "main": "main.js",

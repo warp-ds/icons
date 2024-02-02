@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/warp-ds/icons/compare/v1.5.0...v1.5.1) (2024-02-02)
+
+
+### Bug Fixes
+
+* Fix color exchange for new color ([#94](https://github.com/warp-ds/icons/issues/94)) ([ef1f515](https://github.com/warp-ds/icons/commit/ef1f5156fcda3cb1f1a7331a819646a03a0e5138))
+
 ## [1.5.1-next.1](https://github.com/warp-ds/icons/compare/v1.5.0...v1.5.1-next.1) (2024-02-02)
 
 
