@@ -1370,7 +1370,7 @@ export default {
     comment: "Title for login icon"
   },
   logout: {
-    message: "Logout",
+    message: "Exit door",
     id: "icon.title.logout",
     comment: "Title for logout icon"
   },
