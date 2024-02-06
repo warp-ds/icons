@@ -44,6 +44,11 @@ export default {
     id: "icon.title.alert-success",
     comment: "Title for alert success icon"
   },
+  alertwarning: {
+    message: "Warning triangle",
+    id: "icon.title.alert-warning",
+    comment: "Title for alert warning icon"
+  },
   allwheeldrive: {
     message: "All-wheel drive",
     id: "icon.title.all-wheel-drive",
@@ -2593,16 +2598,6 @@ export default {
     message: "Wallet",
     id: "icon.title.wallet",
     comment: "Title for wallet icon"
-  },
-  warning: {
-    message: "Warning triangle",
-    id: "icon.title.warning",
-    comment: "Title for warning icon"
-  },
-  warningfilled: {
-    message: "Yellow warning triangle with exclamation point",
-    id: "icon.title.warning-filled",
-    comment: "Title for warning filled icon"
   },
   warranty: {
     message: "Ribbon with checkmark",

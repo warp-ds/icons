@@ -14,8 +14,8 @@ msgstr ""
 "Plural-Forms: \n"
 "X-Crowdin-SourceKey: msgstr\n"
 
-#. Title for warning icon
+#. Title for alert warning icon
 #. js-lingui-explicit-id
-#: scripts/temp/warning.js:2
-msgid "icon.title.warning"
+#: scripts/temp/alert-warning.js:2
+msgid "icon.title.alert-warning"
 msgstr "Warning triangle"
