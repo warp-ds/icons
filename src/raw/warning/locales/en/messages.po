@@ -18,5 +18,5 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/warning.js:2
 msgid "icon.title.warning"
-msgstr "Warning sign"
+msgstr "Warning triangle with exclamation point"
 

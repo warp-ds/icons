@@ -2589,6 +2589,11 @@ export default {
     id: "icon.title.wallet",
     comment: "Title for wallet icon"
   },
+  warning: {
+    message: "Warning triangle with exclamation point",
+    id: "icon.title.warning",
+    comment: "Title for warning icon"
+  },
   warranty: {
     message: "Ribbon with checkmark",
     id: "icon.title.warranty",
