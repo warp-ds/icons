@@ -19,6 +19,9 @@ files:
   - source: /src/raw/warranty/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/warranty/locales/%two_letters_code%/messages.po
+  - source: /src/raw/warning/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/warning/locales/%two_letters_code%/messages.po
   - source: /src/raw/wallet/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/wallet/locales/%two_letters_code%/messages.po
@@ -127,6 +130,9 @@ files:
   - source: /src/raw/suitcase/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/suitcase/locales/%two_letters_code%/messages.po
+  - source: /src/raw/success/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/success/locales/%two_letters_code%/messages.po
   - source: /src/raw/stroller/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/stroller/locales/%two_letters_code%/messages.po
@@ -550,6 +556,9 @@ files:
   - source: /src/raw/exchange/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/exchange/locales/%two_letters_code%/messages.po
+  - source: /src/raw/error/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/error/locales/%two_letters_code%/messages.po
   - source: /src/raw/engine-belt/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/engine-belt/locales/%two_letters_code%/messages.po
