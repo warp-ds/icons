@@ -769,6 +769,11 @@ export default {
     id: "icon.title.environment",
     comment: "Title for environment icon"
   },
+  error: {
+    message: "Octagon with exclamation point",
+    id: "icon.title.error",
+    comment: "Title for error icon"
+  },
   exchange: {
     message: "Two arrows forming a circle",
     id: "icon.title.exchange",
@@ -2253,6 +2258,11 @@ export default {
     message: "Stroller",
     id: "icon.title.stroller",
     comment: "Title for Stroller icon"
+  },
+  success: {
+    message: "Circle with checkmark",
+    id: "icon.title.success",
+    comment: "Title for success icon"
   },
   suitcase: {
     message: "Suitcase",

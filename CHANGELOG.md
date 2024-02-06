@@ -1,3 +1,10 @@
+# [1.6.0-next.1](https://github.com/warp-ds/icons/compare/v1.5.1...v1.6.0-next.1) (2024-02-06)
+
+
+### Features
+
+* add error, success, warning icons ([#97](https://github.com/warp-ds/icons/issues/97)) ([65a2565](https://github.com/warp-ds/icons/commit/65a2565ad52e6f1b059509054deaf4794c6e5619))
+
 ## [1.5.1](https://github.com/warp-ds/icons/compare/v1.5.0...v1.5.1) (2024-02-02)
 
 
