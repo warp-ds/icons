@@ -796,18 +796,6 @@ files:
   - source: /src/raw/all-wheel-drive/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/all-wheel-drive/locales/%two_letters_code%/messages.po
-  - source: /src/raw/alert-warning/locales/en/messages.po
-    dest: /icons/**/%original_file_name%
-    translation: /src/raw/alert-warning/locales/%two_letters_code%/messages.po
-  - source: /src/raw/alert-success/locales/en/messages.po
-    dest: /icons/**/%original_file_name%
-    translation: /src/raw/alert-success/locales/%two_letters_code%/messages.po
-  - source: /src/raw/alert-info/locales/en/messages.po
-    dest: /icons/**/%original_file_name%
-    translation: /src/raw/alert-info/locales/%two_letters_code%/messages.po
-  - source: /src/raw/alert-error/locales/en/messages.po
-    dest: /icons/**/%original_file_name%
-    translation: /src/raw/alert-error/locales/%two_letters_code%/messages.po
   - source: /src/raw/alert/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/alert/locales/%two_letters_code%/messages.po

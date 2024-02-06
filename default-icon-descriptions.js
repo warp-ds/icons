@@ -29,26 +29,6 @@ export default {
     id: "icon.title.alert",
     comment: "Title for alert icon"
   },
-  alerterror: {
-    message: "Red octagon with white exclamation point",
-    id: "icon.title.alert-error",
-    comment: "Title for alert error icon"
-  },
-  alertinfo: {
-    message: "Blue circle with the letter I",
-    id: "icon.title.alert-info",
-    comment: "Title for alert info icon"
-  },
-  alertsuccess: {
-    message: "Green circle with checkmark",
-    id: "icon.title.alert-success",
-    comment: "Title for alert success icon"
-  },
-  alertwarning: {
-    message: "Warning triangle",
-    id: "icon.title.alert-warning",
-    comment: "Title for alert warning icon"
-  },
   allwheeldrive: {
     message: "All-wheel drive",
     id: "icon.title.all-wheel-drive",

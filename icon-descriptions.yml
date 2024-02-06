@@ -5,9 +5,6 @@ AirCon: Liten luftkjøler
 Airplane: Fly
 AirplaneHotel: Fly og hotell
 Alert: Sirkel med utropstegn
-AlertError: Rød åttekant med hvitt utropstegn
-AlertInfo: Blå sirkel med bokstaven I
-AlertSuccess: Grønn sirkel med hakemerke
 AllWheelDrive:  Firehjuls drivverk
 Archway: Buegang
 ArrowUp: En pil som peker opp
@@ -86,6 +83,7 @@ Edit: Blyant
 Energy: Kabel med støpsel og planteblad
 Engine: Motor
 EngineBelt: Viftereim
+Error: Åttekant med hvitt utropstegn
 Exchange: Sirkel med to piler pekende i hver sin retning
 Expand: To diagonale piler pekende i hver sin retning
 EyeOff: Overstreket øye
@@ -204,6 +202,7 @@ Store: Butikk
 Stove: Koketopp med tre plater
 Suitcase: Stresskoffert
 Support: Person med hodesett
+Success: Sirkel med hakemerke
 Swimming: Person som svømmer
 TV: Flatskjerm
 Tag: Merkelapp
@@ -222,7 +221,7 @@ UserWoman: En kvinne med musefletter
 Van: Bobil
 Verification: Blått skjold med hakemerke
 Wallet: Lommebok
-WarningFilled: Gul varseltrekant med utropstegn
+Warning: Varseltrekant med utropstegn
 Warranty: Rosett med hakemerke
 Wheelchair: Rullestol
 Wifi: WiFi symbol, tre bølger over en sirkel
