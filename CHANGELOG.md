@@ -1,3 +1,16 @@
+# [2.0.0-next.1](https://github.com/warp-ds/icons/compare/v1.6.0-next.2...v2.0.0-next.1) (2024-02-07)
+
+
+### Features
+
+* rename and delete deprecated icons ([#86](https://github.com/warp-ds/icons/issues/86)) ([8f3dca5](https://github.com/warp-ds/icons/commit/8f3dca57efe4b77697f40503e38d44fc4dd5adf3))
+
+
+### BREAKING CHANGES
+
+* the following icons are deleted:
+alert-warning (use warning), alert-error (use error), alert-info (use info), alert-success (use success), bank-id (use bank-id-no), bank-ident (use check-shield), car-42 (use minivan-42), favorite (use heart), file (use file-add), honk (use honk-light), market (use sofa), nettbil (use nettbil-light), paw-16/24/32 (use animal-paw), phone-new (use phone), rating-full/half/new (use star-full/half/new), table-info (use info), table-sort-down (use arrow-down), table-sort-up (use arrow-up), torget-browser (use browser), torget-delivery (use delivery), torget-headset (use headset), torget-lamp (use lamp), torget-mixer (use mixer), torget-shipping (use shipping), torget-shopping (use shopping-cart), torget-users (use user-group), torget-verified (use browser-verified), triangle (use warning)
+
 # [1.6.0-next.2](https://github.com/warp-ds/icons/compare/v1.6.0-next.1...v1.6.0-next.2) (2024-02-07)
 
 
