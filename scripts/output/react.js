@@ -47,7 +47,9 @@ const indexFile = icons.map(({ filename }) => `export * from './${filename}'`).j
 const indexFilename = joinPath(basepath, 'index.js');
 writeFileSync(indexFilename, `${indexFile}`, 'utf-8');
 console.log(`${chalk.cyan('react')}: Wrote ${chalk.yellow('index')} file`);
-console.log(`${chalk.red(`Icons with invalid width or height attribute:`)}\n${invalidIconSizes.join('\n')}`);
+if (invalidIconSizes.length > 0) {
+  console.log(`${chalk.red(`Icons with invalid width or height attribute:`)}\n${invalidIconSizes.join('\n')}`);
+}
 
 function validateSize(svgAttrs, filename) {
   const attrs = {};
