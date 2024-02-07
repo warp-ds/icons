@@ -1,3 +1,10 @@
+# [1.6.0-next.2](https://github.com/warp-ds/icons/compare/v1.6.0-next.1...v1.6.0-next.2) (2024-02-07)
+
+
+### Features
+
+* rename and delete deprecated icons ([#86](https://github.com/warp-ds/icons/issues/86)) ([0d8ee5b](https://github.com/warp-ds/icons/commit/0d8ee5b703bfb110f03a859955db8724d638f629))
+
 # [1.6.0-next.1](https://github.com/warp-ds/icons/compare/v1.5.1...v1.6.0-next.1) (2024-02-06)
 
 
