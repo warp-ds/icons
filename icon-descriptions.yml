@@ -5,18 +5,16 @@ AirCon: Liten luftkjøler
 Airplane: Fly
 AirplaneHotel: Fly og hotell
 Alert: Sirkel med utropstegn
-AlertError: Rød åttekant med hvitt utropstegn
-AlertInfo: Blå sirkel med bokstaven I
-AlertSuccess: Grønn sirkel med hakemerke
-AlertWarning: Gul varseltrekant med utropstegn
 AllWheelDrive:  Firehjuls drivverk
 Archway: Buegang
+ArrowUp: En pil som peker opp
+ArrowDown: En pil som peker ned
 Attachment: Binders
 Automatic: Girkasse automat
 BackWheelDrive: Bakhjuls drivverk
 Bag: Håndveske
 Bank: En bank med tre søyler
-BankIdent: Skjold med hakemerke
+BankIdNo: BankID logo
 BatteryEmpty: Tomt batteri
 BatteryFull: Fullt batteri
 BatteryHalfFull: Halvfullt batteri
@@ -27,7 +25,10 @@ Block: Person med fremhevet forbudt skilt
 BoatLength: Båt med piler i begge retninger
 Bolt: Lyn
 Bookmark: Bokmerke
+Browser: Nettleservindu med t-skjorte og fremhevet musepeker
+BrowserVerified: Nettleser med fremhevet skjold nederst til høyre
 Building: Boligblokk
+BuildingPlot: Et stiplet kvadrat med et fremhevet hus
 Bulb: Lyspære
 Bulldozer: Bulldoser
 Burger: Tre horisontale streker
@@ -51,6 +52,7 @@ ChatRequest: Snakkeboble ved siden av en person
 ChatSupport: Snakkebobler med smilefjes
 Check: Hakemerke
 Checklist: Sjekkliste
+CheckShiled: Skjold med hakemerke
 Chevron-down: Pil ned
 Chevron-left: Pil venstre
 Chevron-right: Pil høyre
@@ -67,6 +69,7 @@ CottagePlot: Et stiplet kvadrat med en fremhevet hytte
 CreditCard: To kredittkort
 Cursor: Musepeker over en sirkel
 Dating: To hjerter
+Delivery: Hånd som holder en liten eske
 Diner: Kniv og gaffel
 Discount: Prosenttegn
 Dislike: Tommel ned
@@ -80,15 +83,15 @@ Edit: Blyant
 Energy: Kabel med støpsel og planteblad
 Engine: Motor
 EngineBelt: Viftereim
+Error: Åttekant med hvitt utropstegn
 Exchange: Sirkel med to piler pekende i hver sin retning
 Expand: To diagonale piler pekende i hver sin retning
 EyeOff: Overstreket øye
 EyeOn: Øye
 Facebook: Facebook logo
 Farm: En låve med en silo ved siden av og to fugler på himmelen
-Favorite: Hjerte
 Feedback: Snakkebobler
-File: Ark med brettet kant i øvre høyre hjørne og en sirkel med plusstegn
+FileAdd: Ark med brettet kant i øvre høyre hjørne og en sirkel med plusstegn
 Filter: To horisontale skyveknapper over hverandre
 Fireplace: Peis
 Fishing: Fiskekrok
@@ -101,7 +104,9 @@ GraphLine: Linjegraf
 GraphPie: Kakediagram
 Grid: Fire kvadrater som danner et større kvadrat
 Grill: Kulegrill
+Heart: Hjerte
 HeartRate: Et hjerte med hjerterytme indikator
+Headset: Hodetelefoner
 Hiking: Skogssti
 History: Roterende pil til venstre med en klokke
 Hotel: Hotell
@@ -115,6 +120,7 @@ Instagram: Instagram logo
 Job: Dokumentmappe
 Keys: To nøkler på nøkkelring
 Krone: Sirkel med KR
+Lamp: Gulvlampe
 Landscape: Sol og fjell
 Laundry: Vaskemaskin
 Layers: Tre kvadrater som flyter inn i hverandre
@@ -130,20 +136,19 @@ Mail: Konvolutt
 Mailbox: Postkasse med et flagg som signaliserer ny post
 Manual: Girkasse manuell
 Map: Kart med kartnål
-Market: Sofa
 Measure: Stiplet kvadrat med målepiler
 Message: Snakkeboble
 Minus: Minus
 Motorcycle: Motorsykkel
 Mountain: Fjell med flagg på toppen
-Nettbil: To sirkler med en halvsirkel over
+NettbilLight: To sirkler med en halvsirkel over
 NewAd: Ark med bilde, overskrift og fremhevet plusstegn
 NoSmoking: Overstreket sigarett
 NorwegianMotor: Sirkel med NBF
+OfficeDesk: En kontorpult med en dataskjerm
 PaintRoller: Malingsrulle i aksjon
 Parking: Sirkel med bokstaven P
 Paw: Kattepote
-PhoneNew: Smarttelefon
 PhoneScratched: Smarttelefon med tre riper
 PhoneUsed: Smarttelefon med tre riper i glasset
 PinMarker: Kartnål
@@ -163,9 +168,9 @@ ProductStarred: Tre stjerner med tekst under
 ProductTop: Pil mot bilde med tekst under
 Propeller: Snurrende propell
 Question: Sirkel med spørsmålstegn
-Rating-empty: Tom blå stjerne
-Rating-full: Full blå stjerne
-Rating-half: Halvfull blå stjerne
+StarEmpty: Tom blå stjerne
+StarFull: Full blå stjerne
+StarHalf: Halvfull blå stjerne
 RealEstate: Hus med hage
 Refresh: Roterende pil
 RoomService: Hanskekledd hånd og serveringsbrett med kuppel
@@ -179,12 +184,15 @@ Seat: Flysete
 Send: Papirfly
 Service: Roterende pil med skiftenøkkel
 Share: Kvadrat med pil ut til høyre
+Shipping: Lastebil i fart
 Shower: Rennende dusjhode
+Skyscraper: To boligblokker med en sky over
 SmartPhone: Smarttelefon
 SmileyGood: Fornøyd smil
 SmileyHappy: Glad smilefjes
 SmileyNeutral: Uttrykksløst fjes
 SmileySad: Trist fjes
+Sofa: Sofa
 Sorting: Tekstliste med pil ned på siden
 Spa: Vannlilje
 Speedometer: Speedometer
@@ -194,41 +202,28 @@ Store: Butikk
 Stove: Koketopp med tre plater
 Suitcase: Stresskoffert
 Support: Person med hodesett
+Success: Sirkel med hakemerke
 Swimming: Person som svømmer
 TV: Flatskjerm
 Tag: Merkelapp
 Theater: Kostymemaske med smilefjes
 ThreeSixty: Roterende pil til høyre med et hus
-TorgetBrowser: Nettleservindu med t-skjorte og fremhevet musepeker
-TorgetDelivery: Hånd som holder en liten eske
-TorgetHeadset: Hodetelefoner
-TorgetLamp: Gulvlampe
-TorgetMixer: Kjøkkenmaskin
-TorgetShipping: Lastebil i fart
-TorgetShopping: Handlevogn
-TorgetUsers: Tre personer
-TorgetVerified: Nettleser med fremhevet skjold nederst til høyre
 TownHouse: To boligblokker
 Tractor: Traktor
-Triangle: Varseltrekant
+Warning: Varseltrekant
 Twitter: Twitter logo
 Up: Kvadrat med pil opp
 Upload: Pil opp fra harddisk
 User: Person
+UserGroup: Tre personer
 Users: To personer
 UserWoman: En kvinne med musefletter
 Van: Bobil
 Verification: Blått skjold med hakemerke
 Wallet: Lommebok
+Warning: Varseltrekant med utropstegn
 Warranty: Rosett med hakemerke
 Wheelchair: Rullestol
 Wifi: WiFi symbol, tre bølger over en sirkel
 Woods: To grantrær
 Youtube: YouTube logo
-BuildingPlot: Et stiplet kvadrat med et fremhevet hus
-Skyscraper: To boligblokker med en sky over
-OfficeDesk: En kontorpult med en dataskjerm
-TableSortUp: En pil som peker opp
-TableSortDown: En pil som peker ned
-TableInfo: En sirkel med bokstaven I
-BankId: BankId logo
