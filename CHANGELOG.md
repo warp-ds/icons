@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/warp-ds/icons/compare/v2.0.0...v2.0.1) (2024-04-18)
+
+
+### Bug Fixes
+
+* new translations from Crowdin ([#103](https://github.com/warp-ds/icons/issues/103)) ([e991690](https://github.com/warp-ds/icons/commit/e991690680f9b8cfe7b20d42a9e6db6715fecbbe))
+
 ## [2.0.1-next.1](https://github.com/warp-ds/icons/compare/v2.0.0...v2.0.1-next.1) (2024-04-15)
 
 
