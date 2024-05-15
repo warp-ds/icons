@@ -1,3 +1,10 @@
+## [2.0.2-next.1](https://github.com/warp-ds/icons/compare/v2.0.1...v2.0.2-next.1) (2024-05-15)
+
+
+### Bug Fixes
+
+* Users icon update ([48673d1](https://github.com/warp-ds/icons/commit/48673d1ab1c6827163fadd73d546fe1822b398de))
+
 ## [2.0.1](https://github.com/warp-ds/icons/compare/v2.0.0...v2.0.1) (2024-04-18)
 
 
