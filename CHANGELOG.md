@@ -1,3 +1,10 @@
+## [2.0.2-next.2](https://github.com/warp-ds/icons/compare/v2.0.2-next.1...v2.0.2-next.2) (2024-06-05)
+
+
+### Bug Fixes
+
+* use correct color in users icon ([#109](https://github.com/warp-ds/icons/issues/109)) ([c1c8b84](https://github.com/warp-ds/icons/commit/c1c8b848c98fce761665f5e5ecc55f16263db9fc))
+
 ## [2.0.2-next.1](https://github.com/warp-ds/icons/compare/v2.0.1...v2.0.2-next.1) (2024-05-15)
 
 
