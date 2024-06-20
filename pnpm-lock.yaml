@@ -50,8 +50,8 @@ devDependencies:
     specifier: ^10.0.0
     version: 10.3.10
   happy-dom:
-    specifier: 13.3.8
-    version: 13.3.8
+    specifier: 14.12.3
+    version: 14.12.3
   nanoid:
     specifier: 5.0.5
     version: 5.0.5
@@ -3522,8 +3522,8 @@ packages:
       uglify-js: 3.17.4
     dev: true
 
-  /happy-dom@13.3.8:
-    resolution: {integrity: sha512-RAbq4oYfJNkVan1m1F3jfA4YEyRY0/ASoNvZsNJbuX85jIypidmsz9jQZD7Tqz0VXA2MhAGfcsh5oshwmwNYSg==}
+  /happy-dom@14.12.3:
+    resolution: {integrity: sha512-vsYlEs3E9gLwA1Hp+w3qzu+RUDFf4VTT8cyKqVICoZ2k7WM++Qyd2LwzyTi5bqMJFiIC/vNpTDYuxdreENRK/g==}
     engines: {node: '>=16.0.0'}
     dependencies:
       entities: 4.5.0
