@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: da\n"
 "X-Crowdin-File-ID: 3610\n"
+"PO-Revision-Date: \n"
 
 #. Title for front-wheel drive icon
 #. js-lingui-explicit-id
 #: scripts/temp/front-wheel-drive.js:2
 msgid "icon.title.front-wheel-drive"
 msgstr "Fronthjulstræk"
-

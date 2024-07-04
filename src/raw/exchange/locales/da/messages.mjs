@@ -1,0 +1,1 @@
+/*eslint-disable*/export const messages=JSON.parse("{\"icon.title.exchange\":\"To pile, der danner en cirkel\"}");

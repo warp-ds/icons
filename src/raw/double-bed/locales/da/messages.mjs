@@ -1,0 +1,1 @@
+/*eslint-disable*/export const messages=JSON.parse("{\"icon.title.double-bed\":\"Dobbeltseng\"}");

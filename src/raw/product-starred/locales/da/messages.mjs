@@ -1,0 +1,1 @@
+/*eslint-disable*/export const messages=JSON.parse("{\"icon.title.product-starred\":\"Tre stjerner med tekst nedenfor\"}");

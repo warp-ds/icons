@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/store-front.js:2
 msgid "icon.title.storefront"
 msgstr "Storefront building"
-

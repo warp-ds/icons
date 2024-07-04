@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/town-house.js:2
 msgid "icon.title.town-house"
 msgstr "Two townhouses"
-

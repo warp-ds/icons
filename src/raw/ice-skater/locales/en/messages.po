@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/ice-skater.js:2
 msgid "icon.title.iceskater"
 msgstr "Ice skater"
-
