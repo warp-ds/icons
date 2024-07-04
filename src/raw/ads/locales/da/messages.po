@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: da\n"
 "X-Crowdin-File-ID: 4180\n"
+"PO-Revision-Date: \n"
 
 #. Title for ads icon
 #. js-lingui-explicit-id
 #: scripts/temp/ads.js:2
 msgid "icon.title.ads"
 msgstr "Ark med billede og overskrift"
-

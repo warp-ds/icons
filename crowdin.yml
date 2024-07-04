@@ -61,12 +61,42 @@ files:
   - source: /src/raw/tv/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/tv/locales/%two_letters_code%/messages.po
+  - source: /src/raw/triangle/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/triangle/locales/%two_letters_code%/messages.po
   - source: /src/raw/tractor/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/tractor/locales/%two_letters_code%/messages.po
   - source: /src/raw/town-house/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/town-house/locales/%two_letters_code%/messages.po
+  - source: /src/raw/torget-verified/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/torget-verified/locales/%two_letters_code%/messages.po
+  - source: /src/raw/torget-users/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/torget-users/locales/%two_letters_code%/messages.po
+  - source: /src/raw/torget-shopping/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/torget-shopping/locales/%two_letters_code%/messages.po
+  - source: /src/raw/torget-shipping/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/torget-shipping/locales/%two_letters_code%/messages.po
+  - source: /src/raw/torget-mixer/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/torget-mixer/locales/%two_letters_code%/messages.po
+  - source: /src/raw/torget-lamp/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/torget-lamp/locales/%two_letters_code%/messages.po
+  - source: /src/raw/torget-headset/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/torget-headset/locales/%two_letters_code%/messages.po
+  - source: /src/raw/torget-delivery/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/torget-delivery/locales/%two_letters_code%/messages.po
+  - source: /src/raw/torget-browser/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/torget-browser/locales/%two_letters_code%/messages.po
   - source: /src/raw/tools/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/tools/locales/%two_letters_code%/messages.po
@@ -82,6 +112,15 @@ files:
   - source: /src/raw/tag/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/tag/locales/%two_letters_code%/messages.po
+  - source: /src/raw/table-sort-up/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/table-sort-up/locales/%two_letters_code%/messages.po
+  - source: /src/raw/table-sort-down/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/table-sort-down/locales/%two_letters_code%/messages.po
+  - source: /src/raw/table-info/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/table-info/locales/%two_letters_code%/messages.po
   - source: /src/raw/swimming/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/swimming/locales/%two_letters_code%/messages.po
@@ -214,6 +253,15 @@ files:
   - source: /src/raw/real-estate/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/real-estate/locales/%two_letters_code%/messages.po
+  - source: /src/raw/rating-half/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/rating-half/locales/%two_letters_code%/messages.po
+  - source: /src/raw/rating-full/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/rating-full/locales/%two_letters_code%/messages.po
+  - source: /src/raw/rating-empty/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/rating-empty/locales/%two_letters_code%/messages.po
   - source: /src/raw/question/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/question/locales/%two_letters_code%/messages.po
@@ -274,6 +322,9 @@ files:
   - source: /src/raw/phone-scratched/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/phone-scratched/locales/%two_letters_code%/messages.po
+  - source: /src/raw/phone-new/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/phone-new/locales/%two_letters_code%/messages.po
   - source: /src/raw/phone-badge-check/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/phone-badge-check/locales/%two_letters_code%/messages.po
@@ -316,6 +367,9 @@ files:
   - source: /src/raw/nettbil-dark/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/nettbil-dark/locales/%two_letters_code%/messages.po
+  - source: /src/raw/nettbil/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/nettbil/locales/%two_letters_code%/messages.po
   - source: /src/raw/mountain/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/mountain/locales/%two_letters_code%/messages.po
@@ -349,6 +403,9 @@ files:
   - source: /src/raw/measure/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/measure/locales/%two_letters_code%/messages.po
+  - source: /src/raw/market/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/market/locales/%two_letters_code%/messages.po
   - source: /src/raw/map/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/map/locales/%two_letters_code%/messages.po
@@ -445,6 +502,9 @@ files:
   - source: /src/raw/honk-dark/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/honk-dark/locales/%two_letters_code%/messages.po
+  - source: /src/raw/honk/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/honk/locales/%two_letters_code%/messages.po
   - source: /src/raw/history/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/history/locales/%two_letters_code%/messages.po
@@ -505,9 +565,15 @@ files:
   - source: /src/raw/file-add/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/file-add/locales/%two_letters_code%/messages.po
+  - source: /src/raw/file/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/file/locales/%two_letters_code%/messages.po
   - source: /src/raw/feedback/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/feedback/locales/%two_letters_code%/messages.po
+  - source: /src/raw/favorite/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/favorite/locales/%two_letters_code%/messages.po
   - source: /src/raw/farm/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/farm/locales/%two_letters_code%/messages.po
@@ -757,9 +823,15 @@ files:
   - source: /src/raw/battery-empty/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/battery-empty/locales/%two_letters_code%/messages.po
+  - source: /src/raw/bank-ident/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/bank-ident/locales/%two_letters_code%/messages.po
   - source: /src/raw/bank-id-no/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/bank-id-no/locales/%two_letters_code%/messages.po
+  - source: /src/raw/bank-id/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/bank-id/locales/%two_letters_code%/messages.po
   - source: /src/raw/bank/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/bank/locales/%two_letters_code%/messages.po
@@ -805,6 +877,18 @@ files:
   - source: /src/raw/all-wheel-drive/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/all-wheel-drive/locales/%two_letters_code%/messages.po
+  - source: /src/raw/alert-warning/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/alert-warning/locales/%two_letters_code%/messages.po
+  - source: /src/raw/alert-success/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/alert-success/locales/%two_letters_code%/messages.po
+  - source: /src/raw/alert-info/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/alert-info/locales/%two_letters_code%/messages.po
+  - source: /src/raw/alert-error/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/alert-error/locales/%two_letters_code%/messages.po
   - source: /src/raw/alert/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/alert/locales/%two_letters_code%/messages.po

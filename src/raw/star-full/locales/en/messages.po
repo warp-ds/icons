@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/star-full.js:2
 msgid "icon.title.star-full"
 msgstr "Full blue star"
-

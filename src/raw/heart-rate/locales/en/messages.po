@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/heart-rate.js:2
 msgid "icon.title.heart-rate"
 msgstr "Heart with heart rate indicator"
-

@@ -1,0 +1,1 @@
+/*eslint-disable*/export const messages=JSON.parse("{\"icon.title.phone-badge-check\":\"Smartphone og et badge med et flueben\"}");

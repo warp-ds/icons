@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/cog.js:2
 msgid "icon.title.cog"
 msgstr "Gear"
-

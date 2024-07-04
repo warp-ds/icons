@@ -1,0 +1,1 @@
+/*eslint-disable*/export const messages=JSON.parse("{\"icon.title.browser\":\"Browservindue med en t-shirt og en fremhævet musemarkøren\"}");

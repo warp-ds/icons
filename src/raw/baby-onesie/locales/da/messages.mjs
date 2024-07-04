@@ -1,0 +1,1 @@
+/*eslint-disable*/export const messages=JSON.parse("{\"icon.title.baby-onesie\":\"Heldragt til en baby\"}");

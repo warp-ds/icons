@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/send.js:2
 msgid "icon.title.send"
 msgstr "Paper plane"
-

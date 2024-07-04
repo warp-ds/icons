@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/sauna.js:2
 msgid "icon.title.sauna"
 msgstr "House with heat waves"
-

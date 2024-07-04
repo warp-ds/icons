@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/animal-paw.js:2
 msgid "icon.title.animal-paw"
 msgstr "Dog's paw"
-

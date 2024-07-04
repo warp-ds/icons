@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: da\n"
 "X-Crowdin-File-ID: 4030\n"
+"PO-Revision-Date: \n"
 
 #. Title for boat length icon
 #. js-lingui-explicit-id
 #: scripts/temp/boat-length.js:2
 msgid "icon.title.boat-length"
 msgstr "Båd med pile som peger i begge retninger"
-

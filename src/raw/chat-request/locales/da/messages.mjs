@@ -1,0 +1,1 @@
+/*eslint-disable*/export const messages=JSON.parse("{\"icon.title.chat-request\":\"Taleboble ved siden af en person\"}");

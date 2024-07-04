@@ -1,0 +1,1 @@
+/*eslint-disable*/export const messages=JSON.parse("{\"icon.title.link-external\":\"Firkant med en pil opad til højre\"}");

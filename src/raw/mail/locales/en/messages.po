@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/mail.js:2
 msgid "icon.title.mail"
 msgstr "Envelope with letter"
-
