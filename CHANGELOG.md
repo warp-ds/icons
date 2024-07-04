@@ -1,3 +1,10 @@
+## [2.0.3-next.1](https://github.com/warp-ds/icons/compare/v2.0.2...v2.0.3-next.1) (2024-07-04)
+
+
+### Bug Fixes
+
+* support danish locale ([#112](https://github.com/warp-ds/icons/issues/112)) ([9fca432](https://github.com/warp-ds/icons/commit/9fca4324e4bc6109e195c5865ef9541f33555e41))
+
 ## [2.0.2](https://github.com/warp-ds/icons/compare/v2.0.1...v2.0.2) (2024-06-05)
 
 
