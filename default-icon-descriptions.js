@@ -154,6 +154,11 @@ export default {
     id: "icon.title.boat-length",
     comment: "Title for boat length icon"
   },
+  bold: {
+    message: "Bold text",
+    id: "text-bold",
+    comment: "Title for bold text icon"
+  },
   bolt: {
     message: "Lightning bolt",
     id: "icon.title.bolt",
@@ -1203,6 +1208,11 @@ export default {
     message: "Envelope with invitation card",
     id: "icon.title.invitation",
     comment: "Title for invitation icon"
+  },
+  italic: {
+    message: "Italic text",
+    id: "text-italic",
+    comment: "Title for italic text icon"
   },
   jewelry: {
     message: "Necklace",
@@ -2254,6 +2264,11 @@ export default {
     id: "icon.title.stove",
     comment: "Title for stove icon"
   },
+  strikethrough: {
+    message: "Strikethrough",
+    id: "text-strikethrough",
+    comment: "Title for strikethrough text icon"
+  },
   stroller: {
     message: "Stroller",
     id: "icon.title.stroller",
@@ -2463,6 +2478,11 @@ export default {
     message: "Umbrella",
     id: "icon.title.umbrella",
     comment: "Title for umbrella icon"
+  },
+  underline: {
+    message: "Underline",
+    id: "text-underline",
+    comment: "Title for underline text icon"
   },
   undo: {
     message: "Undo arrow",
