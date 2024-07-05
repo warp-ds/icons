@@ -1,3 +1,10 @@
+## [2.0.3-next.3](https://github.com/warp-ds/icons/compare/v2.0.3-next.2...v2.0.3-next.3) (2024-07-05)
+
+
+### Bug Fixes
+
+* Add translations that were gone from crowdin ([#114](https://github.com/warp-ds/icons/issues/114)) ([9c01b01](https://github.com/warp-ds/icons/commit/9c01b01e819806d855cbd3a657b30625200291fb))
+
 ## [2.0.3-next.2](https://github.com/warp-ds/icons/compare/v2.0.3-next.1...v2.0.3-next.2) (2024-07-05)
 
 
