@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/air-con.js:2
 msgid "icon.title.air-con"
 msgstr "Small air cooler"
+

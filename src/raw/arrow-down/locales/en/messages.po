@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/arrow-down.js:2
 msgid "icon.title.arrow-down"
 msgstr "Downward-pointing arrow"
+

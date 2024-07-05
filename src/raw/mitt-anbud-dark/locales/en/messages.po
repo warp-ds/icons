@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/mitt-anbud-dark.js:2
 msgid "icon.title.mittanbuddark"
 msgstr "MittAnbud dark icon"
+

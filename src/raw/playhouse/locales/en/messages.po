@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/playhouse.js:2
 msgid "icon.title.playhouse"
 msgstr "Climbing frame"
+

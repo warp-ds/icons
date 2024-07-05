@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/search-favorites.js:2
 msgid "icon.title.search-favorites"
 msgstr "Magnifying glass with a heart"
+

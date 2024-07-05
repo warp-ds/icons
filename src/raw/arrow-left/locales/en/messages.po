@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/arrow-left.js:2
 msgid "icon.title.arrow-left"
 msgstr "Leftward-pointing arrow"
+

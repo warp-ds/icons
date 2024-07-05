@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/cart.js:2
 msgid "icon.title.cart"
 msgstr "Shopping cart"
+

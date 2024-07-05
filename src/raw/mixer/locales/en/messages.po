@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/mixer.js:2
 msgid "icon.title.mixer"
 msgstr "Kitchen machine"
+

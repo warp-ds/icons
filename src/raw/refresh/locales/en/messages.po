@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/refresh.js:2
 msgid "icon.title.refresh"
 msgstr "Circular arrow"
+

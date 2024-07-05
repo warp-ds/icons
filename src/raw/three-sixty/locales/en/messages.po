@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/three-sixty.js:2
 msgid "icon.title.three-sixty"
 msgstr "Right-pointing rotating arrow with a house"
+

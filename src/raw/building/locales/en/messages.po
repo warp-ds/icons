@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/building.js:2
 msgid "icon.title.building"
 msgstr "Apartment building"
+

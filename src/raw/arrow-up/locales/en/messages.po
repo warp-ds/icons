@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/arrow-up.js:2
 msgid "icon.title.arrow-up"
 msgstr "Upward-pointing arrow"
+

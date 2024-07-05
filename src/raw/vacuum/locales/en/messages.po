@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/vacuum.js:2
 msgid "icon.title.vacuum"
 msgstr "Vacuum cleaner"
+

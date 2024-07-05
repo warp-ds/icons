@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/pin-marker.js:2
 msgid "icon.title.pin-marker"
 msgstr "Map pin"
+

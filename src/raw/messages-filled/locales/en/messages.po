@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/messages-filled.js:2
 msgid "icon.title.messages-filled"
 msgstr "Message bubble with smiley face"
+

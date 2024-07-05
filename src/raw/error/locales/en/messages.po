@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/error.js:2
 msgid "icon.title.error"
 msgstr "Octagon with exclamation point"
+

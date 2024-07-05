@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/list-sort.js:2
 msgid "icon.title.list-sort"
 msgstr "Vertical list with sorting arrow"
+

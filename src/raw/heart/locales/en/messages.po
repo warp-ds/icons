@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/heart.js:2
 msgid "icon.title.heart"
 msgstr "Heart"
+

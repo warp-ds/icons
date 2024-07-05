@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/success.js:2
 msgid "icon.title.success"
 msgstr "Circle with checkmark"
+

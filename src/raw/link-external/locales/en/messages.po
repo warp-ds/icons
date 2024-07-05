@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/link-external.js:2
 msgid "icon.title.link-external"
 msgstr "Square with an upward arrow to the right"
+

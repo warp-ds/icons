@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/remppatori-dark.js:2
 msgid "icon.title.remppatoridark"
 msgstr "Remppatori dark icon"
+

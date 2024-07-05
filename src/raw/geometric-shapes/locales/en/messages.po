@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/geometric-shapes.js:2
 msgid "icon.title.geometric-shapes"
 msgstr "Rectangle, ellipse, diamond and triangle shapes"
+

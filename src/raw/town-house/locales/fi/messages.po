@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: fi\n"
 "X-Crowdin-File-ID: 2890\n"
-"PO-Revision-Date: \n"
 
 #. Title for townhouse icon
 #. js-lingui-explicit-id
 #: scripts/temp/town-house.js:2
 msgid "icon.title.town-house"
 msgstr "Kaksi kaupunkitaloa"
+

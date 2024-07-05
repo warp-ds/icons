@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/map.js:2
 msgid "icon.title.map"
 msgstr "Map"
+
