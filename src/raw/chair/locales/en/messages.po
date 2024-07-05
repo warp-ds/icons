@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/chair.js:2
 msgid "icon.title.chair"
 msgstr "Chair"
-

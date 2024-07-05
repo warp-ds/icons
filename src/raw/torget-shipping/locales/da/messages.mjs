@@ -1,1 +1,1 @@
-/*eslint-disable*/export const messages=JSON.parse("{\"undefined\":\"undefined\"}");
+/*eslint-disable*/export const messages=JSON.parse("{\"undefined\":\"undefined\",\"icon.title.torget-shipping\":\"Lastbil i bevægelse\"}");

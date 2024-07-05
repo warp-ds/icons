@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/honk-dark.js:2
 msgid "icon.title.honkdark"
 msgstr "Honk dark icon"
-

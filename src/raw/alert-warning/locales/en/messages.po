@@ -17,6 +17,11 @@ msgstr ""
 #. Title for alert warning icon
 #. js-lingui-explicit-id
 #: scripts/temp/alert-warning.js:2
-msgid "icon.title.alert-warning"
-msgstr "Yellow warning triangle with exclamation point"
+#~ msgid "icon.title.alert-warning"
+#~ msgstr "Yellow warning triangle with exclamation point"
 
+#. undefined
+#. js-lingui-explicit-id
+#: scripts/temp/alert-warning.js:2
+msgid "undefined"
+msgstr "undefined"

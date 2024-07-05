@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/mitt-anbud-light.js:2
 msgid "icon.title.mittanbudlight"
 msgstr "MittAnbud light icon"
-

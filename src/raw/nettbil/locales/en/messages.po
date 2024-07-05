@@ -17,6 +17,11 @@ msgstr ""
 #. Title for Nettbil icon
 #. js-lingui-explicit-id
 #: scripts/temp/nettbil.js:2
-msgid "icon.title.nettbil"
-msgstr "Two circles with a semicircle above"
+#~ msgid "icon.title.nettbil"
+#~ msgstr "Two circles with a semicircle above"
 
+#. undefined
+#. js-lingui-explicit-id
+#: scripts/temp/nettbil.js:2
+msgid "undefined"
+msgstr "undefined"

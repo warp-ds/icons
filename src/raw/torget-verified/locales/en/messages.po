@@ -17,6 +17,11 @@ msgstr ""
 #. Title for Torget Verified icon
 #. js-lingui-explicit-id
 #: scripts/temp/torget-verified.js:2
-msgid "icon.title.torget-verified"
-msgstr "Browser with highlighted shield in the bottom right corner"
+#~ msgid "icon.title.torget-verified"
+#~ msgstr "Browser with highlighted shield in the bottom right corner"
 
+#. undefined
+#. js-lingui-explicit-id
+#: scripts/temp/torget-verified.js:2
+msgid "undefined"
+msgstr "undefined"

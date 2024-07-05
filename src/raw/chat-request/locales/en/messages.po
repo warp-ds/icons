@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/chat-request.js:2
 msgid "icon.title.chat-request"
 msgstr "Speech bubble next to a person"
-

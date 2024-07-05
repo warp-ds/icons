@@ -17,6 +17,11 @@ msgstr ""
 #. Title for phone new icon
 #. js-lingui-explicit-id
 #: scripts/temp/phone-new.js:2
-msgid "icon.title.phone-new"
-msgstr "Smartphone"
+#~ msgid "icon.title.phone-new"
+#~ msgstr "Smartphone"
 
+#. undefined
+#. js-lingui-explicit-id
+#: scripts/temp/phone-new.js:2
+msgid "undefined"
+msgstr "undefined"

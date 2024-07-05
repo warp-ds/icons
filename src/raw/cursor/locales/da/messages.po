@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: da\n"
 "X-Crowdin-File-ID: 3778\n"
+"PO-Revision-Date: \n"
 
 #. Title for cursor icon
 #. js-lingui-explicit-id
 #: scripts/temp/cursor.js:2
 msgid "icon.title.cursor"
 msgstr "Musemarkøren over en cirkel"
-

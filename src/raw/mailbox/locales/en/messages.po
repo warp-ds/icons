@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/mailbox.js:2
 msgid "icon.title.mailbox"
 msgstr "Mailbox with a flag indicating new mail"
-

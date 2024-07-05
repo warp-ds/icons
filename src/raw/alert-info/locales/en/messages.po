@@ -17,6 +17,11 @@ msgstr ""
 #. Title for alert info icon
 #. js-lingui-explicit-id
 #: scripts/temp/alert-info.js:2
-msgid "icon.title.alert-info"
-msgstr "Blue circle with the letter I"
+#~ msgid "icon.title.alert-info"
+#~ msgstr "Blue circle with the letter I"
 
+#. undefined
+#. js-lingui-explicit-id
+#: scripts/temp/alert-info.js:2
+msgid "undefined"
+msgstr "undefined"

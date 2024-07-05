@@ -17,6 +17,11 @@ msgstr ""
 #. Title for Torget Mixer icon
 #. js-lingui-explicit-id
 #: scripts/temp/torget-mixer.js:2
-msgid "icon.title.torget-mixer"
-msgstr "Food mixer"
+#~ msgid "icon.title.torget-mixer"
+#~ msgstr "Food mixer"
 
+#. undefined
+#. js-lingui-explicit-id
+#: scripts/temp/torget-mixer.js:2
+msgid "undefined"
+msgstr "undefined"

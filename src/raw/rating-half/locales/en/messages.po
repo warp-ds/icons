@@ -17,6 +17,11 @@ msgstr ""
 #. Title for half-star rating icon
 #. js-lingui-explicit-id
 #: scripts/temp/rating-half.js:2
-msgid "icon.title.rating-half"
-msgstr "Half full blue star"
+#~ msgid "icon.title.rating-half"
+#~ msgstr "Half full blue star"
 
+#. undefined
+#. js-lingui-explicit-id
+#: scripts/temp/rating-half.js:2
+msgid "undefined"
+msgstr "undefined"

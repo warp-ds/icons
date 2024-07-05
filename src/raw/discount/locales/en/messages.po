@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/discount.js:2
 msgid "icon.title.discount"
 msgstr "Percentage sign"
-

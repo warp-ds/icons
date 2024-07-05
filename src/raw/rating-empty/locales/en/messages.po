@@ -17,6 +17,11 @@ msgstr ""
 #. Title for empty-star rating icon
 #. js-lingui-explicit-id
 #: scripts/temp/rating-empty.js:2
-msgid "icon.title.rating-empty"
-msgstr "Empty blue star"
+#~ msgid "icon.title.rating-empty"
+#~ msgstr "Empty blue star"
 
+#. undefined
+#. js-lingui-explicit-id
+#: scripts/temp/rating-empty.js:2
+msgid "undefined"
+msgstr "undefined"

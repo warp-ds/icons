@@ -1,1 +1,1 @@
-/*eslint-disable*/export const messages=JSON.parse("{\"undefined\":\"undefined\"}");
+/*eslint-disable*/export const messages=JSON.parse("{\"icon.title.torget-verified\":\"Browser med fremhævet skjold i nederste højre hjørne\",\"undefined\":\"undefined\"}");

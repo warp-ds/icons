@@ -17,6 +17,11 @@ msgstr ""
 #. Title for Torget Users icon
 #. js-lingui-explicit-id
 #: scripts/temp/torget-users.js:2
-msgid "icon.title.torget-users"
-msgstr "Three people"
+#~ msgid "icon.title.torget-users"
+#~ msgstr "Three people"
 
+#. undefined
+#. js-lingui-explicit-id
+#: scripts/temp/torget-users.js:2
+msgid "undefined"
+msgstr "undefined"

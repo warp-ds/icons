@@ -15,10 +15,16 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: fi\n"
 "X-Crowdin-File-ID: 2048\n"
+"PO-Revision-Date: \n"
 
 #. Title for file icon
 #. js-lingui-explicit-id
 #: scripts/temp/file.js:2
-msgid "icon.title.file"
-msgstr "Tiedostokansio"
+#~ msgid "icon.title.file"
+#~ msgstr "Tiedostokansio"
 
+#. undefined
+#. js-lingui-explicit-id
+#: scripts/temp/file.js:2
+msgid "undefined"
+msgstr ""

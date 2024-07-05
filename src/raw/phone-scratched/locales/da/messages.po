@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: da\n"
 "X-Crowdin-File-ID: 3292\n"
+"PO-Revision-Date: \n"
 
 #. Title for phone scratched icon
 #. js-lingui-explicit-id
 #: scripts/temp/phone-scratched.js:2
 msgid "icon.title.phone-scratched"
 msgstr "Smartphone med tre ridser på skærmen"
-

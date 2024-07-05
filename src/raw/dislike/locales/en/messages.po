@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/dislike.js:2
 msgid "icon.title.dislike"
 msgstr "Thumbs down"
-

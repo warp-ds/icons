@@ -17,6 +17,11 @@ msgstr ""
 #. Title for table sort up icon
 #. js-lingui-explicit-id
 #: scripts/temp/table-sort-up.js:2
-msgid "icon.title.table-sort-up"
-msgstr "Upward-pointing arrow"
+#~ msgid "icon.title.table-sort-up"
+#~ msgstr "Upward-pointing arrow"
 
+#. undefined
+#. js-lingui-explicit-id
+#: scripts/temp/table-sort-up.js:2
+msgid "undefined"
+msgstr "undefined"

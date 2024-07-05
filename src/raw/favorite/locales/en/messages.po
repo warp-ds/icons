@@ -17,6 +17,11 @@ msgstr ""
 #. Title for favorite icon
 #. js-lingui-explicit-id
 #: scripts/temp/favorite.js:2
-msgid "icon.title.favorite"
-msgstr "Heart"
+#~ msgid "icon.title.favorite"
+#~ msgstr "Heart"
 
+#. undefined
+#. js-lingui-explicit-id
+#: scripts/temp/favorite.js:2
+msgid "undefined"
+msgstr "undefined"

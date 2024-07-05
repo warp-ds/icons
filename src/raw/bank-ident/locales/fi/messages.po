@@ -15,10 +15,16 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: fi\n"
 "X-Crowdin-File-ID: 2340\n"
+"PO-Revision-Date: \n"
 
 #. Title for bank ident icon
 #. js-lingui-explicit-id
 #: scripts/temp/bank-ident.js:2
-msgid "icon.title.bank-ident"
-msgstr "Kilpi, jonka sisällä on valintamerkki"
+#~ msgid "icon.title.bank-ident"
+#~ msgstr "Kilpi, jonka sisällä on valintamerkki"
 
+#. undefined
+#. js-lingui-explicit-id
+#: scripts/temp/bank-ident.js:2
+msgid "undefined"
+msgstr ""

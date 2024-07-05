@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: nb\n"
 "X-Crowdin-File-ID: 4036\n"
+"PO-Revision-Date: \n"
 
 #. Title for block icon
 #. js-lingui-explicit-id
 #: scripts/temp/block.js:2
 msgid "icon.title.block"
 msgstr "Person med \"ingen adgang\" skilt"
-

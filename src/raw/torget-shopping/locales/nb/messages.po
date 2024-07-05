@@ -15,10 +15,16 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: nb\n"
 "X-Crowdin-File-ID: 1560\n"
+"PO-Revision-Date: \n"
 
 #. Title for Torget Shopping icon
 #. js-lingui-explicit-id
 #: scripts/temp/torget-shopping.js:2
-msgid "icon.title.torget-shopping"
-msgstr "Handlekurv"
+#~ msgid "icon.title.torget-shopping"
+#~ msgstr "Handlekurv"
 
+#. undefined
+#. js-lingui-explicit-id
+#: scripts/temp/torget-shopping.js:2
+msgid "undefined"
+msgstr ""

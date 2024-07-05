@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/bank.js:2
 msgid "icon.title.bank"
 msgstr "A bank with three columns"
-

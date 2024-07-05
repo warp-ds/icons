@@ -17,6 +17,11 @@ msgstr ""
 #. Title for Torget Delivery icon
 #. js-lingui-explicit-id
 #: scripts/temp/torget-delivery.js:2
-msgid "icon.title.torget-delivery"
-msgstr "Hand holding a small box"
+#~ msgid "icon.title.torget-delivery"
+#~ msgstr "Hand holding a small box"
 
+#. undefined
+#. js-lingui-explicit-id
+#: scripts/temp/torget-delivery.js:2
+msgid "undefined"
+msgstr "undefined"

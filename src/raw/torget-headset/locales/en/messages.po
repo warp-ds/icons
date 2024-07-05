@@ -17,6 +17,11 @@ msgstr ""
 #. Title for Torget Headset icon
 #. js-lingui-explicit-id
 #: scripts/temp/torget-headset.js:2
-msgid "icon.title.torget-headset"
-msgstr "Headphones"
+#~ msgid "icon.title.torget-headset"
+#~ msgstr "Headphones"
 
+#. undefined
+#. js-lingui-explicit-id
+#: scripts/temp/torget-headset.js:2
+msgid "undefined"
+msgstr "undefined"

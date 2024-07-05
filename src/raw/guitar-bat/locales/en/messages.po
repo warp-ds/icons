@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/guitar-bat.js:2
 msgid "icon.title.guitarbat"
 msgstr "Guitar with a bat"
-

@@ -15,10 +15,16 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: nb\n"
 "X-Crowdin-File-ID: 1732\n"
+"PO-Revision-Date: \n"
 
 #. Title for half-star rating icon
 #. js-lingui-explicit-id
 #: scripts/temp/rating-half.js:2
-msgid "icon.title.rating-half"
-msgstr "Halvfylt blå stjerne"
+#~ msgid "icon.title.rating-half"
+#~ msgstr "Halvfylt blå stjerne"
 
+#. undefined
+#. js-lingui-explicit-id
+#: scripts/temp/rating-half.js:2
+msgid "undefined"
+msgstr ""

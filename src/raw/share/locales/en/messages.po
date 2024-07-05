@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/share.js:2
 msgid "icon.title.share"
 msgstr "Share icon"
-

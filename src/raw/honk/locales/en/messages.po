@@ -17,6 +17,11 @@ msgstr ""
 #. Title for honk icon
 #. js-lingui-explicit-id
 #: scripts/temp/honk.js:2
-msgid "icon.title.honk"
-msgstr "Car horn"
+#~ msgid "icon.title.honk"
+#~ msgstr "Car horn"
 
+#. undefined
+#. js-lingui-explicit-id
+#: scripts/temp/honk.js:2
+msgid "undefined"
+msgstr "undefined"

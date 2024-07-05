@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/room-service.js:2
 msgid "icon.title.room-service"
 msgstr "Gloved hand and serving tray with a dome"
-
