@@ -51,8 +51,8 @@ importers:
         specifier: 10.4.2
         version: 10.4.2
       happy-dom:
-        specifier: 13.3.8
-        version: 13.3.8
+        specifier: 14.12.3
+        version: 14.12.3
       nanoid:
         specifier: 5.0.7
         version: 5.0.7
@@ -1849,8 +1849,8 @@ packages:
     engines: {node: '>=0.4.7'}
     hasBin: true
 
-  happy-dom@13.3.8:
-    resolution: {integrity: sha512-RAbq4oYfJNkVan1m1F3jfA4YEyRY0/ASoNvZsNJbuX85jIypidmsz9jQZD7Tqz0VXA2MhAGfcsh5oshwmwNYSg==}
+  happy-dom@14.12.3:
+    resolution: {integrity: sha512-vsYlEs3E9gLwA1Hp+w3qzu+RUDFf4VTT8cyKqVICoZ2k7WM++Qyd2LwzyTi5bqMJFiIC/vNpTDYuxdreENRK/g==}
     engines: {node: '>=16.0.0'}
 
   has-flag@3.0.0:
@@ -3479,7 +3479,7 @@ snapshots:
       lodash.merge: 4.6.2
       lodash.uniq: 4.5.0
       resolve-from: 5.0.0
-      ts-node: 10.9.1(@types/node@20.14.9)(typescript@5.5.3)
+      ts-node: 10.9.1(@types/node@20.5.1)(typescript@5.5.3)
       typescript: 5.5.3
     transitivePeerDependencies:
       - '@swc/core'
@@ -4622,7 +4622,7 @@ snapshots:
     dependencies:
       '@types/node': 20.5.1
       cosmiconfig: 8.3.6(typescript@5.5.3)
-      ts-node: 10.9.1(@types/node@20.14.9)(typescript@5.5.3)
+      ts-node: 10.9.1(@types/node@20.5.1)(typescript@5.5.3)
       typescript: 5.5.3
     optional: true
 
@@ -5125,7 +5125,7 @@ snapshots:
     optionalDependencies:
       uglify-js: 3.18.0
 
-  happy-dom@13.3.8:
+  happy-dom@14.12.3:
     dependencies:
       entities: 4.5.0
       webidl-conversions: 7.0.0
@@ -6148,14 +6148,14 @@ snapshots:
 
   traverse@0.6.8: {}
 
-  ts-node@10.9.1(@types/node@20.14.9)(typescript@5.5.3):
+  ts-node@10.9.1(@types/node@20.5.1)(typescript@5.5.3):
     dependencies:
       '@cspotcode/source-map-support': 0.8.1
       '@tsconfig/node10': 1.0.9
       '@tsconfig/node12': 1.0.11
       '@tsconfig/node14': 1.0.3
       '@tsconfig/node16': 1.0.4
-      '@types/node': 20.14.9
+      '@types/node': 20.5.1
       acorn: 8.12.1
       acorn-walk: 8.2.0
       arg: 4.1.3
