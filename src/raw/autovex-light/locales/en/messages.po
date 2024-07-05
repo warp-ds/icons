@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/autovex-light.js:2
 msgid "icon.title.autovexlight"
 msgstr "Autovex Light icon"
+

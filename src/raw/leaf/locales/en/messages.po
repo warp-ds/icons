@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/leaf.js:2
 msgid "icon.title.leaf"
 msgstr "Leaf"
+

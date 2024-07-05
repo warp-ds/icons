@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/krone.js:2
 msgid "icon.title.krone"
 msgstr "Circle with KR"
+

@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/organize.js:2
 msgid "icon.title.organize"
 msgstr "Two horizontal lines between two opposite vertical arrows"
+

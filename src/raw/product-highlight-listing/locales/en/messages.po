@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/product-highlight-listing.js:2
 msgid "icon.title.product-highlight-listing"
 msgstr "Text with highlighted image"
+

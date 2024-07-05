@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/service.js:2
 msgid "icon.title.service"
 msgstr "Rotating arrow with a wrench"
+

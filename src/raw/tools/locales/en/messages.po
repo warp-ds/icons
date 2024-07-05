@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/tools.js:2
 msgid "icon.title.tools"
 msgstr "Tools"
+

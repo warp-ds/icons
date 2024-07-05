@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/product-no-ads.js:2
 msgid "icon.title.product-no-ads"
 msgstr "Loudspeaker"
+

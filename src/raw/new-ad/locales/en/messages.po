@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/new-ad.js:2
 msgid "icon.title.new-ad"
 msgstr "Sheet with image, headline, and highlighted plus sign"
+

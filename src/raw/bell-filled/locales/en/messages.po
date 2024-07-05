@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/bell-filled.js:2
 msgid "icon.title.bell-filled"
 msgstr "Bell"
+

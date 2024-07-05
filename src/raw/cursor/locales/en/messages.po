@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/cursor.js:2
 msgid "icon.title.cursor"
 msgstr "Mouse pointer over a circle"
+

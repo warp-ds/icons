@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/shoes.js:2
 msgid "icon.title.shoes"
 msgstr "A pair of shoes"
+

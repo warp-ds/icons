@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/car-front.js:2
 msgid "icon.title.car-front"
 msgstr "Car front view"
+

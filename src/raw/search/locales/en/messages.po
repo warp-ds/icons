@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/search.js:2
 msgid "icon.title.search"
 msgstr "Magnifying glass"
+

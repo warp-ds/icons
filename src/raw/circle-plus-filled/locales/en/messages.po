@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/circle-plus-filled.js:2
 msgid "icon.title.circle-plus-filled"
 msgstr "Plus sign inside a circle"
+

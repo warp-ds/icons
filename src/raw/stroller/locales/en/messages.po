@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/stroller.js:2
 msgid "icon.title.stroller"
 msgstr "Stroller"
+

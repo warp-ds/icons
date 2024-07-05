@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/lock-shield.js:2
 msgid "icon.title.lock-shield"
 msgstr "Shield with padlock"
+

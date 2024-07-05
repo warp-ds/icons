@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/color-palette.js:2
 msgid "icon.title.color-palette"
 msgstr "Color palette"
+

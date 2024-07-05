@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/headset.js:2
 msgid "icon.title.headset"
 msgstr "Headphones"
+

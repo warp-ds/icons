@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/oikotie-light.js:2
 msgid "icon.title.oikotielight"
 msgstr "Oikotie light icon"
+

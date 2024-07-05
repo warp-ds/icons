@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/picture-stack.js:2
 msgid "icon.title.picture-stack"
 msgstr "Picture stack"
+

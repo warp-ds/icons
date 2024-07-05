@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/bus.js:2
 msgid "icon.title.bus"
 msgstr "Bus"
+

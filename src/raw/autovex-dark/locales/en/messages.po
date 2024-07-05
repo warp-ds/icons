@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/autovex-dark.js:2
 msgid "icon.title.autovexdark"
 msgstr "Autovex dark icon"
+

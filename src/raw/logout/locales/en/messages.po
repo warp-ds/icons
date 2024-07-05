@@ -19,3 +19,4 @@ msgstr ""
 #: scripts/temp/logout.js:2
 msgid "icon.title.logout"
 msgstr "Exit door"
+
