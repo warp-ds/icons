@@ -1,3 +1,10 @@
+## [2.0.3-next.2](https://github.com/warp-ds/icons/compare/v2.0.3-next.1...v2.0.3-next.2) (2024-07-05)
+
+
+### Bug Fixes
+
+* bump pnpm version 8 to 9 ([82354bf](https://github.com/warp-ds/icons/commit/82354bf4d5c4cd658093c1842015384854662450))
+
 ## [2.0.3-next.1](https://github.com/warp-ds/icons/compare/v2.0.2...v2.0.3-next.1) (2024-07-04)
 
 
