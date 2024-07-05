@@ -17,6 +17,11 @@ msgstr ""
 #. Title for table info icon
 #. js-lingui-explicit-id
 #: scripts/temp/table-info.js:2
-msgid "icon.title.table-info"
-msgstr "Circle with letter \"I\""
+#~ msgid "icon.title.table-info"
+#~ msgstr "Circle with letter \"I\""
 
+#. undefined
+#. js-lingui-explicit-id
+#: scripts/temp/table-info.js:2
+msgid "undefined"
+msgstr "undefined"

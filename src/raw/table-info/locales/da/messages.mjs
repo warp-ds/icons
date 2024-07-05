@@ -1,1 +1,1 @@
-/*eslint-disable*/export const messages=JSON.parse("{\"undefined\":\"undefined\"}");
+/*eslint-disable*/export const messages=JSON.parse("{\"icon.title.table-info\":\"Cirkel med bogstavet \\\"I\\\"\",\"undefined\":\"undefined\"}");

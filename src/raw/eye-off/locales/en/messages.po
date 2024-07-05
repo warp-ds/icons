@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/eye-off.js:2
 msgid "icon.title.eye-off"
 msgstr "Closed eye"
-

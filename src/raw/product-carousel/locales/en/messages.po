@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/product-carousel.js:2
 msgid "icon.title.product-carousel"
 msgstr "Highlighted vertical rectangle with two rectangles in the background"
-

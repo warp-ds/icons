@@ -17,6 +17,11 @@ msgstr ""
 #. Title for file icon
 #. js-lingui-explicit-id
 #: scripts/temp/file.js:2
-msgid "icon.title.file"
-msgstr "File folder"
+#~ msgid "icon.title.file"
+#~ msgstr "File folder"
 
+#. undefined
+#. js-lingui-explicit-id
+#: scripts/temp/file.js:2
+msgid "undefined"
+msgstr "undefined"

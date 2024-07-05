@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/messages.js:2
 msgid "icon.title.messages"
 msgstr "Speech bubbles"
-

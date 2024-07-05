@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/nettbil-dark.js:2
 msgid "icon.title.nettbildark"
 msgstr "Nettbil"
-

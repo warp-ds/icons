@@ -17,6 +17,11 @@ msgstr ""
 #. Title for alert success icon
 #. js-lingui-explicit-id
 #: scripts/temp/alert-success.js:2
-msgid "icon.title.alert-success"
-msgstr "Green circle with checkmark"
+#~ msgid "icon.title.alert-success"
+#~ msgstr "Green circle with checkmark"
 
+#. undefined
+#. js-lingui-explicit-id
+#: scripts/temp/alert-success.js:2
+msgid "undefined"
+msgstr "undefined"

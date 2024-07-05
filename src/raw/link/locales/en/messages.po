@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/link.js:2
 msgid "icon.title.link"
 msgstr "Chain link"
-

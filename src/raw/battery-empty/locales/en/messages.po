@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/battery-empty.js:2
 msgid "icon.title.battery-empty"
 msgstr "Empty battery"
-

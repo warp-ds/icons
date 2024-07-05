@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/phone-badge-check.js:2
 msgid "icon.title.phone-badge-check"
 msgstr "Smartphone and a badge with a check mark"
-

@@ -17,6 +17,11 @@ msgstr ""
 #. Title for market icon
 #. js-lingui-explicit-id
 #: scripts/temp/market.js:2
-msgid "icon.title.market"
-msgstr "Sofa"
+#~ msgid "icon.title.market"
+#~ msgstr "Sofa"
 
+#. undefined
+#. js-lingui-explicit-id
+#: scripts/temp/market.js:2
+msgid "undefined"
+msgstr "undefined"

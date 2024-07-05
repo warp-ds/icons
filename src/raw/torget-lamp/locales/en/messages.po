@@ -17,6 +17,11 @@ msgstr ""
 #. Title for Torget Lamp icon
 #. js-lingui-explicit-id
 #: scripts/temp/torget-lamp.js:2
-msgid "icon.title.torget-lamp"
-msgstr "Floor lamp"
+#~ msgid "icon.title.torget-lamp"
+#~ msgstr "Floor lamp"
 
+#. undefined
+#. js-lingui-explicit-id
+#: scripts/temp/torget-lamp.js:2
+msgid "undefined"
+msgstr "undefined"

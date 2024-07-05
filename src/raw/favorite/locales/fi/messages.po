@@ -15,10 +15,16 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: fi\n"
 "X-Crowdin-File-ID: 2056\n"
+"PO-Revision-Date: \n"
 
 #. Title for favorite icon
 #. js-lingui-explicit-id
 #: scripts/temp/favorite.js:2
-msgid "icon.title.favorite"
-msgstr "Sydän"
+#~ msgid "icon.title.favorite"
+#~ msgstr "Sydän"
 
+#. undefined
+#. js-lingui-explicit-id
+#: scripts/temp/favorite.js:2
+msgid "undefined"
+msgstr ""

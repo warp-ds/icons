@@ -17,6 +17,11 @@ msgstr ""
 #. Title for bank ident icon
 #. js-lingui-explicit-id
 #: scripts/temp/bank-ident.js:2
-msgid "icon.title.bank-ident"
-msgstr "Shield with checkmark"
+#~ msgid "icon.title.bank-ident"
+#~ msgstr "Shield with checkmark"
 
+#. undefined
+#. js-lingui-explicit-id
+#: scripts/temp/bank-ident.js:2
+msgid "undefined"
+msgstr "undefined"

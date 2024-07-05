@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/user-group.js:2
 msgid "icon.title.user-group"
 msgstr "Three people"
-

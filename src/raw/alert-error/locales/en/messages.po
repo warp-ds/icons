@@ -17,6 +17,11 @@ msgstr ""
 #. Title for alert error icon
 #. js-lingui-explicit-id
 #: scripts/temp/alert-error.js:2
-msgid "icon.title.alert-error"
-msgstr "Red octagon with white exclamation point"
+#~ msgid "icon.title.alert-error"
+#~ msgstr "Red octagon with white exclamation point"
 
+#. undefined
+#. js-lingui-explicit-id
+#: scripts/temp/alert-error.js:2
+msgid "undefined"
+msgstr "undefined"

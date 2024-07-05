@@ -1,1 +1,1 @@
-/*eslint-disable*/export const messages=JSON.parse("{\"undefined\":\"undefined\"}");
+/*eslint-disable*/export const messages=JSON.parse("{\"icon.title.table-sort-up\":\"Pil opad\",\"undefined\":\"undefined\"}");

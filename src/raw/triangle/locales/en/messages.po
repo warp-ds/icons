@@ -17,6 +17,11 @@ msgstr ""
 #. Title for triangle icon
 #. js-lingui-explicit-id
 #: scripts/temp/triangle.js:2
-msgid "icon.title.triangle"
-msgstr "Warning triangle"
+#~ msgid "icon.title.triangle"
+#~ msgstr "Warning triangle"
 
+#. undefined
+#. js-lingui-explicit-id
+#: scripts/temp/triangle.js:2
+msgid "undefined"
+msgstr "undefined"
