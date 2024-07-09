@@ -1,3 +1,10 @@
+## [2.0.3-next.4](https://github.com/warp-ds/icons/compare/v2.0.3-next.3...v2.0.3-next.4) (2024-07-09)
+
+
+### Bug Fixes
+
+* Adjust which hex values to be replaced with 'currentColor' ([#120](https://github.com/warp-ds/icons/issues/120)) ([462765e](https://github.com/warp-ds/icons/commit/462765e67d3be707d46e986feb745ec11994aa62))
+
 ## [2.0.3-next.3](https://github.com/warp-ds/icons/compare/v2.0.3-next.2...v2.0.3-next.3) (2024-07-05)
 
 
