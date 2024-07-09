@@ -1,3 +1,10 @@
+# [2.1.0-next.1](https://github.com/warp-ds/icons/compare/v2.0.3-next.4...v2.1.0-next.1) (2024-07-09)
+
+
+### Features
+
+* Add money and text bold, italic, strikethrough and underline icons  ([#116](https://github.com/warp-ds/icons/issues/116)) ([181d6de](https://github.com/warp-ds/icons/commit/181d6de2e20a3a5b2635e66df43e5c84fab9beaa))
+
 ## [2.0.3-next.4](https://github.com/warp-ds/icons/compare/v2.0.3-next.3...v2.0.3-next.4) (2024-07-09)
 
 
