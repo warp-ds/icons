@@ -1,1 +1,0 @@
-/*eslint-disable*/export const messages=JSON.parse("{\"icon.title.mailbox\":\"Postkasse med et flag, der angiver ny e-mail\"}");

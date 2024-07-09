@@ -1,1 +1,0 @@
-/*eslint-disable*/export const messages=JSON.parse("{\"icon.title.boat-length\":\"Båd med pile som peger i begge retninger\"}");
