@@ -154,11 +154,6 @@ export default {
     id: "icon.title.boat-length",
     comment: "Title for boat length icon"
   },
-  bold: {
-    message: "Bold text",
-    id: "text-bold",
-    comment: "Title for bold text icon"
-  },
   bolt: {
     message: "Lightning bolt",
     id: "icon.title.bolt",
@@ -1209,11 +1204,6 @@ export default {
     id: "icon.title.invitation",
     comment: "Title for invitation icon"
   },
-  italic: {
-    message: "Italic text",
-    id: "text-italic",
-    comment: "Title for italic text icon"
-  },
   jewelry: {
     message: "Necklace",
     id: "icon.title.jewelry",
@@ -1510,7 +1500,7 @@ export default {
     comment: "Title for mobile icon"
   },
   money: {
-    message: "Stack of coins",
+    message: "Stack of banknotes",
     id: "icon.title.money",
     comment: "Title for money icon"
   },
@@ -2264,11 +2254,6 @@ export default {
     id: "icon.title.stove",
     comment: "Title for stove icon"
   },
-  strikethrough: {
-    message: "Strikethrough",
-    id: "text-strikethrough",
-    comment: "Title for strikethrough text icon"
-  },
   stroller: {
     message: "Stroller",
     id: "icon.title.stroller",
@@ -2374,6 +2359,26 @@ export default {
     id: "icon.title.text",
     comment: "Title for text icon"
   },
+  textbold: {
+    message: "Bold text",
+    id: "icon.title.text-bold",
+    comment: "Title for bold text icon"
+  },
+  textitalic: {
+    message: "Italic text",
+    id: "icon.title.text-italic",
+    comment: "Title for italic text icon"
+  },
+  textstrikethrough: {
+    message: "Strikethrough text",
+    id: "icon.title.text-strikethrough",
+    comment: "Title for strikethrough text icon"
+  },
+  textunderline: {
+    message: "Underline text",
+    id: "icon.title.text-underline",
+    comment: "Title for underline text icon"
+  },
   theater: {
     message: "Costume mask with a smiley face",
     id: "icon.title.theater",
@@ -2478,11 +2483,6 @@ export default {
     message: "Umbrella",
     id: "icon.title.umbrella",
     comment: "Title for umbrella icon"
-  },
-  underline: {
-    message: "Underline",
-    id: "text-underline",
-    comment: "Title for underline text icon"
   },
   undo: {
     message: "Undo arrow",
