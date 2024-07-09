@@ -1,1 +1,0 @@
-/*eslint-disable*/export const messages=JSON.parse("{\"icon.title.organize\":\"To vandrette linjer mellem to modsatte lodrette pile\"}");

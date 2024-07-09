@@ -1,1 +1,0 @@
-/*eslint-disable*/export const messages=JSON.parse("{\"icon.title.ads\":\"Ark med billede og overskrift\"}");

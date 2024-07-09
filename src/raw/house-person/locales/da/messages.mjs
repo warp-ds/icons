@@ -1,1 +1,0 @@
-/*eslint-disable*/export const messages=JSON.parse("{\"icon.title.house-person\":\"Hus med en person\"}");

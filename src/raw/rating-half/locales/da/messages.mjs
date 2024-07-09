@@ -1,1 +1,0 @@
-/*eslint-disable*/export const messages=JSON.parse("{\"icon.title.rating-half\":\"Halvfuld blå stjerne\",\"undefined\":\"undefined\"}");

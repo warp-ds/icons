@@ -1,1 +1,0 @@
-/*eslint-disable*/export const messages=JSON.parse("{\"icon.title.product-top\":\"Pil peger på et billede med tekst under\"}");

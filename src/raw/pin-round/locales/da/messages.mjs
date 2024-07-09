@@ -1,1 +1,0 @@
-/*eslint-disable*/export const messages=JSON.parse("{\"icon.title.pin-round\":\"Kortnål med skygge under\"}");

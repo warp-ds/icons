@@ -13,3 +13,4 @@ scripts/temp
 src/raw/*/locales/nb/*.mjs
 src/raw/*/locales/en/*.mjs
 src/raw/*/locales/fi/*.mjs
+src/raw/*/locales/da/*.mjs

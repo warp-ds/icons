@@ -1,1 +1,0 @@
-/*eslint-disable*/export const messages=JSON.parse("{\"icon.title.product-nabolagsprofil\":\"Hus med en fremhævet kortnål\"}");

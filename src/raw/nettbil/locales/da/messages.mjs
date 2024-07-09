@@ -1,1 +1,0 @@
-/*eslint-disable*/export const messages=JSON.parse("{\"icon.title.nettbil\":\"To cirkler med en halvcirkel ovenover\",\"undefined\":\"undefined\"}");
