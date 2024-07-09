@@ -76,6 +76,18 @@ files:
   - source: /src/raw/theater/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/theater/locales/%two_letters_code%/messages.po
+  - source: /src/raw/text-underline/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/text-underline/locales/%two_letters_code%/messages.po
+  - source: /src/raw/text-strikethrough/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/text-strikethrough/locales/%two_letters_code%/messages.po
+  - source: /src/raw/text-italic/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/text-italic/locales/%two_letters_code%/messages.po
+  - source: /src/raw/text-bold/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/text-bold/locales/%two_letters_code%/messages.po
   - source: /src/raw/task-list/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/task-list/locales/%two_letters_code%/messages.po
@@ -322,6 +334,9 @@ files:
   - source: /src/raw/motorcycle/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/motorcycle/locales/%two_letters_code%/messages.po
+  - source: /src/raw/money/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/money/locales/%two_letters_code%/messages.po
   - source: /src/raw/mixer/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/mixer/locales/%two_letters_code%/messages.po

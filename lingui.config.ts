@@ -152,6 +152,30 @@ const config: LinguiConfig = {
   },
   {
     "include": [
+      "scripts/temp/text-underline.js"
+    ],
+    "path": "src/raw/text-underline/locales/{locale}/messages"
+  },
+  {
+    "include": [
+      "scripts/temp/text-strikethrough.js"
+    ],
+    "path": "src/raw/text-strikethrough/locales/{locale}/messages"
+  },
+  {
+    "include": [
+      "scripts/temp/text-italic.js"
+    ],
+    "path": "src/raw/text-italic/locales/{locale}/messages"
+  },
+  {
+    "include": [
+      "scripts/temp/text-bold.js"
+    ],
+    "path": "src/raw/text-bold/locales/{locale}/messages"
+  },
+  {
+    "include": [
       "scripts/temp/task-list.js"
     ],
     "path": "src/raw/task-list/locales/{locale}/messages"
@@ -641,6 +665,12 @@ const config: LinguiConfig = {
       "scripts/temp/motorcycle.js"
     ],
     "path": "src/raw/motorcycle/locales/{locale}/messages"
+  },
+  {
+    "include": [
+      "scripts/temp/money.js"
+    ],
+    "path": "src/raw/money/locales/{locale}/messages"
   },
   {
     "include": [

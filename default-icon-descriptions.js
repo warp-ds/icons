@@ -1500,7 +1500,7 @@ export default {
     comment: "Title for mobile icon"
   },
   money: {
-    message: "Stack of coins",
+    message: "Stack of banknotes",
     id: "icon.title.money",
     comment: "Title for money icon"
   },
@@ -2358,6 +2358,26 @@ export default {
     message: "Text document",
     id: "icon.title.text",
     comment: "Title for text icon"
+  },
+  textbold: {
+    message: "Bold text",
+    id: "icon.title.text-bold",
+    comment: "Title for bold text icon"
+  },
+  textitalic: {
+    message: "Italic text",
+    id: "icon.title.text-italic",
+    comment: "Title for italic text icon"
+  },
+  textstrikethrough: {
+    message: "Strikethrough text",
+    id: "icon.title.text-strikethrough",
+    comment: "Title for strikethrough text icon"
+  },
+  textunderline: {
+    message: "Underline text",
+    id: "icon.title.text-underline",
+    comment: "Title for underline text icon"
   },
   theater: {
     message: "Costume mask with a smiley face",
