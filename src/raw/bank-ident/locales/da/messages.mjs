@@ -1,1 +1,0 @@
-/*eslint-disable*/export const messages=JSON.parse("{\"icon.title.bank-ident\":\"Skjold med et flueben\",\"undefined\":\"undefined\"}");

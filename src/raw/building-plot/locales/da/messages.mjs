@@ -1,1 +1,0 @@
-/*eslint-disable*/export const messages=JSON.parse("{\"icon.title.building-plot\":\"Stiplet firkant med et fremhævet hus\"}");

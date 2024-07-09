@@ -1,1 +1,0 @@
-/*eslint-disable*/export const messages=JSON.parse("{\"icon.title.geometric-shapes\":\"Rektangel, ellipse, diamant og trekant former\"}");
