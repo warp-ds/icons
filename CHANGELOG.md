@@ -1,3 +1,10 @@
+# [2.1.0-next.2](https://github.com/warp-ds/icons/compare/v2.1.0-next.1...v2.1.0-next.2) (2024-07-11)
+
+
+### Bug Fixes
+
+* Change to correct size 16 Tag icon ([#122](https://github.com/warp-ds/icons/issues/122)) ([4d9fa88](https://github.com/warp-ds/icons/commit/4d9fa88c528d3d009d1382ff3e4c281ea9f95c0a))
+
 # [2.1.0-next.1](https://github.com/warp-ds/icons/compare/v2.0.3-next.4...v2.1.0-next.1) (2024-07-09)
 
 
