@@ -18,4 +18,4 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/verification.js:2
 msgid "icon.title.verification"
-msgstr "Blue shield with checkmark"
+msgstr "Shield with checkmark"

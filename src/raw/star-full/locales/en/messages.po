@@ -18,4 +18,4 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/star-full.js:2
 msgid "icon.title.star-full"
-msgstr "Full blue star"
+msgstr "Full star"
