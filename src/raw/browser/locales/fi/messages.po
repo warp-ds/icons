@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: fi\n"
 "X-Crowdin-File-ID: 16138\n"
+"PO-Revision-Date: \n"
 
 #. Title for browser icon
 #. js-lingui-explicit-id
 #: scripts/temp/browser.js:2
 msgid "icon.title.browser"
 msgstr "Selainikkuna, jossa näkyy T-paitaa klikkaava hiiren osoitin"
-

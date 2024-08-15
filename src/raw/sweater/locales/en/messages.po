@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/sweater.js:2
 msgid "icon.title.sweater"
 msgstr "Sweater"
-

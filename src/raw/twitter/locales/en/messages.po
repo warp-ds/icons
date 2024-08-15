@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/twitter.js:2
 msgid "icon.title.twitter"
 msgstr "Twitter logo"
-

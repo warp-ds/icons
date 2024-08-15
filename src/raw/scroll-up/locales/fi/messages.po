@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: fi\n"
 "X-Crowdin-File-ID: 15860\n"
+"PO-Revision-Date: \n"
 
 #. Title for scroll up icon
 #. js-lingui-explicit-id
 #: scripts/temp/scroll-up.js:2
 msgid "icon.title.scroll-up"
 msgstr "Nuoli ylöspäin"
-

@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: nb\n"
 "X-Crowdin-File-ID: 3628\n"
+"PO-Revision-Date: \n"
 
 #. Title for fireplace icon
 #. js-lingui-explicit-id
 #: scripts/temp/fireplace.js:2
 msgid "icon.title.fireplace"
 msgstr "Peis"
-

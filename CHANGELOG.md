@@ -1,3 +1,59 @@
+# [2.1.0-next.4](https://github.com/warp-ds/icons/compare/v2.1.0-next.3...v2.1.0-next.4) (2024-08-15)
+
+
+### Features
+
+* revert some rimrafs as they removed output ([5c79ab3](https://github.com/warp-ds/icons/commit/5c79ab3c2dd3cfeca327d7c95c0c05688c8b76fc))
+
+# [2.1.0-next.3](https://github.com/warp-ds/icons/compare/v2.1.0-next.2...v2.1.0-next.3) (2024-08-15)
+
+
+### Bug Fixes
+
+* Check for process variable and removed undefined texts ([#126](https://github.com/warp-ds/icons/issues/126)) ([7e2c9ca](https://github.com/warp-ds/icons/commit/7e2c9ca323c8c0bc0cb8fc7ef06a81d6b027c5a9))
+
+# [2.1.0-next.2](https://github.com/warp-ds/icons/compare/v2.1.0-next.1...v2.1.0-next.2) (2024-07-11)
+
+
+### Bug Fixes
+
+* Change to correct size 16 Tag icon ([#122](https://github.com/warp-ds/icons/issues/122)) ([4d9fa88](https://github.com/warp-ds/icons/commit/4d9fa88c528d3d009d1382ff3e4c281ea9f95c0a))
+
+# [2.1.0-next.1](https://github.com/warp-ds/icons/compare/v2.0.3-next.4...v2.1.0-next.1) (2024-07-09)
+
+
+### Features
+
+* Add money and text bold, italic, strikethrough and underline icons  ([#116](https://github.com/warp-ds/icons/issues/116)) ([181d6de](https://github.com/warp-ds/icons/commit/181d6de2e20a3a5b2635e66df43e5c84fab9beaa))
+
+## [2.0.3-next.4](https://github.com/warp-ds/icons/compare/v2.0.3-next.3...v2.0.3-next.4) (2024-07-09)
+
+
+### Bug Fixes
+
+* Adjust which hex values to be replaced with 'currentColor' ([#120](https://github.com/warp-ds/icons/issues/120)) ([462765e](https://github.com/warp-ds/icons/commit/462765e67d3be707d46e986feb745ec11994aa62))
+
+## [2.0.3-next.3](https://github.com/warp-ds/icons/compare/v2.0.3-next.2...v2.0.3-next.3) (2024-07-05)
+
+
+### Bug Fixes
+
+* Add translations that were gone from crowdin ([#114](https://github.com/warp-ds/icons/issues/114)) ([9c01b01](https://github.com/warp-ds/icons/commit/9c01b01e819806d855cbd3a657b30625200291fb))
+
+## [2.0.3-next.2](https://github.com/warp-ds/icons/compare/v2.0.3-next.1...v2.0.3-next.2) (2024-07-05)
+
+
+### Bug Fixes
+
+* bump pnpm version 8 to 9 ([82354bf](https://github.com/warp-ds/icons/commit/82354bf4d5c4cd658093c1842015384854662450))
+
+## [2.0.3-next.1](https://github.com/warp-ds/icons/compare/v2.0.2...v2.0.3-next.1) (2024-07-04)
+
+
+### Bug Fixes
+
+* support danish locale ([#112](https://github.com/warp-ds/icons/issues/112)) ([9fca432](https://github.com/warp-ds/icons/commit/9fca4324e4bc6109e195c5865ef9541f33555e41))
+
 ## [2.0.2](https://github.com/warp-ds/icons/compare/v2.0.1...v2.0.2) (2024-06-05)
 
 

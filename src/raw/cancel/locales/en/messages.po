@@ -19,4 +19,3 @@ msgstr ""
 #: scripts/temp/cancel.js:2
 msgid "icon.title.cancel"
 msgstr "Circle with a diagonal line"
-
