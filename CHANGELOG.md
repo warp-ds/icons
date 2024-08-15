@@ -1,3 +1,10 @@
+# [2.1.0-next.3](https://github.com/warp-ds/icons/compare/v2.1.0-next.2...v2.1.0-next.3) (2024-08-15)
+
+
+### Bug Fixes
+
+* Check for process variable and removed undefined texts ([#126](https://github.com/warp-ds/icons/issues/126)) ([7e2c9ca](https://github.com/warp-ds/icons/commit/7e2c9ca323c8c0bc0cb8fc7ef06a81d6b027c5a9))
+
 # [2.1.0-next.2](https://github.com/warp-ds/icons/compare/v2.1.0-next.1...v2.1.0-next.2) (2024-07-11)
 
 
