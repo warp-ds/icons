@@ -7,7 +7,7 @@ export const defaultLocale = 'en';
 
 const detectByBrand = () => {
 	let value;
-  switch (process.env.NMP_BRAND) {
+  switch (process?.env?.NMP_BRAND) {
 		case 'FINN':
 			value = 'nb';
 			break;
@@ -28,7 +28,7 @@ const detectByBrand = () => {
 
 const detectByHost = () => {
   const hostname = document?.location?.hostname;
-  if (hostname.includes('finn')) {
+  if (hostname?.includes('finn')) {
     return 'nb';
   } else if (hostname.includes('tori')) {
     return 'fi';
