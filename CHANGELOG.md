@@ -1,3 +1,10 @@
+# [2.1.0-next.4](https://github.com/warp-ds/icons/compare/v2.1.0-next.3...v2.1.0-next.4) (2024-08-15)
+
+
+### Features
+
+* revert some rimrafs as they removed output ([5c79ab3](https://github.com/warp-ds/icons/commit/5c79ab3c2dd3cfeca327d7c95c0c05688c8b76fc))
+
 # [2.1.0-next.3](https://github.com/warp-ds/icons/compare/v2.1.0-next.2...v2.1.0-next.3) (2024-08-15)
 
 
