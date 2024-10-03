@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: nb\n"
 "X-Crowdin-File-ID: 3376\n"
-"PO-Revision-Date: \n"
 
 #. Title for message icon
 #. js-lingui-explicit-id
 #: scripts/temp/message.js:2
 msgid "icon.title.message"
 msgstr "Chatte bobler"
+

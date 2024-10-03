@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: fi\n"
 "X-Crowdin-File-ID: 13208\n"
-"PO-Revision-Date: \n"
 
 #. Title for GuitarBat icon
 #. js-lingui-explicit-id
 #: scripts/temp/guitar-bat.js:2
 msgid "icon.title.guitarbat"
 msgstr "Kitara ja pesäpallomaila"
+
