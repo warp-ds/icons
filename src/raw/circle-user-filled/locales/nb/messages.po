@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: nb\n"
 "X-Crowdin-File-ID: 14178\n"
-"PO-Revision-Date: \n"
 
 #. Title for circle user filled icon
 #. js-lingui-explicit-id
 #: scripts/temp/circle-user-filled.js:2
 msgid "icon.title.circle-user-filled"
 msgstr "Sirkel med en person i"
+

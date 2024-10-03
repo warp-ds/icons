@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: nb\n"
 "X-Crowdin-File-ID: 3394\n"
-"PO-Revision-Date: \n"
 
 #. Title for map icon
 #. js-lingui-explicit-id
 #: scripts/temp/map.js:2
 msgid "icon.title.map"
 msgstr "Kart"
+
