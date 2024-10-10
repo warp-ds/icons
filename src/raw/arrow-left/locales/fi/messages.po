@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: fi\n"
 "X-Crowdin-File-ID: 15900\n"
-"PO-Revision-Date: \n"
 
 #. Title for table arrow left icon
 #. js-lingui-explicit-id
 #: scripts/temp/arrow-left.js:2
 msgid "icon.title.arrow-left"
 msgstr "Vasemmalle osoittava nuoli"
+

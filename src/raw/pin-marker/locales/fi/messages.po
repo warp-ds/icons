@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: fi\n"
 "X-Crowdin-File-ID: 3280\n"
-"PO-Revision-Date: \n"
 
 #. Title for pin marker icon
 #. js-lingui-explicit-id
 #: scripts/temp/pin-marker.js:2
 msgid "icon.title.pin-marker"
 msgstr "Kartan osoitin"
+

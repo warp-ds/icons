@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: da\n"
 "X-Crowdin-File-ID: 2860\n"
-"PO-Revision-Date: \n"
 
 #. Title for up icon
 #. js-lingui-explicit-id
 #: scripts/temp/up.js:2
 msgid "icon.title.up"
 msgstr "Firkant med pil der peger op"
+

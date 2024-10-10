@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: da\n"
 "X-Crowdin-File-ID: 3712\n"
-"PO-Revision-Date: \n"
 
 #. Title for edit icon
 #. js-lingui-explicit-id
 #: scripts/temp/edit.js:2
 msgid "icon.title.edit"
 msgstr "Blyant"
+

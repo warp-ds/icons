@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: da\n"
 "X-Crowdin-File-ID: 3550\n"
-"PO-Revision-Date: \n"
 
 #. Title for history icon
 #. js-lingui-explicit-id
 #: scripts/temp/history.js:2
 msgid "icon.title.history"
 msgstr "Ur hvor viseren går mod uret"
+

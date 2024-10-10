@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: nb\n"
 "X-Crowdin-File-ID: 15990\n"
-"PO-Revision-Date: \n"
 
 #. Title for success icon
 #. js-lingui-explicit-id
 #: scripts/temp/success.js:2
 msgid "icon.title.success"
 msgstr "Sirkel med sjekkmerke"
+

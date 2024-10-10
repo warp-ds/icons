@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: fi\n"
 "X-Crowdin-File-ID: 3274\n"
-"PO-Revision-Date: \n"
 
 #. Title for pin round icon
 #. js-lingui-explicit-id
 #: scripts/temp/pin-round.js:2
 msgid "icon.title.pin-round"
 msgstr "Kartan osoitin, jonka alla on varjo"
+
