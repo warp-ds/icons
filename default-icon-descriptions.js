@@ -24,6 +24,11 @@ export default {
     id: "icon.title.airplane-hotel",
     comment: "Title for airplane hotel icon"
   },
+  aistars: {
+    message: "Sparkling stars",
+    id: "icon.title.ai-stars",
+    comment: "Title for AI stars icon"
+  },
   alert: {
     message: "Circle with exclamation point",
     id: "icon.title.alert",
