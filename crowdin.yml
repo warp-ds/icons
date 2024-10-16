@@ -139,6 +139,9 @@ files:
   - source: /src/raw/speedometer/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/speedometer/locales/%two_letters_code%/messages.po
+  - source: /src/raw/sparkles/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/sparkles/locales/%two_letters_code%/messages.po
   - source: /src/raw/spa/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/spa/locales/%two_letters_code%/messages.po
@@ -835,9 +838,6 @@ files:
   - source: /src/raw/air-con/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/air-con/locales/%two_letters_code%/messages.po
-  - source: /src/raw/ai-stars/locales/en/messages.po
-    dest: /icons/**/%original_file_name%
-    translation: /src/raw/ai-stars/locales/%two_letters_code%/messages.po
   - source: /src/raw/ads/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/ads/locales/%two_letters_code%/messages.po

@@ -278,6 +278,12 @@ const config: LinguiConfig = {
   },
   {
     "include": [
+      "scripts/temp/sparkles.js"
+    ],
+    "path": "src/raw/sparkles/locales/{locale}/messages"
+  },
+  {
+    "include": [
       "scripts/temp/spa.js"
     ],
     "path": "src/raw/spa/locales/{locale}/messages"
@@ -1667,12 +1673,6 @@ const config: LinguiConfig = {
       "scripts/temp/air-con.js"
     ],
     "path": "src/raw/air-con/locales/{locale}/messages"
-  },
-  {
-    "include": [
-      "scripts/temp/ai-stars.js"
-    ],
-    "path": "src/raw/ai-stars/locales/{locale}/messages"
   },
   {
     "include": [

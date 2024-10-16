@@ -13,8 +13,8 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
-#. Title for AI stars icon
+#. Title for sparkles icon
 #. js-lingui-explicit-id
-#: scripts/temp/ai-stars.js:2
-msgid "icon.title.ai-stars"
-msgstr "Glitrende stjerner"
+#: scripts/temp/sparkles.js:2
+msgid "icon.title.sparkles"
+msgstr "Funkler"
