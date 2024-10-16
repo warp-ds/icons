@@ -139,6 +139,9 @@ files:
   - source: /src/raw/speedometer/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/speedometer/locales/%two_letters_code%/messages.po
+  - source: /src/raw/sparkles/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/sparkles/locales/%two_letters_code%/messages.po
   - source: /src/raw/spa/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/spa/locales/%two_letters_code%/messages.po
@@ -505,6 +508,9 @@ files:
   - source: /src/raw/front-wheel-drive/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/front-wheel-drive/locales/%two_letters_code%/messages.po
+  - source: /src/raw/football/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/football/locales/%two_letters_code%/messages.po
   - source: /src/raw/fitness/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/fitness/locales/%two_letters_code%/messages.po

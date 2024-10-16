@@ -24,6 +24,11 @@ export default {
     id: "icon.title.airplane-hotel",
     comment: "Title for airplane hotel icon"
   },
+  sparkles: {
+    message: "Sparkles",
+    id: "icon.title.sparkles",
+    comment: "Title for sparkles icon"
+  },
   alert: {
     message: "Circle with exclamation point",
     id: "icon.title.alert",

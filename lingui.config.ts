@@ -278,6 +278,12 @@ const config: LinguiConfig = {
   },
   {
     "include": [
+      "scripts/temp/sparkles.js"
+    ],
+    "path": "src/raw/sparkles/locales/{locale}/messages"
+  },
+  {
+    "include": [
       "scripts/temp/spa.js"
     ],
     "path": "src/raw/spa/locales/{locale}/messages"
@@ -1007,6 +1013,12 @@ const config: LinguiConfig = {
       "scripts/temp/front-wheel-drive.js"
     ],
     "path": "src/raw/front-wheel-drive/locales/{locale}/messages"
+  },
+  {
+    "include": [
+      "scripts/temp/football.js"
+    ],
+    "path": "src/raw/football/locales/{locale}/messages"
   },
   {
     "include": [
