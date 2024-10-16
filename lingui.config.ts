@@ -122,6 +122,24 @@ const config: LinguiConfig = {
   },
   {
     "include": [
+      "scripts/temp/trend-up.js"
+    ],
+    "path": "src/raw/trend-up/locales/{locale}/messages"
+  },
+  {
+    "include": [
+      "scripts/temp/trend-flat.js"
+    ],
+    "path": "src/raw/trend-flat/locales/{locale}/messages"
+  },
+  {
+    "include": [
+      "scripts/temp/trend-down.js"
+    ],
+    "path": "src/raw/trend-down/locales/{locale}/messages"
+  },
+  {
+    "include": [
       "scripts/temp/tractor.js"
     ],
     "path": "src/raw/tractor/locales/{locale}/messages"
