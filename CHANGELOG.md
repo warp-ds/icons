@@ -1,3 +1,10 @@
+# [2.2.0-next.1](https://github.com/warp-ds/icons/compare/v2.1.0...v2.2.0-next.1) (2024-10-16)
+
+
+### Features
+
+* add Sparkles and Football icon ([#130](https://github.com/warp-ds/icons/issues/130)) ([52a5f08](https://github.com/warp-ds/icons/commit/52a5f08c89af5eec13817fa67f04cd5173d2403b))
+
 # [2.1.0](https://github.com/warp-ds/icons/compare/v2.0.2...v2.1.0) (2024-08-15)
 
 
