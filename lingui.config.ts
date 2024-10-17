@@ -122,6 +122,24 @@ const config: LinguiConfig = {
   },
   {
     "include": [
+      "scripts/temp/trend-up.js"
+    ],
+    "path": "src/raw/trend-up/locales/{locale}/messages"
+  },
+  {
+    "include": [
+      "scripts/temp/trend-flat.js"
+    ],
+    "path": "src/raw/trend-flat/locales/{locale}/messages"
+  },
+  {
+    "include": [
+      "scripts/temp/trend-down.js"
+    ],
+    "path": "src/raw/trend-down/locales/{locale}/messages"
+  },
+  {
+    "include": [
       "scripts/temp/tractor.js"
     ],
     "path": "src/raw/tractor/locales/{locale}/messages"
@@ -275,6 +293,12 @@ const config: LinguiConfig = {
       "scripts/temp/speedometer.js"
     ],
     "path": "src/raw/speedometer/locales/{locale}/messages"
+  },
+  {
+    "include": [
+      "scripts/temp/sparkles.js"
+    ],
+    "path": "src/raw/sparkles/locales/{locale}/messages"
   },
   {
     "include": [
@@ -1007,6 +1031,12 @@ const config: LinguiConfig = {
       "scripts/temp/front-wheel-drive.js"
     ],
     "path": "src/raw/front-wheel-drive/locales/{locale}/messages"
+  },
+  {
+    "include": [
+      "scripts/temp/football.js"
+    ],
+    "path": "src/raw/football/locales/{locale}/messages"
   },
   {
     "include": [

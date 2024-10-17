@@ -24,6 +24,11 @@ export default {
     id: "icon.title.airplane-hotel",
     comment: "Title for airplane hotel icon"
   },
+  sparkles: {
+    message: "Sparkles",
+    id: "icon.title.sparkles",
+    comment: "Title for sparkles icon"
+  },
   alert: {
     message: "Circle with exclamation point",
     id: "icon.title.alert",
@@ -2458,6 +2463,21 @@ export default {
     message: "Travel suitcase",
     id: "icon.title.travel",
     comment: "Title for travel icon"
+  },
+  trenddown: {
+    message: "Wavy arrow pointing down right",
+    id: "icon.title.trend-down",
+    comment: "Title for trend down icon"
+  },
+  trendflat: {
+    message: "Wavy arrow pointing right",
+    id: "icon.title.trend-flat",
+    comment: "Title for trend flat icon"
+  },
+  trendup: {
+    message: "Wavy arrow pointing up right",
+    id: "icon.title.trend-up",
+    comment: "Title for trend up icon"
   },
   trophy: {
     message: "Trophy",

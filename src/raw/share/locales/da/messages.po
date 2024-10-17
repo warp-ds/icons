@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: da\n"
 "X-Crowdin-File-ID: 3094\n"
-"PO-Revision-Date: \n"
 
 #. Title for share icon
 #. js-lingui-explicit-id
 #: scripts/temp/share.js:2
 msgid "icon.title.share"
 msgstr "Dele-ikon"
+

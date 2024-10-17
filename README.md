@@ -1,7 +1,7 @@
 # WARP icons
-The icon set for WARP, imported from (Figma project)[!https://www.figma.com/file/yEx16ew6S0Xgd579dN4hsM/Warp---Icons?type=design&node-id=150-113&mode=design&t=TRtIuPlsDoYlbuqd-0].
+The icon set for WARP, imported from (Figma project)[https://www.figma.com/file/yEx16ew6S0Xgd579dN4hsM/Warp---Icons?type=design&node-id=150-113&mode=design&t=TRtIuPlsDoYlbuqd-0].
 
-**Note that the icons in the "src/raw" folder in this repository should never be used directly, as they aren't optimized. Also note that Raw icons don't contain title element and hence won't be follow accessibility guidelines**
+**Note that the icons in the "src/raw" folder in this repository should never be used directly, as they aren't optimized. Also note that Raw icons don't contain title element and hence won't follow accessibility guidelines**
 
 ## How to use
 
@@ -76,29 +76,34 @@ import "@warp-ds/icons/elements/alert-16";
 
 ## Development
 
-### Updating the icons
-Icons should never be added or edited manually in this repository, as the source of truth is in [Figma](https://www.figma.com/file/yEx16ew6S0Xgd579dN4hsM/Warp---Icons?type=design&node-id=150-113&mode=design&t=TRtIuPlsDoYlbuqd-0).
+### Install dependencies
 
-#### Figma access token
-If you are running the import script for the first time, it will prompt your for a Figma access token. The token is is required to access Figma's API. It can be generated on your Figma account settings page.
-
-The import script may store the token to a local file, so you won't have to supply the token again on subsequent runs.
-
-### Import script
-To update the icons, run the following script. If it has a valid Figma access token ([see previous section](#figma-access-token)), it will proceed to download all the icons as SVG files.
+Run the following command to install dependencies:
 
 ```bash
-./scripts/import.js
+pnpm install
 ```
 
-or 
+### Adding new icons
 
+When adding icons to @warp-ds/icons follow these steps:
+
+1. Add all the icon files to the correct folder in [src/raw/](https://github.com/warp-ds/icons/tree/next/src/raw) directory. Follow this pattern: `src/raw/{icon-name}/icon_{size}.svg`
+2. Add description for the new icons to [default-icon-descriptions.js](https://github.com/warp-ds/icons/blob/next/default-icon-descriptions.js) and run `pnpm i18n:get-sorted-locales` to sort the translations alphabetically. Follow this pattern:
+```js
+arrowleft: {
+  message: "Leftward-pointing arrow", // We only describe what the icon looks like - not what is its potential purpose.
+  id: "icon.title.arrow-left", // the last part reflects the name of the folder
+  comment: "Title for arrow left icon" // This comment will serve as help for the internationalisation team to provide correct translation of the icon description
+},
+```
+3. Generate locales files and build the icons:
 ```bash
-pnpm import
+pnpm build
 ```
 
 ### Local preview
-You can open a local preview of the icons. Use this to verify that the icons looks as they should. Run the following command.
+You can open a local preview of the icons. Use this to verify that the icons look as they should. Run the following command:
 
 ```bash
 pnpm dev

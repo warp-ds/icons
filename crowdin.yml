@@ -61,6 +61,15 @@ files:
   - source: /src/raw/tv/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/tv/locales/%two_letters_code%/messages.po
+  - source: /src/raw/trend-up/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/trend-up/locales/%two_letters_code%/messages.po
+  - source: /src/raw/trend-flat/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/trend-flat/locales/%two_letters_code%/messages.po
+  - source: /src/raw/trend-down/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/trend-down/locales/%two_letters_code%/messages.po
   - source: /src/raw/tractor/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/tractor/locales/%two_letters_code%/messages.po
@@ -139,6 +148,9 @@ files:
   - source: /src/raw/speedometer/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/speedometer/locales/%two_letters_code%/messages.po
+  - source: /src/raw/sparkles/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/sparkles/locales/%two_letters_code%/messages.po
   - source: /src/raw/spa/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/spa/locales/%two_letters_code%/messages.po
@@ -505,6 +517,9 @@ files:
   - source: /src/raw/front-wheel-drive/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/front-wheel-drive/locales/%two_letters_code%/messages.po
+  - source: /src/raw/football/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/football/locales/%two_letters_code%/messages.po
   - source: /src/raw/fitness/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/fitness/locales/%two_letters_code%/messages.po
