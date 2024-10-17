@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: fi\n"
 "X-Crowdin-File-ID: 4090\n"
-"PO-Revision-Date: \n"
 
 #. Title for bank icon
 #. js-lingui-explicit-id
 #: scripts/temp/bank.js:2
 msgid "icon.title.bank"
 msgstr "Pankki, jossa on kolme pylvästä"
+
