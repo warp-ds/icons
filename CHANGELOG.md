@@ -1,3 +1,10 @@
+# [2.2.0-next.2](https://github.com/warp-ds/icons/compare/v2.2.0-next.1...v2.2.0-next.2) (2024-10-17)
+
+
+### Features
+
+* add trend-down/flat/up icons ([#131](https://github.com/warp-ds/icons/issues/131)) ([4350df9](https://github.com/warp-ds/icons/commit/4350df92cbeaaa60125cdc266edd32f4c7bf55c4))
+
 # [2.2.0-next.1](https://github.com/warp-ds/icons/compare/v2.1.0...v2.2.0-next.1) (2024-10-16)
 
 
