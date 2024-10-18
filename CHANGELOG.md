@@ -1,3 +1,10 @@
+## [2.2.1-next.1](https://github.com/warp-ds/icons/compare/v2.2.0...v2.2.1-next.1) (2024-10-18)
+
+
+### Bug Fixes
+
+* translations for sparkles, trend-down/up/flat ([#135](https://github.com/warp-ds/icons/issues/135)) ([b8b726a](https://github.com/warp-ds/icons/commit/b8b726af67f67a5ecf70a380eaff40127fa1b751))
+
 # [2.2.0](https://github.com/warp-ds/icons/compare/v2.1.0...v2.2.0) (2024-10-17)
 
 
