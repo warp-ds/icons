@@ -586,6 +586,9 @@ files:
   - source: /src/raw/double-bed/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/double-bed/locales/%two_letters_code%/messages.po
+  - source: /src/raw/dots-vertical/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/dots-vertical/locales/%two_letters_code%/messages.po
   - source: /src/raw/dots/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/dots/locales/%two_letters_code%/messages.po

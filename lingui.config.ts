@@ -1172,6 +1172,12 @@ const config: LinguiConfig = {
   },
   {
     "include": [
+      "scripts/temp/dots-vertical.js"
+    ],
+    "path": "src/raw/dots-vertical/locales/{locale}/messages"
+  },
+  {
+    "include": [
       "scripts/temp/dots.js"
     ],
     "path": "src/raw/dots/locales/{locale}/messages"
