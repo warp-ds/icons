@@ -1,3 +1,10 @@
+# [2.3.0-next.1](https://github.com/warp-ds/icons/compare/v2.2.1...v2.3.0-next.1) (2024-10-30)
+
+
+### Features
+
+* add dots-vertical icon and update sparkles ([#137](https://github.com/warp-ds/icons/issues/137)) ([f7466df](https://github.com/warp-ds/icons/commit/f7466dfa3f23dc969b828a18a9e9125f52ba83f9))
+
 ## [2.2.1](https://github.com/warp-ds/icons/compare/v2.2.0...v2.2.1) (2024-10-18)
 
 
