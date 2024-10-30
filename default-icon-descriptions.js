@@ -24,11 +24,6 @@ export default {
     id: "icon.title.airplane-hotel",
     comment: "Title for airplane hotel icon"
   },
-  sparkles: {
-    message: "Sparkles",
-    id: "icon.title.sparkles",
-    comment: "Title for sparkles icon"
-  },
   alert: {
     message: "Circle with exclamation point",
     id: "icon.title.alert",
@@ -678,6 +673,11 @@ export default {
     message: "Three dots",
     id: "icon.title.dots",
     comment: "Title for dots icon"
+  },
+  dotsvertical: {
+    message: "Three vertical dots",
+    id: "icon.title.dots-vertical",
+    comment: "Title for dots vertical icon"
   },
   doublebed: {
     message: "Double bed",
@@ -2183,6 +2183,11 @@ export default {
     message: "Water lily",
     id: "icon.title.spa",
     comment: "Title for spa icon"
+  },
+  sparkles: {
+    message: "Sparkles",
+    id: "icon.title.sparkles",
+    comment: "Title for sparkles icon"
   },
   speaker: {
     message: "Speaker",
