@@ -805,6 +805,9 @@ files:
   - source: /src/raw/baby-onesie/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/baby-onesie/locales/%two_letters_code%/messages.po
+  - source: /src/raw/award-medal/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/award-medal/locales/%two_letters_code%/messages.po
   - source: /src/raw/autovex-light/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/autovex-light/locales/%two_letters_code%/messages.po

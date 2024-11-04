@@ -84,6 +84,11 @@ export default {
     id: "icon.title.autovexlight",
     comment: "Title for AutovexLight icon"
   },
+  awardmedal: {
+    message: "Award medal",
+    id: "icon.title.award-medal",
+    comment: "Title for award medal icon"
+  },
   babyonesie: {
     message: "Baby onesie",
     id: "icon.title.baby-onesie",
