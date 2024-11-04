@@ -1,3 +1,10 @@
+# [2.3.0-next.2](https://github.com/warp-ds/icons/compare/v2.3.0-next.1...v2.3.0-next.2) (2024-11-04)
+
+
+### Features
+
+* add award medal icon ([#140](https://github.com/warp-ds/icons/issues/140)) ([c8f3fe0](https://github.com/warp-ds/icons/commit/c8f3fe021c978177aaebd42639a9ed817fcac70f))
+
 # [2.3.0-next.1](https://github.com/warp-ds/icons/compare/v2.2.1...v2.3.0-next.1) (2024-10-30)
 
 
