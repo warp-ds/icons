@@ -1610,6 +1610,12 @@ const config: LinguiConfig = {
   },
   {
     "include": [
+      "scripts/temp/award-medal.js"
+    ],
+    "path": "src/raw/award-medal/locales/{locale}/messages"
+  },
+  {
+    "include": [
       "scripts/temp/autovex-light.js"
     ],
     "path": "src/raw/autovex-light/locales/{locale}/messages"
