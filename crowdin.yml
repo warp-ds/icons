@@ -16,6 +16,9 @@ files:
   - source: /src/raw/wheelchair/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/wheelchair/locales/%two_letters_code%/messages.po
+  - source: /src/raw/water-pitcher/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/water-pitcher/locales/%two_letters_code%/messages.po
   - source: /src/raw/warranty/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/warranty/locales/%two_letters_code%/messages.po
