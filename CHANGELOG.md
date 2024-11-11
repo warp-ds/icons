@@ -1,3 +1,10 @@
+# [2.3.0-next.3](https://github.com/warp-ds/icons/compare/v2.3.0-next.2...v2.3.0-next.3) (2024-11-11)
+
+
+### Features
+
+* add water-pitcher icon ([#142](https://github.com/warp-ds/icons/issues/142)) ([57d583a](https://github.com/warp-ds/icons/commit/57d583a9e65db2c9d977a8e4aee26adae769af46))
+
 # [2.3.0-next.2](https://github.com/warp-ds/icons/compare/v2.3.0-next.1...v2.3.0-next.2) (2024-11-04)
 
 
