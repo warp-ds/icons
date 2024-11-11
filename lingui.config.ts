@@ -32,6 +32,12 @@ const config: LinguiConfig = {
   },
   {
     "include": [
+      "scripts/temp/water-pitcher.js"
+    ],
+    "path": "src/raw/water-pitcher/locales/{locale}/messages"
+  },
+  {
+    "include": [
       "scripts/temp/warranty.js"
     ],
     "path": "src/raw/warranty/locales/{locale}/messages"

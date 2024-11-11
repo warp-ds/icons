@@ -1,0 +1,14 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2024-11-08 15:26+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: nb\n"
+
+#. Title for water pitcher icon
+#. js-lingui-explicit-id
+#: scripts/temp/water-pitcher.js:2
+msgid "icon.title.water-pitcher"
+msgstr ""

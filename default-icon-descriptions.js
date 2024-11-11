@@ -2664,6 +2664,11 @@ export default {
     id: "icon.title.web",
     comment: "Title for web icon"
   },
+  waterpitcher: {
+    message: "Water pitcher",
+    id: "icon.title.water-pitcher",
+    comment: "Title for water pitcher icon"
+  },
   wheelchair: {
     message: "Wheelchair",
     id: "icon.title.wheelchair",
