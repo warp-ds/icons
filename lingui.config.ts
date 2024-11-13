@@ -32,6 +32,12 @@ const config: LinguiConfig = {
   },
   {
     "include": [
+      "scripts/temp/water-pitcher.js"
+    ],
+    "path": "src/raw/water-pitcher/locales/{locale}/messages"
+  },
+  {
+    "include": [
       "scripts/temp/warranty.js"
     ],
     "path": "src/raw/warranty/locales/{locale}/messages"
@@ -1172,6 +1178,12 @@ const config: LinguiConfig = {
   },
   {
     "include": [
+      "scripts/temp/dots-vertical.js"
+    ],
+    "path": "src/raw/dots-vertical/locales/{locale}/messages"
+  },
+  {
+    "include": [
       "scripts/temp/dots.js"
     ],
     "path": "src/raw/dots/locales/{locale}/messages"
@@ -1601,6 +1613,12 @@ const config: LinguiConfig = {
       "scripts/temp/baby-onesie.js"
     ],
     "path": "src/raw/baby-onesie/locales/{locale}/messages"
+  },
+  {
+    "include": [
+      "scripts/temp/award-medal.js"
+    ],
+    "path": "src/raw/award-medal/locales/{locale}/messages"
   },
   {
     "include": [

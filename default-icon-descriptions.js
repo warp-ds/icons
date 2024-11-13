@@ -24,11 +24,6 @@ export default {
     id: "icon.title.airplane-hotel",
     comment: "Title for airplane hotel icon"
   },
-  sparkles: {
-    message: "Sparkles",
-    id: "icon.title.sparkles",
-    comment: "Title for sparkles icon"
-  },
   alert: {
     message: "Circle with exclamation point",
     id: "icon.title.alert",
@@ -88,6 +83,11 @@ export default {
     message: "AutovexLight logo",
     id: "icon.title.autovexlight",
     comment: "Title for AutovexLight icon"
+  },
+  awardmedal: {
+    message: "Award medal",
+    id: "icon.title.award-medal",
+    comment: "Title for award medal icon"
   },
   babyonesie: {
     message: "Baby onesie",
@@ -678,6 +678,11 @@ export default {
     message: "Three dots",
     id: "icon.title.dots",
     comment: "Title for dots icon"
+  },
+  dotsvertical: {
+    message: "Three vertical dots",
+    id: "icon.title.dots-vertical",
+    comment: "Title for dots vertical icon"
   },
   doublebed: {
     message: "Double bed",
@@ -2184,6 +2189,11 @@ export default {
     id: "icon.title.spa",
     comment: "Title for spa icon"
   },
+  sparkles: {
+    message: "Sparkles",
+    id: "icon.title.sparkles",
+    comment: "Title for sparkles icon"
+  },
   speaker: {
     message: "Speaker",
     id: "icon.title.speaker",
@@ -2653,6 +2663,11 @@ export default {
     message: "Global network",
     id: "icon.title.web",
     comment: "Title for web icon"
+  },
+  waterpitcher: {
+    message: "Water pitcher",
+    id: "icon.title.water-pitcher",
+    comment: "Title for water pitcher icon"
   },
   wheelchair: {
     message: "Wheelchair",

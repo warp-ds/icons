@@ -1,3 +1,24 @@
+# [2.3.0-next.3](https://github.com/warp-ds/icons/compare/v2.3.0-next.2...v2.3.0-next.3) (2024-11-11)
+
+
+### Features
+
+* add water-pitcher icon ([#142](https://github.com/warp-ds/icons/issues/142)) ([57d583a](https://github.com/warp-ds/icons/commit/57d583a9e65db2c9d977a8e4aee26adae769af46))
+
+# [2.3.0-next.2](https://github.com/warp-ds/icons/compare/v2.3.0-next.1...v2.3.0-next.2) (2024-11-04)
+
+
+### Features
+
+* add award medal icon ([#140](https://github.com/warp-ds/icons/issues/140)) ([c8f3fe0](https://github.com/warp-ds/icons/commit/c8f3fe021c978177aaebd42639a9ed817fcac70f))
+
+# [2.3.0-next.1](https://github.com/warp-ds/icons/compare/v2.2.1...v2.3.0-next.1) (2024-10-30)
+
+
+### Features
+
+* add dots-vertical icon and update sparkles ([#137](https://github.com/warp-ds/icons/issues/137)) ([f7466df](https://github.com/warp-ds/icons/commit/f7466dfa3f23dc969b828a18a9e9125f52ba83f9))
+
 ## [2.2.1](https://github.com/warp-ds/icons/compare/v2.2.0...v2.2.1) (2024-10-18)
 
 
