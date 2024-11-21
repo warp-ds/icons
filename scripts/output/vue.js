@@ -23,9 +23,10 @@ getSVGs().forEach(({ svg, filename, exportName, name }) => {
     `import { messages as enMessages} from '../src/raw/${name}/locales/en/messages.mjs';`,
     `import { messages as fiMessages} from '../src/raw/${name}/locales/fi/messages.mjs';`,
     `import { messages as daMessages} from '../src/raw/${name}/locales/da/messages.mjs';`,
+    `import { messages as svMessages} from '../src/raw/${name}/locales/sv/messages.mjs';`,
     `import { activateI18n } from '../src/utils/i18n';`,
     `import { h } from 'vue'`,
-    `activateI18n(enMessages, nbMessages, fiMessages, daMessages);`,
+    `activateI18n(enMessages, nbMessages, fiMessages, daMessages, svMessages);`,
     `const title = i18n.t({ message: \`${message}\`, id: '${id}', comment: '${comment}' });`,
     `export default (_, { attrs }) => h('svg', { ${attrs.join(', ')}, innerHTML: ${'`'}${titleHtml}${svg.html}${'`'}, ...attrs })`
   ].join('\n')
