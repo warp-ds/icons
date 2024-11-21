@@ -82,11 +82,13 @@ export const getMessages = (
   enMsg: Messages,
   nbMsg: Messages,
   fiMsg: Messages,
-  daMsg: Messages
+  daMsg: Messages,
+  svMsg: Messages
 ) => {
   if (locale === 'nb') return nbMsg;
   if (locale === 'fi') return fiMsg;
   if (locale === 'da') return daMsg;
+  if (locale === 'sv') return svMsg;
   // Default to English
   return enMsg;
 };
@@ -95,10 +97,11 @@ export const activateI18n = (
   enMessages: Messages,
   nbMessages: Messages,
   fiMessages: Messages,
-  daMessages: Messages
+  daMessages: Messages,
+  svMessages: Messages
 ) => {
   const locale = detectLocale();
-  const messages = getMessages(locale, enMessages, nbMessages, fiMessages, daMessages);
+  const messages = getMessages(locale, enMessages, nbMessages, fiMessages, daMessages, svMessages);
   i18n.load(locale, messages);
   i18n.activate(locale);
 };
