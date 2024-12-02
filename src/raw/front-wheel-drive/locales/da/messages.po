@@ -20,5 +20,5 @@ msgstr ""
 #. js-lingui-explicit-id
 #: scripts/temp/front-wheel-drive.js:2
 msgid "icon.title.front-wheel-drive"
-msgstr "Fronthjulstræk"
+msgstr "Forhjulstræk"
 
