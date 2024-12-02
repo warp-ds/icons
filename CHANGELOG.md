@@ -1,3 +1,10 @@
+# [2.4.0](https://github.com/warp-ds/icons/compare/v2.3.0...v2.4.0) (2024-12-02)
+
+
+### Features
+
+* **lingui:** add support for Swedish ('sv') translations ([#145](https://github.com/warp-ds/icons/issues/145)) ([b1ea04f](https://github.com/warp-ds/icons/commit/b1ea04f3947b8a79d2c002e39cb9f43c73d93ac4))
+
 # [2.4.0-next.1](https://github.com/warp-ds/icons/compare/v2.3.0...v2.4.0-next.1) (2024-11-21)
 
 
