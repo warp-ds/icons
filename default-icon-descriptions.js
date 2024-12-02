@@ -900,7 +900,7 @@ export default {
     comment: "Title for fishing icon"
   },
   fitness: {
-    message: "Running shoe",
+    message: "Dumbbell",
     id: "icon.title.fitness",
     comment: "Title for fitness icon"
   },
@@ -2230,17 +2230,17 @@ export default {
     comment: "Title for star-check icon"
   },
   starempty: {
-    message: "Empty blue star",
+    message: "Empty star",
     id: "icon.title.star-empty",
     comment: "Title for star empty icon"
   },
   starfull: {
-    message: "Full blue star",
+    message: "Full star",
     id: "icon.title.star-full",
     comment: "Title for star full icon"
   },
   starhalf: {
-    message: "Half full blue star",
+    message: "Half full star",
     id: "icon.title.star-half",
     comment: "Title for star half icon"
   },
@@ -2605,7 +2605,7 @@ export default {
     comment: "Title for vehicle icon"
   },
   verification: {
-    message: "Blue shield with checkmark",
+    message: "Shield with checkmark",
     id: "icon.title.verification",
     comment: "Title for verification icon"
   },
