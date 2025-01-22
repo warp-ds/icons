@@ -109,6 +109,9 @@ You can open a local preview of the icons. Use this to verify that the icons loo
 pnpm dev
 ```
 
+You can also locally test the icons by framework.
+[See guide for local testing here.](https://github.com/warp-ds/notes/blob/main/Testing%20changes%20locally%3A%20example%20using%20icons.md)
+
 ### Typescript support
 
 We are bundling types now for all named exports. To make Typescript compiler compliant to these changes you'll need to use `"module": "NodeNext"` in your tsconfig and then all the imports would have types.
