@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: nb\n"
 "X-Crowdin-File-ID: 3208\n"
+"PO-Revision-Date: \n"
 
 #. Title for product no ads icon
 #. js-lingui-explicit-id
 #: scripts/temp/product-no-ads.js:2
 msgid "icon.title.product-no-ads"
 msgstr "Høyttaler"
-

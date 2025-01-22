@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: fi\n"
 "X-Crowdin-File-ID: 13224\n"
+"PO-Revision-Date: \n"
 
 #. Title for Chair icon
 #. js-lingui-explicit-id
 #: scripts/temp/chair.js:2
 msgid "icon.title.chair"
 msgstr "Tuoli"
-

@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: fi\n"
 "X-Crowdin-File-ID: 3856\n"
+"PO-Revision-Date: \n"
 
 #. Title for chevron-double-right icon
 #. js-lingui-explicit-id
 #: scripts/temp/chevron-double-right.js:2
 msgid "icon.title.chevron-double-right"
 msgstr "Kaksi nuolta oikealle"
-

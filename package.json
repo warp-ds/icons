@@ -58,9 +58,9 @@
   },
   "license": "Apache-2.0",
   "devDependencies": {
-    "@lingui/cli": "4.11.2",
-    "@lingui/conf": "4.11.2",
-    "@lingui/core": "4.11.2",
+    "@lingui/cli": "5.1.2",
+    "@lingui/conf": "5.1.2",
+    "@lingui/core": "5.1.2",
     "@semantic-release/changelog": "6.0.3",
     "@semantic-release/git": "10.0.1",
     "@sindresorhus/slugify": "2.2.1",

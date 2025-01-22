@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: sv\n"
 "X-Crowdin-File-ID: 3934\n"
+"PO-Revision-Date: \n"
 
 #. Title for car key icon
 #. js-lingui-explicit-id
 #: scripts/temp/car-key.js:2
 msgid "icon.title.car-key"
 msgstr "Bilnyckel"
-
