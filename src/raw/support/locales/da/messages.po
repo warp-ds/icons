@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: da\n"
 "X-Crowdin-File-ID: 2998\n"
+"PO-Revision-Date: \n"
 
 #. Title for support icon
 #. js-lingui-explicit-id
 #: scripts/temp/support.js:2
 msgid "icon.title.support"
 msgstr "Kundeservice headset"
-

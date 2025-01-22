@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: nb\n"
 "X-Crowdin-File-ID: 3826\n"
+"PO-Revision-Date: \n"
 
 #. Title for circle-plus icon
 #. js-lingui-explicit-id
 #: scripts/temp/circle-plus.js:2
 msgid "icon.title.circle-plus"
 msgstr "Sirkel med plusstegn"
-
