@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: sv\n"
 "X-Crowdin-File-ID: 3700\n"
+"PO-Revision-Date: \n"
 
 #. Title for engine icon
 #. js-lingui-explicit-id
 #: scripts/temp/engine.js:2
 msgid "icon.title.engine"
 msgstr "Motor"
-

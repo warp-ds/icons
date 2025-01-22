@@ -13,10 +13,12 @@ msgstr ""
 "X-Crowdin-File-ID: 18955\n"
 "Project-Id-Version: 2853b3c41d7b7a59e7cd64c0153b540a\n"
 "Language-Team: Danish\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
 
 #. Title for water pitcher icon
 #. js-lingui-explicit-id
 #: scripts/temp/water-pitcher.js:2
 msgid "icon.title.water-pitcher"
 msgstr "Kande"
-
