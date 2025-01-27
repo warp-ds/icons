@@ -10,7 +10,7 @@ The icon set for WARP, imported from (Figma project)[https://www.figma.com/file/
 #### Install dependencies
 
 ```sh
-npm install @warp-ds/icons
+pnpm install @warp-ds/icons
 ```
 
 #### Import React icons
@@ -28,7 +28,7 @@ import { IconBag16 } from '@warp-ds/icons/react';
 #### Install dependencies
 
 ```sh
-npm install @warp-ds/icons
+pnpm install @warp-ds/icons
 ```
 
 #### Import Vue icons
@@ -48,7 +48,7 @@ import { IconChevronRight16 } from '@warp-ds/icons/vue';
 You will need to install both Warp Elements and Lit Element which is the library we use for custom elements
 
 ```sh
-npm install lit @warp-ds/icons
+pnpm install lit @warp-ds/icons
 ```
 
 #### Import Elements icons
