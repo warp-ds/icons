@@ -1,3 +1,10 @@
+# [2.5.0-next.1](https://github.com/warp-ds/icons/compare/v2.4.0...v2.5.0-next.1) (2025-01-27)
+
+
+### Features
+
+* make release of icons with Lingui 5.x ([bd30377](https://github.com/warp-ds/icons/commit/bd303772a1cdf1bfb042197f72378b919fb77936))
+
 # [2.4.0](https://github.com/warp-ds/icons/compare/v2.3.0...v2.4.0) (2024-12-02)
 
 
