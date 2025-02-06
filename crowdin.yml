@@ -16,6 +16,9 @@ files:
   - source: /src/raw/wheelchair/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/wheelchair/locales/%two_letters_code%/messages.po
+  - source: /src/raw/weight/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/weight/locales/%two_letters_code%/messages.po
   - source: /src/raw/water-pitcher/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/water-pitcher/locales/%two_letters_code%/messages.po
@@ -181,6 +184,9 @@ files:
   - source: /src/raw/skyscraper/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/skyscraper/locales/%two_letters_code%/messages.po
+  - source: /src/raw/single-cylinder/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/single-cylinder/locales/%two_letters_code%/messages.po
   - source: /src/raw/shower/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/shower/locales/%two_letters_code%/messages.po
@@ -226,9 +232,18 @@ files:
   - source: /src/raw/sailboat/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/sailboat/locales/%two_letters_code%/messages.po
+  - source: /src/raw/ruler/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/ruler/locales/%two_letters_code%/messages.po
+  - source: /src/raw/rowing-boat/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/rowing-boat/locales/%two_letters_code%/messages.po
   - source: /src/raw/room-service/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/room-service/locales/%two_letters_code%/messages.po
+  - source: /src/raw/road/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/road/locales/%two_letters_code%/messages.po
   - source: /src/raw/remppatori-light/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/remppatori-light/locales/%two_letters_code%/messages.po
@@ -715,6 +730,9 @@ files:
   - source: /src/raw/car-front/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/car-front/locales/%two_letters_code%/messages.po
+  - source: /src/raw/car-engine/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/car-engine/locales/%two_letters_code%/messages.po
   - source: /src/raw/car/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/car/locales/%two_letters_code%/messages.po
@@ -772,6 +790,9 @@ files:
   - source: /src/raw/boat-length/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/boat-length/locales/%two_letters_code%/messages.po
+  - source: /src/raw/boat/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/boat/locales/%two_letters_code%/messages.po
   - source: /src/raw/block/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/block/locales/%two_letters_code%/messages.po
@@ -859,6 +880,9 @@ files:
   - source: /src/raw/air-con/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/air-con/locales/%two_letters_code%/messages.po
+  - source: /src/raw/agriculture-machine/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/agriculture-machine/locales/%two_letters_code%/messages.po
   - source: /src/raw/ads/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/ads/locales/%two_letters_code%/messages.po
