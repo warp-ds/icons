@@ -161,7 +161,7 @@ export default {
   },
   boat: {
     message: "Boat",
-    id: "icon.title.",
+    id: "icon.title.boat",
     comment: "Title for boat icon"
   },
   boatlength: {
