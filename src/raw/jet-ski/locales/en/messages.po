@@ -16,11 +16,5 @@ msgstr ""
 #. Title for jet ski icon
 #. js-lingui-explicit-id
 #: scripts/temp/jet-ski.js:2
-#~ msgid "icon.title.jetski"
-#~ msgstr "Jet ski"
-
-#. Title for jet ski icon
-#. js-lingui-explicit-id
-#: scripts/temp/jet-ski.js:2
 msgid "icon.title.jet-ski"
 msgstr "Jet ski"
