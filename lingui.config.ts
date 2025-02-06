@@ -872,6 +872,12 @@ const config: LinguiConfig = {
   },
   {
     "include": [
+      "scripts/temp/jet-ski.js"
+    ],
+    "path": "src/raw/jet-ski/locales/{locale}/messages"
+  },
+  {
+    "include": [
       "scripts/temp/instagram.js"
     ],
     "path": "src/raw/instagram/locales/{locale}/messages"

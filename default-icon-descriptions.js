@@ -1224,6 +1224,11 @@ export default {
     id: "icon.title.job",
     comment: "Title for job icon"
   },
+  jetski: {
+    message: "Jet ski",
+    id: "icon.title.jetski",
+    comment: "Title for jet ski icon"
+  },
   journal: {
     message: "Journal with pen",
     id: "icon.title.journal",

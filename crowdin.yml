@@ -436,6 +436,9 @@ files:
   - source: /src/raw/job/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/job/locales/%two_letters_code%/messages.po
+  - source: /src/raw/jet-ski/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/jet-ski/locales/%two_letters_code%/messages.po
   - source: /src/raw/instagram/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/instagram/locales/%two_letters_code%/messages.po
