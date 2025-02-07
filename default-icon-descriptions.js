@@ -2004,10 +2004,20 @@ export default {
     id: "icon.title.rewind",
     comment: "Title for rewind icon"
   },
+  road: {
+    message: "Road",
+    id: "icon.title.road",
+    comment: "Title for road icon"
+  },
   roomservice: {
     message: "Gloved hand and serving tray with a dome",
     id: "icon.title.room-service",
     comment: "Title for room service icon"
+  },
+  rowingboat: {
+    message: "Rowing boat",
+    id: "icon.title.rowing-boat",
+    comment: "Title for rowing boat icon"
   },
   ruler: {
     message: "Ruler",
