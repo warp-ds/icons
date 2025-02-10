@@ -32,6 +32,12 @@ const config: LinguiConfig = {
   },
   {
     "include": [
+      "scripts/temp/weight.js"
+    ],
+    "path": "src/raw/weight/locales/{locale}/messages"
+  },
+  {
+    "include": [
       "scripts/temp/water-pitcher.js"
     ],
     "path": "src/raw/water-pitcher/locales/{locale}/messages"
@@ -362,6 +368,12 @@ const config: LinguiConfig = {
   },
   {
     "include": [
+      "scripts/temp/single-cylinder.js"
+    ],
+    "path": "src/raw/single-cylinder/locales/{locale}/messages"
+  },
+  {
+    "include": [
       "scripts/temp/shower.js"
     ],
     "path": "src/raw/shower/locales/{locale}/messages"
@@ -452,9 +464,27 @@ const config: LinguiConfig = {
   },
   {
     "include": [
+      "scripts/temp/ruler.js"
+    ],
+    "path": "src/raw/ruler/locales/{locale}/messages"
+  },
+  {
+    "include": [
+      "scripts/temp/rowing-boat.js"
+    ],
+    "path": "src/raw/rowing-boat/locales/{locale}/messages"
+  },
+  {
+    "include": [
       "scripts/temp/room-service.js"
     ],
     "path": "src/raw/room-service/locales/{locale}/messages"
+  },
+  {
+    "include": [
+      "scripts/temp/road.js"
+    ],
+    "path": "src/raw/road/locales/{locale}/messages"
   },
   {
     "include": [
@@ -869,6 +899,12 @@ const config: LinguiConfig = {
       "scripts/temp/job.js"
     ],
     "path": "src/raw/job/locales/{locale}/messages"
+  },
+  {
+    "include": [
+      "scripts/temp/jet-ski.js"
+    ],
+    "path": "src/raw/jet-ski/locales/{locale}/messages"
   },
   {
     "include": [
@@ -1424,6 +1460,12 @@ const config: LinguiConfig = {
   },
   {
     "include": [
+      "scripts/temp/car-engine.js"
+    ],
+    "path": "src/raw/car-engine/locales/{locale}/messages"
+  },
+  {
+    "include": [
       "scripts/temp/car.js"
     ],
     "path": "src/raw/car/locales/{locale}/messages"
@@ -1535,6 +1577,12 @@ const config: LinguiConfig = {
       "scripts/temp/boat-length.js"
     ],
     "path": "src/raw/boat-length/locales/{locale}/messages"
+  },
+  {
+    "include": [
+      "scripts/temp/boat.js"
+    ],
+    "path": "src/raw/boat/locales/{locale}/messages"
   },
   {
     "include": [
@@ -1709,6 +1757,12 @@ const config: LinguiConfig = {
       "scripts/temp/air-con.js"
     ],
     "path": "src/raw/air-con/locales/{locale}/messages"
+  },
+  {
+    "include": [
+      "scripts/temp/agriculture-machine.js"
+    ],
+    "path": "src/raw/agriculture-machine/locales/{locale}/messages"
   },
   {
     "include": [

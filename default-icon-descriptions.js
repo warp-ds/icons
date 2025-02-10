@@ -9,6 +9,11 @@ export default {
     id: "icon.title.ads",
     comment: "Title for ads icon"
   },
+  agriculturemachine: {
+    message: "Agriculture machine",
+    id: "icon.title.agriculture-machine",
+    comment: "Title for agriculture machine icon"
+  },
   aircon: {
     message: "Small air cooler",
     id: "icon.title.air-con",
@@ -154,6 +159,11 @@ export default {
     id: "icon.title.block",
     comment: "Title for block icon"
   },
+  boat: {
+    message: "Boat",
+    id: "icon.title.boat",
+    comment: "Title for boat icon"
+  },
   boatlength: {
     message: "Boat with arrows in both directions",
     id: "icon.title.boat-length",
@@ -253,6 +263,11 @@ export default {
     message: "Car",
     id: "icon.title.car",
     comment: "Title for car icon"
+  },
+  carengine: {
+    message: "Car engine",
+    id: "icon.title.car-engine",
+    comment: "Title for car engine icon"
   },
   carbody: {
     message: "Car with highlighted body",
@@ -1224,6 +1239,11 @@ export default {
     id: "icon.title.job",
     comment: "Title for job icon"
   },
+  jetski: {
+    message: "Jet ski",
+    id: "icon.title.jet-ski",
+    comment: "Title for jet ski icon"
+  },
   journal: {
     message: "Journal with pen",
     id: "icon.title.journal",
@@ -1984,10 +2004,20 @@ export default {
     id: "icon.title.rewind",
     comment: "Title for rewind icon"
   },
+  road: {
+    message: "Road",
+    id: "icon.title.road",
+    comment: "Title for road icon"
+  },
   roomservice: {
     message: "Gloved hand and serving tray with a dome",
     id: "icon.title.room-service",
     comment: "Title for room service icon"
+  },
+  rowingboat: {
+    message: "Rowing boat",
+    id: "icon.title.rowing-boat",
+    comment: "Title for rowing boat icon"
   },
   ruler: {
     message: "Ruler",
@@ -2133,6 +2163,11 @@ export default {
     message: "Signal bars",
     id: "icon.title.signal",
     comment: "Title for signal icon"
+  },
+  singlecylinder: {
+    message: "Single cylinder",
+    id: "icon.title.single-cylinder",
+    comment: "Title for single cylinder icon"
   },
   skyscraper: {
     message: "Two skyscrapers with a cloud above",
@@ -2653,6 +2688,11 @@ export default {
     message: "Wristwatch",
     id: "icon.title.watch",
     comment: "Title for watch icon"
+  }, 
+  waterpitcher: {
+    message: "Water pitcher",
+    id: "icon.title.water-pitcher",
+    comment: "Title for water pitcher icon"
   },
   weather: {
     message: "Sun and cloud",
@@ -2664,10 +2704,10 @@ export default {
     id: "icon.title.web",
     comment: "Title for web icon"
   },
-  waterpitcher: {
-    message: "Water pitcher",
-    id: "icon.title.water-pitcher",
-    comment: "Title for water pitcher icon"
+  weight: {
+    message: "Weight",
+    id: "icon.title.weight",
+    comment: "Title for weight icon"
   },
   wheelchair: {
     message: "Wheelchair",
