@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: sv\n"
 "X-Crowdin-File-ID: 3406\n"
-"PO-Revision-Date: \n"
 
 #. Title for mailbox icon
 #. js-lingui-explicit-id
 #: scripts/temp/mailbox.js:2
 msgid "icon.title.mailbox"
 msgstr "Brevlåda med flagga som indikerar ny e-post"
+

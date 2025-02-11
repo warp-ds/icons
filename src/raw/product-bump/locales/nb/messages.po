@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: nb\n"
 "X-Crowdin-File-ID: 3232\n"
-"PO-Revision-Date: \n"
 
 #. Title for product bump icon
 #. js-lingui-explicit-id
 #: scripts/temp/product-bump.js:2
 msgid "icon.title.product-bump"
 msgstr "Bilde med uthevet tekst og en pil som peker oppover"
+

@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: da\n"
 "X-Crowdin-File-ID: 13152\n"
-"PO-Revision-Date: \n"
 
 #. Title for NettbilDark icon
 #. js-lingui-explicit-id
 #: scripts/temp/nettbil-dark.js:2
 msgid "icon.title.nettbildark"
 msgstr "Nettbil"
+
