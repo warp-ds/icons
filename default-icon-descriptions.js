@@ -2085,7 +2085,7 @@ export default {
     comment: "Title for search favorites icon"
   },
   seat: {
-    message: "Airplane seat",
+    message: "Seat",
     id: "icon.title.seat",
     comment: "Title for seat icon"
   },
