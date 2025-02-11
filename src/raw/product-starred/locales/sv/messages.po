@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: sv\n"
 "X-Crowdin-File-ID: 3202\n"
-"PO-Revision-Date: \n"
 
 #. Title for product starred icon
 #. js-lingui-explicit-id
 #: scripts/temp/product-starred.js:2
 msgid "icon.title.product-starred"
 msgstr "Tre stjärnor med text under"
+

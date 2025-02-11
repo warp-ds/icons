@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: nb\n"
 "X-Crowdin-File-ID: 3058\n"
-"PO-Revision-Date: \n"
 
 #. Title for smiley neutral icon
 #. js-lingui-explicit-id
 #: scripts/temp/smiley-neutral.js:2
 msgid "icon.title.smiley-neutral"
 msgstr "Nøytralt ansikt"
+
