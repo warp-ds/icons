@@ -18,3 +18,4 @@ msgstr ""
 #: scripts/temp/seat.js:2
 msgid "icon.title.seat"
 msgstr ""
+

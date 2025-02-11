@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: nb\n"
 "X-Crowdin-File-ID: 18363\n"
-"PO-Revision-Date: \n"
 
 #. Title for trend flat icon
 #. js-lingui-explicit-id
 #: scripts/temp/trend-flat.js:2
 msgid "icon.title.trend-flat"
 msgstr "Bølgete pil som peker til høyre"
+
