@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: sv\n"
 "X-Crowdin-File-ID: 3052\n"
-"PO-Revision-Date: \n"
 
 #. Title for smiley sad icon
 #. js-lingui-explicit-id
 #: scripts/temp/smiley-sad.js:2
 msgid "icon.title.smiley-sad"
 msgstr "Ledset ansikte"
+

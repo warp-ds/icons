@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: sv\n"
 "X-Crowdin-File-ID: 16114\n"
-"PO-Revision-Date: \n"
 
 #. Title for delivery icon
 #. js-lingui-explicit-id
 #: scripts/temp/delivery.js:2
 msgid "icon.title.delivery"
 msgstr "Hand som håller en liten låda"
+

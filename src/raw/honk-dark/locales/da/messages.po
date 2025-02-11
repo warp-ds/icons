@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: da\n"
 "X-Crowdin-File-ID: 13200\n"
-"PO-Revision-Date: \n"
 
 #. Title for HonkDark icon
 #. js-lingui-explicit-id
 #: scripts/temp/honk-dark.js:2
 msgid "icon.title.honkdark"
 msgstr "Honk mørkt ikon"
+

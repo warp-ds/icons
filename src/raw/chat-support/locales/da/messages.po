@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: da\n"
 "X-Crowdin-File-ID: 3880\n"
-"PO-Revision-Date: \n"
 
 #. Title for chat support icon
 #. js-lingui-explicit-id
 #: scripts/temp/chat-support.js:2
 msgid "icon.title.chat-support"
 msgstr "Talebobler med smilende ansigter"
+
