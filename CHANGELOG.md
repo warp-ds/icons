@@ -1,3 +1,10 @@
+# [2.5.0-next.3](https://github.com/warp-ds/icons/compare/v2.5.0-next.2...v2.5.0-next.3) (2025-02-11)
+
+
+### Bug Fixes
+
+* seat icon description change ([#158](https://github.com/warp-ds/icons/issues/158)) ([0f24227](https://github.com/warp-ds/icons/commit/0f242275b6eaf162464e0a5c509f4651ede1c6fe))
+
 # [2.5.0-next.2](https://github.com/warp-ds/icons/compare/v2.5.0-next.1...v2.5.0-next.2) (2025-02-10)
 
 
