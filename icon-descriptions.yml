@@ -1,6 +1,7 @@
 ---
 ActiveAds: Ark med bilde og overskrift med fremhevet hakemerke
 Ads: Ark med bilde og overskrift
+AgricultureMachine: Landbruksmaskin
 AirCon: Liten luftkjøler
 Airplane: Fly
 AirplaneHotel: Fly og hotell
@@ -22,6 +23,7 @@ Beach: Strandparasoll
 Bell: Bjelle
 Bin: Søppeldunk
 Block: Person med fremhevet forbudt skilt
+Boat: Båt
 BoatLength: Båt med piler i begge retninger
 Bolt: Lyn
 Bookmark: Bokmerke
@@ -40,6 +42,7 @@ Calendar: Kalender
 Camera: Kamera
 Camping: Campingvogn
 Car: Bil
+CarEngine: Bilmotor
 CarKey: Bil og nøkkel
 CarRent: Bil og klokke
 CarService: Bil og stjerne
@@ -118,6 +121,7 @@ Image: Ark med brettet kant i øvre høyre hjørne samt sol og fjell
 Info: Sirkel med bokstaven I
 Instagram: Instagram logo
 Job: Dokumentmappe
+JetSki: Vannscooter
 Keys: To nøkler på nøkkelring
 Krone: Sirkel med KR
 Lamp: Gulvlampe
@@ -173,19 +177,23 @@ StarFull: Full blå stjerne
 StarHalf: Halvfull blå stjerne
 RealEstate: Hus med hage
 Refresh: Roterende pil
+Road: Vei
 RoomService: Hanskekledd hånd og serveringsbrett med kuppel
+RowingBoat: Robåt
+Ruler: Linjal
 Sailboat: To fugler og seilbåt på vannet
 Sailing: Seilbåt på vannet
 Sauna: Hus med varme
 ScrollUp: Pil opp
 Search: Forstørrelsesglass
 SearchFavorites: Forstørrelsesglass med hjerte
-Seat: Flysete
+Seat: Sete
 Send: Papirfly
 Service: Roterende pil med skiftenøkkel
 Share: Kvadrat med pil ut til høyre
 Shipping: Lastebil i fart
 Shower: Rennende dusjhode
+SingleCylinder: Enkelt sylinder
 Skyscraper: To boligblokker med en sky over
 SmartPhone: Smarttelefon
 SmileyGood: Fornøyd smil
@@ -223,6 +231,7 @@ Verification: Blått skjold med hakemerke
 Wallet: Lommebok
 Warning: Varseltrekant med utropstegn
 Warranty: Rosett med hakemerke
+Weight: Vekt
 Wheelchair: Rullestol
 Wifi: WiFi symbol, tre bølger over en sirkel
 Woods: To grantrær
