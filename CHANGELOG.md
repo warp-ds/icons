@@ -1,3 +1,16 @@
+# [2.5.0](https://github.com/warp-ds/icons/compare/v2.4.0...v2.5.0) (2025-02-13)
+
+
+### Bug Fixes
+
+* seat icon description change ([#158](https://github.com/warp-ds/icons/issues/158)) ([0f24227](https://github.com/warp-ds/icons/commit/0f242275b6eaf162464e0a5c509f4651ede1c6fe))
+
+
+### Features
+
+* **icons:** added 9 new icons and updated 3 ([#157](https://github.com/warp-ds/icons/issues/157)) ([d351f6d](https://github.com/warp-ds/icons/commit/d351f6d62937f719cf12738c0e7b1bf66e1b9abd))
+* make release of icons with Lingui 5.x ([bd30377](https://github.com/warp-ds/icons/commit/bd303772a1cdf1bfb042197f72378b919fb77936))
+
 # [2.5.0-next.3](https://github.com/warp-ds/icons/compare/v2.5.0-next.2...v2.5.0-next.3) (2025-02-11)
 
 
