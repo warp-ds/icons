@@ -81,7 +81,7 @@
     "semantic-release": "24.0.0",
     "svgo": "3.3.2",
     "typescript": "5.5.3",
-    "unocss": "0.x",
+    "unocss": "66.x",
     "vite": "5.3.3",
     "vite-plugin-nunjucks": "0.2.0",
     "yaml": "2.4.5"
