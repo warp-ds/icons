@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: fi\n"
 "X-Crowdin-File-ID: 18955\n"
+"PO-Revision-Date: \n"
 
 #. Title for water pitcher icon
 #. js-lingui-explicit-id
 #: scripts/temp/water-pitcher.js:2
 msgid "icon.title.water-pitcher"
 msgstr "Vesikannu"
-

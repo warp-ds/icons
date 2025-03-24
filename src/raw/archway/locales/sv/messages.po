@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: sv\n"
 "X-Crowdin-File-ID: 4120\n"
+"PO-Revision-Date: \n"
 
 #. Title for archway icon
 #. js-lingui-explicit-id
 #: scripts/temp/archway.js:2
 msgid "icon.title.archway"
 msgstr "Valvgång"
-

@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: sv\n"
 "X-Crowdin-File-ID: 16018\n"
+"PO-Revision-Date: \n"
 
 #. Title for user group icon
 #. js-lingui-explicit-id
 #: scripts/temp/user-group.js:2
 msgid "icon.title.user-group"
 msgstr "Tre personer"
-

@@ -299,6 +299,11 @@ export default {
     id: "icon.title.car-key",
     comment: "Title for car key icon"
   },
+  carleft: {
+    message: "A car facing left",
+    id: "icon.title.car-left",
+    comment: "Title for car left icon"
+  },
   carpart: {
     message: "Car part",
     id: "icon.title.carpart",
@@ -313,6 +318,11 @@ export default {
     message: "Car and clock",
     id: "icon.title.car-rent",
     comment: "Title for car rent icon"
+  },
+  carright: {
+    message: "A car facing right",
+    id: "icon.title.car-right",
+    comment: "Title for car right icon"
   },
   carservice: {
     message: "Car and star",
@@ -708,6 +718,11 @@ export default {
     message: "Arrow pointing down",
     id: "icon.title.download",
     comment: "Title for download icon"
+  },
+  dragdots: {
+    message: "Six dots bundled together",
+    id: "icon.title.drag-dots",
+    comment: "Title for drag dots icon"
   },
   drawer: {
     message: "Drawer",
@@ -1803,6 +1818,16 @@ export default {
     message: "Airplane",
     id: "icon.title.plane",
     comment: "Title for plane icon"
+  },
+  planeland: {
+    message: "A plane landing",
+    id: "icon.title.plane-land",
+    comment: "Title for plane land icon"
+  },
+  planetakeoff: {
+    message: "A plane taking off",
+    id: "icon.title.plane-take-off",
+    comment: "Title for plane take-off icon"
   },
   planet: {
     message: "Planet Earth",

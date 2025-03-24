@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: nb\n"
 "X-Crowdin-File-ID: 3718\n"
+"PO-Revision-Date: \n"
 
 #. Title for economy icon
 #. js-lingui-explicit-id
 #: scripts/temp/economy.js:2
 msgid "icon.title.economy"
 msgstr "Seddel og to mynter"
-

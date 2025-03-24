@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: sv\n"
 "X-Crowdin-File-ID: 3382\n"
+"PO-Revision-Date: \n"
 
 #. Title for measure icon
 #. js-lingui-explicit-id
 #: scripts/temp/measure.js:2
 msgid "icon.title.measure"
 msgstr "Prickad kvadrat med måttpilar"
-

@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: da\n"
 "X-Crowdin-File-ID: 3322\n"
+"PO-Revision-Date: \n"
 
 #. Title for office desk icon
 #. js-lingui-explicit-id
 #: scripts/temp/office-desk.js:2
 msgid "icon.title.office-desk"
 msgstr "Skrivebord med en computerskærm"
-

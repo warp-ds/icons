@@ -301,6 +301,12 @@ files:
   - source: /src/raw/plane-ticket/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/plane-ticket/locales/%two_letters_code%/messages.po
+  - source: /src/raw/plane-take-off/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/plane-take-off/locales/%two_letters_code%/messages.po
+  - source: /src/raw/plane-land/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/plane-land/locales/%two_letters_code%/messages.po
   - source: /src/raw/pin-round/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/pin-round/locales/%two_letters_code%/messages.po
@@ -601,6 +607,9 @@ files:
   - source: /src/raw/drawer/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/drawer/locales/%two_letters_code%/messages.po
+  - source: /src/raw/drag-dots/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/drag-dots/locales/%two_letters_code%/messages.po
   - source: /src/raw/download/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/download/locales/%two_letters_code%/messages.po
@@ -718,12 +727,18 @@ files:
   - source: /src/raw/car-service/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/car-service/locales/%two_letters_code%/messages.po
+  - source: /src/raw/car-right/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/car-right/locales/%two_letters_code%/messages.po
   - source: /src/raw/car-rent/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/car-rent/locales/%two_letters_code%/messages.po
   - source: /src/raw/car-part/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/car-part/locales/%two_letters_code%/messages.po
+  - source: /src/raw/car-left/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/raw/car-left/locales/%two_letters_code%/messages.po
   - source: /src/raw/car-key/locales/en/messages.po
     dest: /icons/**/%original_file_name%
     translation: /src/raw/car-key/locales/%two_letters_code%/messages.po
