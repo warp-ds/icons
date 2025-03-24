@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: nb\n"
 "X-Crowdin-File-ID: 14146\n"
+"PO-Revision-Date: \n"
 
 #. Title for phone badge check icon
 #. js-lingui-explicit-id
 #: scripts/temp/phone-badge-check.js:2
 msgid "icon.title.phone-badge-check"
 msgstr "Smarttelefon med et sjekkmerke"
-

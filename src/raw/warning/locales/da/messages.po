@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: da\n"
 "X-Crowdin-File-ID: 15982\n"
+"PO-Revision-Date: \n"
 
 #. Title for warning icon
 #. js-lingui-explicit-id
 #: scripts/temp/warning.js:2
 msgid "icon.title.warning"
 msgstr "Advarselstrekant med et udråbstegn"
-

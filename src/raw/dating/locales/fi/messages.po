@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: fi\n"
 "X-Crowdin-File-ID: 3772\n"
+"PO-Revision-Date: \n"
 
 #. Title for dating icon
 #. js-lingui-explicit-id
 #: scripts/temp/dating.js:2
 msgid "icon.title.dating"
 msgstr "Kaksi sydäntä"
-

@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: sv\n"
 "X-Crowdin-File-ID: 14194\n"
+"PO-Revision-Date: \n"
 
 #. Title for cancel icon
 #. js-lingui-explicit-id
 #: scripts/temp/cancel.js:2
 msgid "icon.title.cancel"
 msgstr "Cirkel med diagonal linje"
-

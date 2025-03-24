@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: nb\n"
 "X-Crowdin-File-ID: 3580\n"
+"PO-Revision-Date: \n"
 
 #. Title for graph pie icon
 #. js-lingui-explicit-id
 #: scripts/temp/graph-pie.js:2
 msgid "icon.title.graph-pie"
 msgstr "Kakediagram"
-

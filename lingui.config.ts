@@ -602,6 +602,18 @@ const config: LinguiConfig = {
   },
   {
     "include": [
+      "scripts/temp/plane-take-off.js"
+    ],
+    "path": "src/raw/plane-take-off/locales/{locale}/messages"
+  },
+  {
+    "include": [
+      "scripts/temp/plane-land.js"
+    ],
+    "path": "src/raw/plane-land/locales/{locale}/messages"
+  },
+  {
+    "include": [
       "scripts/temp/pin-round.js"
     ],
     "path": "src/raw/pin-round/locales/{locale}/messages"
@@ -1202,6 +1214,12 @@ const config: LinguiConfig = {
   },
   {
     "include": [
+      "scripts/temp/drag-dots.js"
+    ],
+    "path": "src/raw/drag-dots/locales/{locale}/messages"
+  },
+  {
+    "include": [
       "scripts/temp/download.js"
     ],
     "path": "src/raw/download/locales/{locale}/messages"
@@ -1436,6 +1454,12 @@ const config: LinguiConfig = {
   },
   {
     "include": [
+      "scripts/temp/car-right.js"
+    ],
+    "path": "src/raw/car-right/locales/{locale}/messages"
+  },
+  {
+    "include": [
       "scripts/temp/car-rent.js"
     ],
     "path": "src/raw/car-rent/locales/{locale}/messages"
@@ -1445,6 +1469,12 @@ const config: LinguiConfig = {
       "scripts/temp/car-part.js"
     ],
     "path": "src/raw/car-part/locales/{locale}/messages"
+  },
+  {
+    "include": [
+      "scripts/temp/car-left.js"
+    ],
+    "path": "src/raw/car-left/locales/{locale}/messages"
   },
   {
     "include": [

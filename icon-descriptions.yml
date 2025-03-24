@@ -44,7 +44,9 @@ Camping: Campingvogn
 Car: Bil
 CarEngine: Bilmotor
 CarKey: Bil og nøkkel
+CarLeft: Bil vendt mot venstre
 CarRent: Bil og klokke
+CarRight: Bil vendt mot høyre
 CarService: Bil og stjerne
 CarSubscription: Bil og sjekkliste
 Cart: Handlevogn
@@ -81,6 +83,7 @@ Dots: Tre prikker
 DoubleBed: Dobbeltseng
 Download: Pil ned til harddisk
 Drink: Cocktail glass
+DragDots: Seks prikker gruppert sammen
 Economy: En seddel og to mynter
 Edit: Blyant
 Energy: Kabel med støpsel og planteblad
@@ -157,6 +160,8 @@ PhoneScratched: Smarttelefon med tre riper
 PhoneUsed: Smarttelefon med tre riper i glasset
 PinMarker: Kartnål
 PinRound: Kartnål med en skygge under
+PlaneLand: Fly som lander
+PlaneTakeOff: Fly som letter
 PlaneTicket: Hånd med flybillett
 Play: Sirkel med en trekant som peker til høyre
 Playhouse: Klatrestativ
