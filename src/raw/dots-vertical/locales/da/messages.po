@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: da\n"
 "X-Crowdin-File-ID: 18933\n"
+"PO-Revision-Date: \n"
 
 #. Title for dots vertical icon
 #. js-lingui-explicit-id
 #: scripts/temp/dots-vertical.js:2
 msgid "icon.title.dots-vertical"
 msgstr "Tre vertikale prikker"
-

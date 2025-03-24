@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: sv\n"
 "X-Crowdin-File-ID: 13256\n"
+"PO-Revision-Date: \n"
 
 #. Title for AutovexDark icon
 #. js-lingui-explicit-id
 #: scripts/temp/autovex-dark.js:2
 msgid "icon.title.autovexdark"
 msgstr "Autovex mörk ikon"
-

@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: fi\n"
 "X-Crowdin-File-ID: 15876\n"
+"PO-Revision-Date: \n"
 
 #. Title for organize icon
 #. js-lingui-explicit-id
 #: scripts/temp/organize.js:2
 msgid "icon.title.organize"
 msgstr "Kaksi vaakasuoraa viivaa kahden vastakkaisen pystysuoran nuolen välissä"
-
