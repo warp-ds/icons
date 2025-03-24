@@ -1,3 +1,10 @@
+# [2.6.0-next.1](https://github.com/warp-ds/icons/compare/v2.5.0...v2.6.0-next.1) (2025-03-24)
+
+
+### Features
+
+* **icons:** add 5 new icons ([#162](https://github.com/warp-ds/icons/issues/162)) ([e12aa90](https://github.com/warp-ds/icons/commit/e12aa903a64bdf58bb737144150e4823f01e892d))
+
 # [2.5.0](https://github.com/warp-ds/icons/compare/v2.4.0...v2.5.0) (2025-02-13)
 
 
