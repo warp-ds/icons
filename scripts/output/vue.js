@@ -19,11 +19,11 @@ getSVGs().forEach(({ svg, filename, exportName, name }) => {
   // Handle i18n of icon title
   const output = [
     `import { i18n } from '@lingui/core';`,
-    `import { messages as nbMessages} from '../src/raw/${name}/locales/nb/messages.mjs';`,
-    `import { messages as enMessages} from '../src/raw/${name}/locales/en/messages.mjs';`,
-    `import { messages as fiMessages} from '../src/raw/${name}/locales/fi/messages.mjs';`,
-    `import { messages as daMessages} from '../src/raw/${name}/locales/da/messages.mjs';`,
-    `import { messages as svMessages} from '../src/raw/${name}/locales/sv/messages.mjs';`,
+    `import { messages as nbMessages} from '../src/locales/nb/messages.mjs';`,
+    `import { messages as enMessages} from '../src/locales/en/messages.mjs';`,
+    `import { messages as fiMessages} from '../src/locales/fi/messages.mjs';`,
+    `import { messages as daMessages} from '../src/locales/da/messages.mjs';`,
+    `import { messages as svMessages} from '../src/locales/sv/messages.mjs';`,
     `import { activateI18n } from '../src/utils/i18n';`,
     `import { h } from 'vue'`,
     `activateI18n(enMessages, nbMessages, fiMessages, daMessages, svMessages);`,
