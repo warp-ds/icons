@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: fi\n"
 "X-Crowdin-File-ID: 19621\n"
-"PO-Revision-Date: \n"
 
 #. Title for weight icon
 #. js-lingui-explicit-id
 #: scripts/temp/weight.js:2
 msgid "icon.title.weight"
 msgstr "Paino"
+

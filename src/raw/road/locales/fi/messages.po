@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: fi\n"
 "X-Crowdin-File-ID: 19653\n"
-"PO-Revision-Date: \n"
 
 #. Title for road icon
 #. js-lingui-explicit-id
 #: scripts/temp/road.js:2
 msgid "icon.title.road"
 msgstr "Tie"
+
