@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: sv\n"
 "X-Crowdin-File-ID: 2812\n"
-"PO-Revision-Date: \n"
 
 #. Title for warranty icon
 #. js-lingui-explicit-id
 #: scripts/temp/warranty.js:2
 msgid "icon.title.warranty"
 msgstr "Rosett med bock"
+

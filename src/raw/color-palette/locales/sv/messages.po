@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: sv\n"
 "X-Crowdin-File-ID: 3796\n"
-"PO-Revision-Date: \n"
 
 #. Title for color palette icon
 #. js-lingui-explicit-id
 #: scripts/temp/color-palette.js:2
 msgid "icon.title.color-palette"
 msgstr "Färgpalett"
+

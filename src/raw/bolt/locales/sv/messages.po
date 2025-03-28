@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: sv\n"
 "X-Crowdin-File-ID: 4024\n"
-"PO-Revision-Date: \n"
 
 #. Title for bolt icon
 #. js-lingui-explicit-id
 #: scripts/temp/bolt.js:2
 msgid "icon.title.bolt"
 msgstr "Blixt"
+
