@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: sv\n"
 "X-Crowdin-File-ID: 15892\n"
-"PO-Revision-Date: \n"
 
 #. Title for table arrow right icon
 #. js-lingui-explicit-id
 #: scripts/temp/arrow-right.js:2
 msgid "icon.title.arrow-right"
 msgstr "Pil som pekar höger"
+
