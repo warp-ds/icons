@@ -4,6 +4,6 @@ base_url_env: CROWDIN_BASE_URL
 base_path: .
 preserve_hierarchy: true
 files:
-    - source: /src/locales/en/messages.po
-      dest: /icons/**/%original_file_name%
-      translation: /src/locales/%two_letters_code%/messages.po
+  - source: /src/locales/en/messages.po
+    dest: /icons/**/%original_file_name%
+    translation: /src/locales/%two_letters_code%/messages.po
