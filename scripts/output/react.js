@@ -32,6 +32,7 @@ svgs.forEach(({ svg, filename, exportName, name }) => {
     `const msgs = ${JSON.stringify(messages[name])}`,
     `activateI18n(msgs.en, msgs.nb, msgs.fi, msgs.da, msgs.sv);`,
     `const title = i18n.t({ message: \`${message}\`, id: '${id}', comment: '${comment}' });`,
+    `/** @param {React.SVGProps<SVGSVGElement>} attrs */`,
     `export const ${exportName} = (attrs) => React.createElement('svg', { ${attrs.join(
       ", "
     )}, dangerouslySetInnerHTML: { __html: ${"`"}${titleHtml}${
