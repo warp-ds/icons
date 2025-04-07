@@ -1,3 +1,10 @@
+# [2.6.0-next.2](https://github.com/warp-ds/icons/compare/v2.6.0-next.1...v2.6.0-next.2) (2025-04-07)
+
+
+### Features
+
+* trigger release ([007a580](https://github.com/warp-ds/icons/commit/007a580aeff9e317654a8ffc21dc258605e052e1))
+
 # [2.6.0-next.1](https://github.com/warp-ds/icons/compare/v2.5.0...v2.6.0-next.1) (2025-03-24)
 
 
