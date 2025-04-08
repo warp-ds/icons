@@ -3,14 +3,18 @@ import { join as joinPath } from "node:path";
 import { getSVGs, getDirname } from "../util/helpers.js";
 import chalk from "chalk";
 import defaultIconDescriptions from "../../default-icon-descriptions.js";
+import { buildMessages } from "../i18n-helpers/buildMessages.js";
 
 const __dirname = getDirname(import.meta.url);
 const icons = [];
 const basepath = joinPath(__dirname, "../../elements/");
 mkdirSync(basepath, { recursive: true });
 
+const svgs = getSVGs();
+const messages = await buildMessages(svgs);
+
 // Create Elements Icon
-getSVGs().forEach(({ svg, name, size, filename, exportName }) => {
+svgs.forEach(({ svg, name, size, filename, exportName }) => {
   const iconNameCamelCase = exportName.replace(/Icon|\d+/g, "");
   const titleMessage = defaultIconDescriptions[iconNameCamelCase.toLowerCase()];
   const attrs = Array.from(svg.attrs).map(
@@ -24,13 +28,9 @@ getSVGs().forEach(({ svg, name, size, filename, exportName }) => {
     `import { LitElement } from 'lit';`,
     `import { unsafeStatic, html } from "lit/static-html.js";`,
     `import { i18n } from '@lingui/core';`,
-    `import { messages as nbMessages} from '../src/raw/${name}/locales/nb/messages.mjs';`,
-    `import { messages as enMessages} from '../src/raw/${name}/locales/en/messages.mjs';`,
-    `import { messages as fiMessages} from '../src/raw/${name}/locales/fi/messages.mjs';`,
-    `import { messages as daMessages} from '../src/raw/${name}/locales/da/messages.mjs';`,
-    `import { messages as svMessages} from '../src/raw/${name}/locales/sv/messages.mjs';`,
     `import { activateI18n } from '../src/utils/i18n';`,
-    `activateI18n(enMessages, nbMessages, fiMessages, daMessages, svMessages);`,
+    `const msgs = ${JSON.stringify(messages[name])}`,
+    `activateI18n(msgs.en, msgs.nb, msgs.fi, msgs.da, msgs.sv);`,
     ``,
     ``,
     `export class ${className} extends LitElement {`,
@@ -58,4 +58,3 @@ const indexFile = icons
 const indexFilename = joinPath(basepath, "index.js");
 writeFileSync(indexFilename, indexFile, "utf-8");
 console.log(`${chalk.blue("lit")}: Wrote ${chalk.yellow("index")} file`);
-

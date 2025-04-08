@@ -264,11 +264,6 @@ export default {
     id: "icon.title.car",
     comment: "Title for car icon"
   },
-  carengine: {
-    message: "Car engine",
-    id: "icon.title.car-engine",
-    comment: "Title for car engine icon"
-  },
   carbody: {
     message: "Car with highlighted body",
     id: "icon.title.car-body",
@@ -283,6 +278,11 @@ export default {
     message: "Car door",
     id: "icon.title.car-door",
     comment: "Title for car door icon"
+  },
+  carengine: {
+    message: "Car engine",
+    id: "icon.title.car-engine",
+    comment: "Title for car engine icon"
   },
   carfront: {
     message: "Car front view",
@@ -299,6 +299,11 @@ export default {
     id: "icon.title.car-key",
     comment: "Title for car key icon"
   },
+  carleft: {
+    message: "A car facing left",
+    id: "icon.title.car-left",
+    comment: "Title for car left icon"
+  },
   carpart: {
     message: "Car part",
     id: "icon.title.carpart",
@@ -313,6 +318,11 @@ export default {
     message: "Car and clock",
     id: "icon.title.car-rent",
     comment: "Title for car rent icon"
+  },
+  carright: {
+    message: "A car facing right",
+    id: "icon.title.car-right",
+    comment: "Title for car right icon"
   },
   carservice: {
     message: "Car and star",
@@ -708,6 +718,11 @@ export default {
     message: "Arrow pointing down",
     id: "icon.title.download",
     comment: "Title for download icon"
+  },
+  dragdots: {
+    message: "Six dots bundled together",
+    id: "icon.title.drag-dots",
+    comment: "Title for drag dots icon"
   },
   drawer: {
     message: "Drawer",
@@ -1229,6 +1244,11 @@ export default {
     id: "icon.title.invitation",
     comment: "Title for invitation icon"
   },
+  jetski: {
+    message: "Jet ski",
+    id: "icon.title.jet-ski",
+    comment: "Title for jet ski icon"
+  },
   jewelry: {
     message: "Necklace",
     id: "icon.title.jewelry",
@@ -1238,11 +1258,6 @@ export default {
     message: "Document folder",
     id: "icon.title.job",
     comment: "Title for job icon"
-  },
-  jetski: {
-    message: "Jet ski",
-    id: "icon.title.jet-ski",
-    comment: "Title for jet ski icon"
   },
   journal: {
     message: "Journal with pen",
@@ -1804,10 +1819,20 @@ export default {
     id: "icon.title.plane",
     comment: "Title for plane icon"
   },
+  planeland: {
+    message: "A plane landing",
+    id: "icon.title.plane-land",
+    comment: "Title for plane land icon"
+  },
   planet: {
     message: "Planet Earth",
     id: "icon.title.planet",
     comment: "Title for planet icon"
+  },
+  planetakeoff: {
+    message: "A plane taking off",
+    id: "icon.title.plane-take-off",
+    comment: "Title for plane take-off icon"
   },
   planeticket: {
     message: "Hand with plane ticket",
@@ -2688,7 +2713,7 @@ export default {
     message: "Wristwatch",
     id: "icon.title.watch",
     comment: "Title for watch icon"
-  }, 
+  },
   waterpitcher: {
     message: "Water pitcher",
     id: "icon.title.water-pitcher",
