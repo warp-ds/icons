@@ -106,13 +106,13 @@ msgstr "Automatisk overføring"
 #. Title for AutovexDark icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:286
-msgid "icon.title.autovexdark"
+msgid "icon.title.autovex-dark"
 msgstr "Autovex mørkt ikon"
 
 #. Title for AutovexLight icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:285
-msgid "icon.title.autovexlight"
+msgid "icon.title.autovex-light"
 msgstr "Autovex lyst ikon"
 
 #. Title for award medal icon
@@ -304,7 +304,7 @@ msgstr "Bilnøkkel"
 #. Title for CarPart icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:246
-msgid "icon.title.carpart"
+msgid "icon.title.car-part"
 msgstr "Bildel"
 
 #. Title for paw icon
@@ -730,7 +730,7 @@ msgstr "Gruppe med brukere"
 #. Title for GuitarBat icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:173
-msgid "icon.title.guitarbat"
+msgid "icon.title.guitar-bat"
 msgstr "Gitar med balltre"
 
 #. Title for star half icon
@@ -796,13 +796,13 @@ msgstr "Uthevet vertikalt rektangel med to rektangler i bakgrunn"
 #. Title for HonkLight icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:166
-msgid "icon.title.honklight"
+msgid "icon.title.honk-light"
 msgstr "Honk lyst ikon"
 
 #. Title for HonkDark icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:167
-msgid "icon.title.honkdark"
+msgid "icon.title.honk-dark"
 msgstr "Honk mørkt ikon"
 
 #. Title for hotel icon
@@ -850,7 +850,7 @@ msgstr "Hus med varmebølger"
 #. Title for IceSkater icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:158
-msgid "icon.title.iceskater"
+msgid "icon.title.ice-skater"
 msgstr "Skøyteløper"
 
 #. Title for image icon
@@ -1012,13 +1012,13 @@ msgstr "Minus"
 #. Title for MittAnbudLight icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:127
-msgid "icon.title.mittanbudlight"
+msgid "icon.title.mitt-anbud-light"
 msgstr "Mittanbud lyst ikon"
 
 #. Title for MittAnbudDark icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:128
-msgid "icon.title.mittanbuddark"
+msgid "icon.title.mitt-anbud-dark"
 msgstr "MittAnbud mørkt ikon"
 
 #. Title for house modern icon
@@ -1048,13 +1048,13 @@ msgstr "Musepeker over en sirkel"
 #. Title for NettbilLight icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:121
-msgid "icon.title.nettbillight"
+msgid "icon.title.nettbil-light"
 msgstr "Nettbil"
 
 #. Title for NettbilDark icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:122
-msgid "icon.title.nettbildark"
+msgid "icon.title.nettbil-dark"
 msgstr "Nettbil mørkt ikon"
 
 #. Title for smiley neutral icon
@@ -1078,13 +1078,13 @@ msgstr "Kontorpult med dataskjerm"
 #. Title for OikotieLight icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:115
-msgid "icon.title.oikotielight"
+msgid "icon.title.oikotie-light"
 msgstr "Oikotie"
 
 #. Title for OikotieDark icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:116
-msgid "icon.title.oikotiedark"
+msgid "icon.title.oikotie-dark"
 msgstr "Oikotie"
 
 #. Title for eye-on icon
@@ -1198,13 +1198,13 @@ msgstr "Rektangel-, ellipse-, diamant- og trekantformer"
 #. Title for RemppatoriLight icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:83
-msgid "icon.title.remppatorilight"
+msgid "icon.title.remppatori-light"
 msgstr "Remppatori lyst ikon"
 
 #. Title for RemppatoriDark icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:84
-msgid "icon.title.remppatoridark"
+msgid "icon.title.remppatori-dark"
 msgstr "Remppatori mørkt ikon"
 
 #. Title for warranty icon
@@ -1366,7 +1366,7 @@ msgstr "Liten luftkjøler"
 #. Title for smartphone icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:61
-msgid "icon.title.smartphone"
+msgid "icon.title.smart-phone"
 msgstr "Smarttelefon"
 
 #. Title for phone icon
@@ -1480,7 +1480,7 @@ msgstr "Stjerne med uthevet sjekkmerke"
 #. Title for StoreFront icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:45
-msgid "icon.title.storefront"
+msgid "icon.title.store-front"
 msgstr "Butikkbygning"
 
 #. Title for store icon

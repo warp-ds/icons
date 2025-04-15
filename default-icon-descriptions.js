@@ -81,12 +81,12 @@ export default {
   },
   autovexdark: {
     message: "AutovexDark logo",
-    id: "icon.title.autovexdark",
+    id: "icon.title.autovex-dark",
     comment: "Title for AutovexDark icon"
   },
   autovexlight: {
     message: "AutovexLight logo",
-    id: "icon.title.autovexlight",
+    id: "icon.title.autovex-light",
     comment: "Title for AutovexLight icon"
   },
   awardmedal: {
@@ -306,7 +306,7 @@ export default {
   },
   carpart: {
     message: "Car part",
-    id: "icon.title.carpart",
+    id: "icon.title.car-part",
     comment: "Title for CarPart icon"
   },
   carrear: {
@@ -1066,7 +1066,7 @@ export default {
   },
   guitarbat: {
     message: "Guiter with a bat",
-    id: "icon.title.guitarbat",
+    id: "icon.title.guitar-bat",
     comment: "Title for GuitarBat icon"
   },
   hamburger: {
@@ -1136,12 +1136,12 @@ export default {
   },
   honkdark: {
     message: "Honk",
-    id: "icon.title.honkdark",
+    id: "icon.title.honk-dark",
     comment: "Title for HonkDark icon"
   },
   honklight: {
     message: "Honk",
-    id: "icon.title.honklight",
+    id: "icon.title.honk-light",
     comment: "Title for HonkLight icon"
   },
   hospital: {
@@ -1191,7 +1191,7 @@ export default {
   },
   iceskater: {
     message: "Ice skater",
-    id: "icon.title.iceskater",
+    id: "icon.title.ice-skater",
     comment: "Title for IceSkater icon"
   },
   idea: {
@@ -1526,12 +1526,12 @@ export default {
   },
   mittanbuddark: {
     message: "MittAnbud",
-    id: "icon.title.mittanbuddark",
+    id: "icon.title.mitt-anbud-dark",
     comment: "Title for MittAnbudDark icon"
   },
   mittanbudlight: {
     message: "MittAnbud",
-    id: "icon.title.mittanbudlight",
+    id: "icon.title.mitt-anbud-light",
     comment: "Title for MittAnbudLight icon"
   },
   mixer: {
@@ -1581,12 +1581,12 @@ export default {
   },
   nettbildark: {
     message: "Nettbil",
-    id: "icon.title.nettbildark",
+    id: "icon.title.nettbil-dark",
     comment: "Title for NettbilDark icon"
   },
   nettbillight: {
     message: "Nettbil",
-    id: "icon.title.nettbillight",
+    id: "icon.title.nettbil-light",
     comment: "Title for NettbilLight icon"
   },
   network: {
@@ -1646,12 +1646,12 @@ export default {
   },
   oikotiedark: {
     message: "Oikotie",
-    id: "icon.title.oikotiedark",
+    id: "icon.title.oikotie-dark",
     comment: "Title for OikotieDark icon"
   },
   oikotielight: {
     message: "Oikotie",
-    id: "icon.title.oikotielight",
+    id: "icon.title.oikotie-light",
     comment: "Title for OikotieLight icon"
   },
   online: {
@@ -1900,7 +1900,8 @@ export default {
     comment: "Title for product bump icon"
   },
   productcarousel: {
-    message: "Highlighted vertical rectangle with two rectangles in the background",
+    message:
+      "Highlighted vertical rectangle with two rectangles in the background",
     id: "icon.title.product-carousel",
     comment: "Title for product carousel icon"
   },
@@ -2001,12 +2002,12 @@ export default {
   },
   remppatoridark: {
     message: "RemppaTori",
-    id: "icon.title.remppatoridark",
+    id: "icon.title.remppatori-dark",
     comment: "Title for RemppatoriDark icon"
   },
   remppatorilight: {
     message: "RemppaTori",
-    id: "icon.title.remppatorilight",
+    id: "icon.title.remppatori-light",
     comment: "Title for RemppatoriLight icon"
   },
   repair: {
@@ -2201,7 +2202,7 @@ export default {
   },
   smartphone: {
     message: "Smartphone",
-    id: "icon.title.smartphone",
+    id: "icon.title.smart-phone",
     comment: "Title for smartphone icon"
   },
   smileygood: {
@@ -2321,7 +2322,7 @@ export default {
   },
   storefront: {
     message: "Storefront building",
-    id: "icon.title.storefront",
+    id: "icon.title.store-front",
     comment: "Title for StoreFront icon"
   },
   stove: {
@@ -2788,5 +2789,5 @@ export default {
     message: "Magnifying glass zooming out",
     id: "icon.title.zoom-out",
     comment: "Title for zoom out icon"
-  }
+  },
 };

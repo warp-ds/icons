@@ -23,6 +23,13 @@ svgs.forEach(({ svg, filename, exportName, name }) => {
     (attr) => attr.name + `: ` + `'` + attr.value + `'`
   );
   validateSize(svg.attrs, filename);
+  const isMissingMessages = validateMessages(name, messages[name]);
+  if (isMissingMessages) {
+    console.error(
+      `${chalk.red("ERROR")}: Missing messages for icon ${chalk.yellow(name)}`
+    );
+  }
+
   const { message, id, comment } = titleMessage || {};
   const titleHtml = "<title>${title}</title>";
   const output = [
@@ -85,4 +92,14 @@ function validateSize(svgAttrs, filename) {
   ) {
     invalidIconSizes.push(filename);
   }
+}
+
+function validateMessages(name, messages) {
+  const isMissingMessages = Object.values(messages).some((messageOrObject) => {
+    if (typeof messageOrObject === "object") {
+      return validateMessages(name, messageOrObject);
+    }
+    return messageOrObject == null;
+  });
+  return isMissingMessages;
 }

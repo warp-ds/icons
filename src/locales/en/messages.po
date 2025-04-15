@@ -106,13 +106,13 @@ msgstr "Automatic transmission"
 #. Title for AutovexDark icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:286
-msgid "icon.title.autovexdark"
+msgid "icon.title.autovex-dark"
 msgstr "AutovexDark logo"
 
 #. Title for AutovexLight icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:285
-msgid "icon.title.autovexlight"
+msgid "icon.title.autovex-light"
 msgstr "AutovexLight logo"
 
 #. Title for award medal icon
@@ -304,7 +304,7 @@ msgstr "Car key"
 #. Title for CarPart icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:246
-msgid "icon.title.carpart"
+msgid "icon.title.car-part"
 msgstr "Car part"
 
 #. Title for paw icon
@@ -730,7 +730,7 @@ msgstr "Group of users"
 #. Title for GuitarBat icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:173
-msgid "icon.title.guitarbat"
+msgid "icon.title.guitar-bat"
 msgstr "Guiter with a bat"
 
 #. Title for star half icon
@@ -796,13 +796,13 @@ msgstr "Highlighted vertical rectangle with two rectangles in the background"
 #. Title for HonkLight icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:166
-msgid "icon.title.honklight"
+msgid "icon.title.honk-light"
 msgstr "Honk"
 
 #. Title for HonkDark icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:167
-msgid "icon.title.honkdark"
+msgid "icon.title.honk-dark"
 msgstr "Honk"
 
 #. Title for hotel icon
@@ -850,7 +850,7 @@ msgstr "House with heat waves"
 #. Title for IceSkater icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:158
-msgid "icon.title.iceskater"
+msgid "icon.title.ice-skater"
 msgstr "Ice skater"
 
 #. Title for image icon
@@ -1012,13 +1012,13 @@ msgstr "Minus"
 #. Title for MittAnbudLight icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:127
-msgid "icon.title.mittanbudlight"
+msgid "icon.title.mitt-anbud-light"
 msgstr "MittAnbud"
 
 #. Title for MittAnbudDark icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:128
-msgid "icon.title.mittanbuddark"
+msgid "icon.title.mitt-anbud-dark"
 msgstr "MittAnbud"
 
 #. Title for house modern icon
@@ -1048,13 +1048,13 @@ msgstr "Mouse pointer over a circle"
 #. Title for NettbilLight icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:121
-msgid "icon.title.nettbillight"
+msgid "icon.title.nettbil-light"
 msgstr "Nettbil"
 
 #. Title for NettbilDark icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:122
-msgid "icon.title.nettbildark"
+msgid "icon.title.nettbil-dark"
 msgstr "Nettbil"
 
 #. Title for smiley neutral icon
@@ -1078,13 +1078,13 @@ msgstr "Office desk with a computer screen"
 #. Title for OikotieLight icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:115
-msgid "icon.title.oikotielight"
+msgid "icon.title.oikotie-light"
 msgstr "Oikotie"
 
 #. Title for OikotieDark icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:116
-msgid "icon.title.oikotiedark"
+msgid "icon.title.oikotie-dark"
 msgstr "Oikotie"
 
 #. Title for eye-on icon
@@ -1198,13 +1198,13 @@ msgstr "Rectangle, ellipse, diamond and triangle shapes"
 #. Title for RemppatoriLight icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:83
-msgid "icon.title.remppatorilight"
+msgid "icon.title.remppatori-light"
 msgstr "RemppaTori"
 
 #. Title for RemppatoriDark icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:84
-msgid "icon.title.remppatoridark"
+msgid "icon.title.remppatori-dark"
 msgstr "RemppaTori"
 
 #. Title for warranty icon
@@ -1366,7 +1366,7 @@ msgstr "Small air cooler"
 #. Title for smartphone icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:61
-msgid "icon.title.smartphone"
+msgid "icon.title.smart-phone"
 msgstr "Smartphone"
 
 #. Title for phone icon
@@ -1480,7 +1480,7 @@ msgstr "Star with highlighted checkmark"
 #. Title for StoreFront icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:45
-msgid "icon.title.storefront"
+msgid "icon.title.store-front"
 msgstr "Storefront building"
 
 #. Title for store icon

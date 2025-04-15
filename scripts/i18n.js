@@ -36,9 +36,17 @@ getSVGs().forEach(({ name, exportName }) => {
 });
 
 // Make a single file to hold usage of all texts to be translated
-const allMessages = Object.entries(icons).map(([camelCase, kebabCase]) => {
+const allMessages = Object.entries(icons).map(([camelCase, _kebabCase]) => {
   const iconName = getIconName(camelCase);
   const titleMessage = defaultIconDescriptions[iconName.toLowerCase()];
+  if (!titleMessage) {
+    console.error(
+      `${chalk.red("ERROR")}: No default description found for ${chalk.yellow(
+        iconName
+      )}`
+    );
+  }
+
   const { message, id, comment } = titleMessage || {};
 
   return `const ${iconName} = i18n.t({ message: \`${message}\`, id: '${id}', comment: '${comment}' });`;
@@ -58,7 +66,7 @@ console.log(
 );
 
 // Extract messages with Lingui
-exec("lingui extract", (error) => {
+exec("lingui extract --clean", (error) => {
   if (error) {
     console.error(`${chalk.cyan("i18n")}: Error: ${chalk.red(error.message)}`);
     return;
@@ -82,11 +90,13 @@ exec("lingui extract", (error) => {
 });
 
 // Create crowdin.yml file
-const files = [{
-  source: `/src/locales/en/messages.po`, // Path to the source file
-  dest: `/icons/**/%original_file_name%`, // Destination path in the repository
-  translation: `/src/locales/%two_letters_code%/messages.po`, // Path to the translation files
-}];
+const files = [
+  {
+    source: `/src/locales/en/messages.po`, // Path to the source file
+    dest: `/icons/**/%original_file_name%`, // Destination path in the repository
+    translation: `/src/locales/%two_letters_code%/messages.po`, // Path to the translation files
+  },
+];
 
 const crowdinContent = yaml.stringify(
   {

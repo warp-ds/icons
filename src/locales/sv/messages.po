@@ -15,6 +15,7 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: sv\n"
 "X-Crowdin-File-ID: 23450\n"
+"PO-Revision-Date: \n"
 
 #. Title for bank icon
 #. js-lingui-explicit-id
@@ -109,13 +110,13 @@ msgstr "Automatlåda"
 #. Title for AutovexDark icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:286
-msgid "icon.title.autovexdark"
+msgid "icon.title.autovex-dark"
 msgstr "AutovexDark-logga"
 
 #. Title for AutovexLight icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:285
-msgid "icon.title.autovexlight"
+msgid "icon.title.autovex-light"
 msgstr "AutovexLight-logga"
 
 #. Title for award medal icon
@@ -307,7 +308,7 @@ msgstr "Bilnyckel"
 #. Title for CarPart icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:246
-msgid "icon.title.carpart"
+msgid "icon.title.car-part"
 msgstr "Bildel"
 
 #. Title for paw icon
@@ -733,7 +734,7 @@ msgstr "Grupp av användare"
 #. Title for GuitarBat icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:173
-msgid "icon.title.guitarbat"
+msgid "icon.title.guitar-bat"
 msgstr "Gitarr med basebollträ"
 
 #. Title for star half icon
@@ -799,13 +800,13 @@ msgstr "Betonad vertikal rektangel med två rektanglar i bakgrunden"
 #. Title for HonkLight icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:166
-msgid "icon.title.honklight"
+msgid "icon.title.honk-light"
 msgstr "Honk"
 
 #. Title for HonkDark icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:167
-msgid "icon.title.honkdark"
+msgid "icon.title.honk-dark"
 msgstr "Honk"
 
 #. Title for hotel icon
@@ -853,7 +854,7 @@ msgstr "Hus med värmevågor"
 #. Title for IceSkater icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:158
-msgid "icon.title.iceskater"
+msgid "icon.title.ice-skater"
 msgstr "Skridskoåkare"
 
 #. Title for image icon
@@ -1015,13 +1016,13 @@ msgstr "Minus"
 #. Title for MittAnbudLight icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:127
-msgid "icon.title.mittanbudlight"
+msgid "icon.title.mitt-anbud-light"
 msgstr "MittAnbud"
 
 #. Title for MittAnbudDark icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:128
-msgid "icon.title.mittanbuddark"
+msgid "icon.title.mitt-anbud-dark"
 msgstr "MittAnbud"
 
 #. Title for house modern icon
@@ -1051,13 +1052,13 @@ msgstr "Muspekare över en cirkel"
 #. Title for NettbilLight icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:121
-msgid "icon.title.nettbillight"
+msgid "icon.title.nettbil-light"
 msgstr "Nettbil"
 
 #. Title for NettbilDark icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:122
-msgid "icon.title.nettbildark"
+msgid "icon.title.nettbil-dark"
 msgstr "Nettbil"
 
 #. Title for smiley neutral icon
@@ -1081,13 +1082,13 @@ msgstr "Skrivbord med en datorskärm"
 #. Title for OikotieLight icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:115
-msgid "icon.title.oikotielight"
+msgid "icon.title.oikotie-light"
 msgstr "Oikotie"
 
 #. Title for OikotieDark icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:116
-msgid "icon.title.oikotiedark"
+msgid "icon.title.oikotie-dark"
 msgstr "Oikotie"
 
 #. Title for eye-on icon
@@ -1201,13 +1202,13 @@ msgstr "Rektangel-, ellips-, diamant- och triangelformer"
 #. Title for RemppatoriLight icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:83
-msgid "icon.title.remppatorilight"
+msgid "icon.title.remppatori-light"
 msgstr "RemppaTori"
 
 #. Title for RemppatoriDark icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:84
-msgid "icon.title.remppatoridark"
+msgid "icon.title.remppatori-dark"
 msgstr "RemppaTori"
 
 #. Title for warranty icon
@@ -1369,7 +1370,7 @@ msgstr "Liten luftkylare"
 #. Title for smartphone icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:61
-msgid "icon.title.smartphone"
+msgid "icon.title.smart-phone"
 msgstr "Smartphone"
 
 #. Title for phone icon
@@ -1483,7 +1484,7 @@ msgstr "Stjärna med betonad bock"
 #. Title for StoreFront icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:45
-msgid "icon.title.storefront"
+msgid "icon.title.store-front"
 msgstr "Butiksbyggnad"
 
 #. Title for store icon
@@ -1815,4 +1816,3 @@ msgstr "Kvinna med flätor"
 #: scripts/temp/icon-translations.js:3
 msgid "icon.title.youtube"
 msgstr "YouTube-logotyp"
-
