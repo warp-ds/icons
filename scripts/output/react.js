@@ -12,7 +12,7 @@ mkdirSync(basepath, { recursive: true });
 const invalidIconSizes = [];
 
 const svgs = getSVGs();
-const messages = await buildMessages(svgs);
+const messages = await buildMessages(svgs, defaultIconDescriptions);
 
 // Create React Icon
 svgs.forEach(({ svg, filename, exportName, name }) => {

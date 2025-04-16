@@ -11,7 +11,7 @@ const basepath = joinPath(__dirname, "../../vue/");
 mkdirSync(basepath, { recursive: true });
 
 const svgs = getSVGs();
-const messages = await buildMessages(svgs);
+const messages = await buildMessages(svgs, defaultIconDescriptions);
 
 // Create Vue Icon
 svgs.forEach(({ svg, filename, exportName, name }) => {

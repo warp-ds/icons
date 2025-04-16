@@ -1,10 +1,12 @@
 import { join as joinPath, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 
-export async function buildMessages(svgs) {
+export async function buildMessages(svgs, defaultIconDescriptions) {
   let msgs = {};
   const __dirname = dirname(fileURLToPath(import.meta.url));
   for (const s of svgs) {
+      const iconNameCamelCase = s.exportName.replace("Icon", "").replace(/\d+/g, "");
+      const titleMessage = defaultIconDescriptions[iconNameCamelCase.toLowerCase()];
     try {
       const [nb, en, fi, da, sv] = (
         await Promise.all([
@@ -18,11 +20,11 @@ export async function buildMessages(svgs) {
 
       const iconTitle = `icon.title.${s.name}`;
       msgs[s.name] = {
-        nb: { [iconTitle]: nb[`icon.title.${s.name}`] },
-        en: { [iconTitle]: en[`icon.title.${s.name}`] },
-        fi: { [iconTitle]: fi[`icon.title.${s.name}`] },
-        da: { [iconTitle]: da[`icon.title.${s.name}`] },
-        sv: { [iconTitle]: sv[`icon.title.${s.name}`] },
+        nb: { [titleMessage.id]: nb[`${titleMessage.id}`] },
+        en: { [titleMessage.id]: en[`${titleMessage.id}`] },
+        fi: { [titleMessage.id]: fi[`${titleMessage.id}`] },
+        da: { [titleMessage.id]: da[`${titleMessage.id}`] },
+        sv: { [titleMessage.id]: sv[`${titleMessage.id}`] },
       };
     } catch (err) {
       console.error(err);
