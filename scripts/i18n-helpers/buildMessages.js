@@ -18,13 +18,12 @@ export async function buildMessages(svgs, defaultIconDescriptions) {
         ])
       ).map((e) => e.messages);
 
-      const iconTitle = `icon.title.${s.name}`;
       msgs[s.name] = {
-        nb: { [titleMessage.id]: nb[`${titleMessage.id}`] },
-        en: { [titleMessage.id]: en[`${titleMessage.id}`] },
-        fi: { [titleMessage.id]: fi[`${titleMessage.id}`] },
-        da: { [titleMessage.id]: da[`${titleMessage.id}`] },
-        sv: { [titleMessage.id]: sv[`${titleMessage.id}`] },
+        nb: { [titleMessage.id]: nb[titleMessage.id] },
+        en: { [titleMessage.id]: en[titleMessage.id] },
+        fi: { [titleMessage.id]: fi[titleMessage.id] },
+        da: { [titleMessage.id]: da[titleMessage.id] },
+        sv: { [titleMessage.id]: sv[titleMessage.id] },
       };
     } catch (err) {
       console.error(err);
