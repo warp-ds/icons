@@ -731,7 +731,7 @@ msgstr "Group of users"
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:173
 msgid "icon.title.guitarbat"
-msgstr "Guiter with a bat"
+msgstr "Guitar with a bat"
 
 #. Title for star half icon
 #. js-lingui-explicit-id

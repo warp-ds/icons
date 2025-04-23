@@ -1065,7 +1065,7 @@ export default {
     comment: "Title for guitar icon"
   },
   guitarbat: {
-    message: "Guiter with a bat",
+    message: "Guitar with a bat",
     id: "icon.title.guitarbat",
     comment: "Title for GuitarBat icon"
   },
