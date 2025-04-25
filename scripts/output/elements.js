@@ -11,7 +11,7 @@ const basepath = joinPath(__dirname, "../../elements/");
 mkdirSync(basepath, { recursive: true });
 
 const svgs = getSVGs();
-const messages = await buildMessages(svgs);
+const messages = await buildMessages(svgs, defaultIconDescriptions);
 
 // Create Elements Icon
 svgs.forEach(({ svg, name, size, filename, exportName }) => {

@@ -5,11 +5,6 @@ import chalk from "chalk";
 const files = glob.sync("vue/*.js");
 
 files.forEach(async (filePath) => {
-  console.log(
-    `${chalk.cyan("vue")}: Building vue icon ${chalk.yellow(
-      filePath
-    )} `
-  );
   try {
     await esbuild.build({
       entryPoints: [filePath],

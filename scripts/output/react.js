@@ -12,7 +12,7 @@ mkdirSync(basepath, { recursive: true });
 const invalidIconSizes = [];
 
 const svgs = getSVGs();
-const messages = await buildMessages(svgs);
+const messages = await buildMessages(svgs, defaultIconDescriptions);
 
 // Create React Icon
 svgs.forEach(({ svg, filename, exportName, name }) => {
@@ -33,11 +33,7 @@ svgs.forEach(({ svg, filename, exportName, name }) => {
     `activateI18n(msgs.en, msgs.nb, msgs.fi, msgs.da, msgs.sv);`,
     `const title = i18n.t({ message: \`${message}\`, id: '${id}', comment: '${comment}' });`,
     `/** @param {React.SVGProps<SVGSVGElement>} attrs */`,
-    `export const ${exportName} = (attrs) => React.createElement('svg', { ${attrs.join(
-      ", "
-    )}, dangerouslySetInnerHTML: { __html: ${"`"}${titleHtml}${
-      svg.html
-    }${"`"} }, ...attrs, });`,
+    `export const ${exportName} = (attrs) => React.createElement('svg', { ${attrs.join(", ")}, dangerouslySetInnerHTML: { __html: ${"`"}${titleHtml}${svg.html}${"`"} }, ...attrs, });`,
     `export default ${exportName};`,
   ].join("\n");
 

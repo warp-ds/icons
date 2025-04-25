@@ -15,6 +15,7 @@ msgstr ""
 "X-Crowdin-Project-ID: 141\n"
 "X-Crowdin-Language: fi\n"
 "X-Crowdin-File-ID: 23450\n"
+"PO-Revision-Date: \n"
 
 #. Title for bank icon
 #. js-lingui-explicit-id
@@ -1815,4 +1816,3 @@ msgstr "Nainen, jolla on saparot"
 #: scripts/temp/icon-translations.js:3
 msgid "icon.title.youtube"
 msgstr "YouTuben logo"
-
