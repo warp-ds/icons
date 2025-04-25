@@ -1,3 +1,10 @@
+# [2.7.0](https://github.com/warp-ds/icons/compare/v2.6.0...v2.7.0) (2025-04-25)
+
+
+### Features
+
+* refactor buildMessages to correctly match the default-icon-descriptions id ([#172](https://github.com/warp-ds/icons/issues/172)) ([16b417f](https://github.com/warp-ds/icons/commit/16b417feed6cf462a34154ac70c446216f4bd823))
+
 # [2.7.0-next.1](https://github.com/warp-ds/icons/compare/v2.6.0...v2.7.0-next.1) (2025-04-23)
 
 
