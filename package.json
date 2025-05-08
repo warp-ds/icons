@@ -63,7 +63,7 @@
     "@semantic-release/changelog": "6.0.3",
     "@semantic-release/git": "10.0.1",
     "@sindresorhus/slugify": "2.2.1",
-    "@types/node": "20.14.10",
+    "@types/node": "22.15.17",
     "@types/react": "19.1.0",
     "@warp-ds/uno": "2.1.0",
     "camelcase": "8.0.0",
