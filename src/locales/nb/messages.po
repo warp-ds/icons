@@ -2,16 +2,19 @@ msgid ""
 msgstr ""
 "POT-Creation-Date: 2025-03-25 11:21+0100\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: @lingui/cli\n"
-"Language: nb\n"
-"Project-Id-Version: \n"
+"Language: nb_NO\n"
+"Project-Id-Version: 2853b3c41d7b7a59e7cd64c0153b540a\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: \n"
 "Last-Translator: \n"
-"Language-Team: \n"
-"Plural-Forms: \n"
+"Language-Team: Norwegian Bokmal\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: 2853b3c41d7b7a59e7cd64c0153b540a\n"
+"X-Crowdin-Project-ID: 141\n"
+"X-Crowdin-Language: nb\n"
+"X-Crowdin-File-ID: 23450\n"
 
 #. Title for bank icon
 #. js-lingui-explicit-id
@@ -47,7 +50,7 @@ msgstr "Et fly som lander"
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:102
 msgid "icon.title.plane-take-off"
-msgstr "Et fly som tar av"
+msgstr "Et fly som letter"
 
 #. Title for agriculture machine icon
 #. js-lingui-explicit-id
@@ -107,13 +110,13 @@ msgstr "Automatisk overføring"
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:286
 msgid "icon.title.autovexdark"
-msgstr "Autovex mørkt ikon"
+msgstr "AutovexDark-logo"
 
 #. Title for AutovexLight icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:285
 msgid "icon.title.autovexlight"
-msgstr "Autovex lyst ikon"
+msgstr "AutovexLight-logo"
 
 #. Title for award medal icon
 #. js-lingui-explicit-id
@@ -251,7 +254,7 @@ msgstr "Kamera"
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:253
 msgid "icon.title.camping"
-msgstr "Camper"
+msgstr "Bobil"
 
 #. Title for van icon
 #. js-lingui-explicit-id
@@ -311,7 +314,7 @@ msgstr "Bildel"
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:111
 msgid "icon.title.paw"
-msgstr "Kattepot"
+msgstr "Kattepote"
 
 #. Title for link icon
 #. js-lingui-explicit-id
@@ -347,7 +350,7 @@ msgstr "Lader"
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:133
 msgid "icon.title.message"
-msgstr "Chatte bobler"
+msgstr "Chattebobler"
 
 #. Title for checklist icon
 #. js-lingui-explicit-id
@@ -653,7 +656,7 @@ msgstr "Gulvlampe"
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:126
 msgid "icon.title.mixer"
-msgstr "Kjøkkenmaskin"
+msgstr "Matmikser"
 
 #. Title for football icon
 #. js-lingui-explicit-id
@@ -797,13 +800,13 @@ msgstr "Uthevet vertikalt rektangel med to rektangler i bakgrunn"
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:166
 msgid "icon.title.honklight"
-msgstr "Honk lyst ikon"
+msgstr "Honk"
 
 #. Title for HonkDark icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:167
 msgid "icon.title.honkdark"
-msgstr "Honk mørkt ikon"
+msgstr "Honk"
 
 #. Title for hotel icon
 #. js-lingui-explicit-id
@@ -1013,13 +1016,13 @@ msgstr "Minus"
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:127
 msgid "icon.title.mittanbudlight"
-msgstr "Mittanbud lyst ikon"
+msgstr "Mittanbud"
 
 #. Title for MittAnbudDark icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:128
 msgid "icon.title.mittanbuddark"
-msgstr "MittAnbud mørkt ikon"
+msgstr "Mittanbud"
 
 #. Title for house modern icon
 #. js-lingui-explicit-id
@@ -1049,7 +1052,7 @@ msgstr "Musepeker over en sirkel"
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:121
 msgid "icon.title.nettbillight"
-msgstr "Nettbil"
+msgstr "Nettbil mørkt ikon"
 
 #. Title for NettbilDark icon
 #. js-lingui-explicit-id
@@ -1199,13 +1202,13 @@ msgstr "Rektangel-, ellipse-, diamant- og trekantformer"
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:83
 msgid "icon.title.remppatorilight"
-msgstr "Remppatori lyst ikon"
+msgstr "RemppaTori"
 
 #. Title for RemppatoriDark icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:84
 msgid "icon.title.remppatoridark"
-msgstr "Remppatori mørkt ikon"
+msgstr "RemppaTori"
 
 #. Title for warranty icon
 #. js-lingui-explicit-id
@@ -1277,7 +1280,7 @@ msgstr "Trist ansikt"
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:77
 msgid "icon.title.sailing"
-msgstr "Seilebåt på vannet"
+msgstr "Seilbåt på vannet"
 
 #. Title for seat icon
 #. js-lingui-explicit-id
@@ -1301,13 +1304,13 @@ msgstr "Ark med bilde og overskrift"
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:302
 msgid "icon.title.active-ads"
-msgstr "Ark med bilde og overskrift med uthevet sjekkmerke"
+msgstr "Ark med bilde og overskrift med uthevet hakemerke"
 
 #. Title for new ad icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:120
 msgid "icon.title.new-ad"
-msgstr "Ark med bilde, overskrift og et uthevet pluss tegn"
+msgstr "Ark med bilde, overskrift og et uthevet plusstegn"
 
 #. Title for verification icon
 #. js-lingui-explicit-id
@@ -1385,13 +1388,13 @@ msgstr "Smarttelefon med et sjekkmerke"
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:107
 msgid "icon.title.phone-used"
-msgstr "Smarttelefon med tre riper i skjermen"
+msgstr "Smarttelefon med tre riper på skjermen"
 
 #. Title for phone scratched icon
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:108
 msgid "icon.title.phone-scratched"
-msgstr "Smarttelefon med tre riper i skjermen"
+msgstr "Smarttelefon med tre riper på skjermen"
 
 #. Title for sofa icon
 #. js-lingui-explicit-id
@@ -1487,7 +1490,7 @@ msgstr "Butikkbygning"
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:46
 msgid "icon.title.store"
-msgstr "Butikk bygning"
+msgstr "Butikkbygning"
 
 #. Title for stove icon
 #. js-lingui-explicit-id
@@ -1637,7 +1640,7 @@ msgstr "To piler som danner en sirkel"
 #. js-lingui-explicit-id
 #: scripts/temp/icon-translations.js:78
 msgid "icon.title.sailboat"
-msgstr "To fugler og en seilebåt på vannet"
+msgstr "To fugler og en seilbåt på vannet"
 
 #. Title for dating icon
 #. js-lingui-explicit-id
@@ -1812,3 +1815,4 @@ msgstr "Kvinne med fletter"
 #: scripts/temp/icon-translations.js:3
 msgid "icon.title.youtube"
 msgstr "YouTube logo"
+
