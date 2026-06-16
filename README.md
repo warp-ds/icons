@@ -1,19 +1,55 @@
-# WARP icons
+# Deprecated
+
+:warning: **Heads up!** This repository is replaced by the `<w-icon>` component from [@warp-ds/elements](https://warp-ds.github.io/docs/components/icons/frameworks/elements). To migrate, replace imports from `@warp-ds/icons` with the `<w-icon>` component.
+
+For example, say you import `IconBag16` from `@warp-ds/icons/react`. To use `<w-icon>` instead, remove the import of `@warp-ds/icons/react` and add this markup to your React code instead:
+
+```diff
+- import { IconBag16 } from '@warp-ds/icons/react';
++ import "@warp-ds/elements"; // optional, @warp-ds/elements components are globally available on Aurora
+
+export const MyComponent = () => {
+	return (
+		<>
+-    <IconBag16 />
++    <w-icon name="Bag" size="small"></w-icon>
+    </>
+	);
+};
+```
+
+Similarly for the Elements icons:
+
+```diff
+- import "@warp-ds/icons/elements";
++ import "@warp-ds/elements"; // optional, @warp-ds/elements components are globally available on Aurora
+
+export const render = () => {
+	return `
+-    <w-icon-attachment-16></w-icon-attachment-16>
++    <w-icon name="Attachment" size="small"></w-icon>
+    </>
+	`;
+};
+```
+
+## WARP icons
+
 The icon set for WARP, imported from (Figma project)[https://www.figma.com/file/yEx16ew6S0Xgd579dN4hsM/Warp---Icons?type=design&node-id=150-113&mode=design&t=TRtIuPlsDoYlbuqd-0].
 
 **Note that the icons in the "src/raw" folder in this repository should never be used directly, as they aren't optimized. Also note that Raw icons don't contain title element and hence won't follow accessibility guidelines**
 
-## How to use
+### How to use
 
-### React
+#### React
 
-#### Install dependencies
+##### Install dependencies
 
 ```sh
 pnpm install @warp-ds/icons
 ```
 
-#### Import React icons
+##### Import React icons
 
 ```jsx
 import { IconBag16 } from '@warp-ds/icons/react';
@@ -23,15 +59,15 @@ import { IconBag16 } from '@warp-ds/icons/react';
 <IconBag16 />
 ```
 
-### Vue
+#### Vue
 
-#### Install dependencies
+##### Install dependencies
 
 ```sh
 pnpm install @warp-ds/icons
 ```
 
-#### Import Vue icons
+##### Import Vue icons
 
 ```js
 import { IconChevronRight16 } from '@warp-ds/icons/vue';
@@ -41,9 +77,9 @@ import { IconChevronRight16 } from '@warp-ds/icons/vue';
 <icon-chevron-right-16 />
 ```
 
-### Elements
+#### Elements
 
-#### Install dependencies
+##### Install dependencies
 
 You will need to install both Warp Elements and Lit Element which is the library we use for custom elements
 
@@ -51,7 +87,7 @@ You will need to install both Warp Elements and Lit Element which is the library
 pnpm install lit @warp-ds/icons
 ```
 
-#### Import Elements icons
+##### Import Elements icons
 
 Import elements icons once to use them in the entire app.
 Once imported, run your script through whatever bundling process your app uses (Rollup, Esbuild, etc) after which the component can be used in the page.
@@ -74,9 +110,9 @@ import "@warp-ds/icons/elements/alert-16";
 <w-icon-alert-16></w-icon-alert-16>
 ```
 
-## Development
+### Development
 
-### Install dependencies
+#### Install dependencies
 
 Run the following command to install dependencies:
 
@@ -84,7 +120,7 @@ Run the following command to install dependencies:
 pnpm install
 ```
 
-### Adding new icons
+#### Adding new icons
 
 When adding icons to @warp-ds/icons follow these steps:
 
@@ -102,7 +138,7 @@ arrowleft: {
 pnpm build
 ```
 
-### Local preview
+#### Local preview
 You can open a local preview of the icons. Use this to verify that the icons look as they should. Run the following command:
 
 ```bash
@@ -112,20 +148,20 @@ pnpm dev
 You can also locally test the icons by framework.
 [See guide for local testing here.](https://github.com/warp-ds/notes/blob/main/Testing%20changes%20locally%3A%20example%20using%20icons.md)
 
-### Typescript support
+#### Typescript support
 
 We are bundling types now for all named exports. To make Typescript compiler compliant to these changes you'll need to use `"module": "NodeNext"` in your tsconfig and then all the imports would have types.
 
-## Releases
+### Releases
 
 This project is continuously published to [NPM](https://www.npmjs.com/package/@warp-ds/icons) using a `next` tag (e.g. `1.1.0-next.1`).
 Anyone needing to use the latest changes of this package can point to the `next` version while waiting for the stable release.
 
-## Changelog
+### Changelog
 
 Detailed changes for each release can be found in the [CHANGELOG](CHANGELOG.md) file.
 
 
-## License
+### License
 
 @warp-ds/icons is available under the [Apache-2.0 software license](https://github.com/warp-ds/react/blob/main/LICENSE).
